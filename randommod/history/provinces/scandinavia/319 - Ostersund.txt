@@ -1,0 +1,6 @@
+owner = FEN
+controller = FEN
+add_core = FEN
+trade_goods = iron
+terrain = montane_tundra
+life_rating = 20

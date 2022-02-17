@@ -1,0 +1,6 @@
+owner = ELB
+controller = ELB
+add_core = ELB
+trade_goods = coal
+life_rating = 40
+terrain = leipzig

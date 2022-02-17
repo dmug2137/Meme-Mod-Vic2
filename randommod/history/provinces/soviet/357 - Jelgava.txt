@@ -1,0 +1,5 @@
+owner = FEN
+controller = FEN
+add_core = FEN
+trade_goods = cattle
+life_rating = 35

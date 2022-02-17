@@ -1,0 +1,7 @@
+owner = MGH
+controller = MGH
+add_core = MGH
+trade_goods = fish
+terrain = semidesert
+life_rating = 10
+colonial = 2

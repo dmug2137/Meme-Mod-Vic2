@@ -1,0 +1,7 @@
+owner = FEN
+controller = FEN
+add_core = FEN
+add_core = ICL
+trade_goods = fish
+life_rating = 32
+colonial = 2

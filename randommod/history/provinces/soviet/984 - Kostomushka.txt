@@ -1,0 +1,6 @@
+owner = FEN
+controller = FEN
+add_core = FEN
+trade_goods = timber
+terrain = boreal
+life_rating = 10

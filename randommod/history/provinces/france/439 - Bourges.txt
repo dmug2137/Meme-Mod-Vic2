@@ -1,0 +1,5 @@
+owner = BOU
+controller = BOU
+add_core = BOU
+trade_goods = timber
+life_rating = 30

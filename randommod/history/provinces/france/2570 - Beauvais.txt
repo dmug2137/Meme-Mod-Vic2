@@ -1,0 +1,5 @@
+owner = PIC
+controller = PIC
+add_core = PIC
+trade_goods = grain
+life_rating = 30

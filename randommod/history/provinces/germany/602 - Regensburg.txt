@@ -1,0 +1,5 @@
+owner = DAN
+controller = DAN
+add_core = DAN
+trade_goods = coal
+life_rating = 40

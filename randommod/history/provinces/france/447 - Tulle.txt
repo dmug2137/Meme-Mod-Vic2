@@ -1,0 +1,5 @@
+owner = TUL
+controller = TUL
+add_core = TUL
+trade_goods = fruit
+life_rating = 30

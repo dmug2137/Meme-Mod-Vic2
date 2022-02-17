@@ -1,0 +1,6 @@
+owner = NSE
+controller = NSE
+add_core = NSE
+trade_goods = fish
+terrain = montane_tundra
+life_rating = 20

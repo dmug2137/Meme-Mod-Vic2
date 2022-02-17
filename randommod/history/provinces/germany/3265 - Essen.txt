@@ -1,0 +1,6 @@
+owner = RHI
+controller = RHI
+add_core = RHI
+trade_goods = iron
+life_rating = 40
+terrain = essen

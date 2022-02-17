@@ -1,0 +1,5 @@
+owner = FEN
+controller = FEN
+add_core = FEN
+trade_goods = iron
+life_rating = 10

@@ -1,0 +1,6 @@
+owner = ELB
+controller = ELB
+add_core = ELB
+trade_goods = grain
+life_rating = 40
+1861.1.1 = { railroad = 3 }

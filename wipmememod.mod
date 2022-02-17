@@ -1,0 +1,5 @@
+name = "meme mod"
+path = "mod/randommod"
+user_dir = "randommod"
+#replace_path = "events"
+#replace_path = "decisions"

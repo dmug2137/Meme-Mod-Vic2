@@ -1,0 +1,5 @@
+owner = ARL
+controller = ARL
+add_core = ARL
+trade_goods = cattle
+life_rating = 30

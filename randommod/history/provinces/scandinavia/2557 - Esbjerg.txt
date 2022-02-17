@@ -1,0 +1,5 @@
+owner = NSE
+controller = NSE
+add_core = NSE
+trade_goods = fruit
+life_rating = 35

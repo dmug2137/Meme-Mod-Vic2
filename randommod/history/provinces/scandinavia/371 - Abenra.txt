@@ -1,0 +1,8 @@
+owner = NSE
+controller = NSE
+add_core = NSE
+add_core = DEN
+add_core = SCH
+add_core = GER
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,186 @@
+vassal = {
+    first = ARL
+    second = CLE
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = CAR
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = TOU
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = FOI
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = BOR
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = MNT
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = TUL
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = CAH
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = MOU
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = CTE
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = AGO
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = LMO
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = BOU
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = ANG
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = POI
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = BLO
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = NOR
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = FRA
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = CHA
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = PIC
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = SVY
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = LOM
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = TST
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = BRT
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = GEN
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = TUS
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = RMG
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = ANC
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = PAP
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = BRE
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = BUL
+    second = ROM
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}

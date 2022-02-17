@@ -1,0 +1,280 @@
+#Tallinn/Reval
+349 = {
+	aristocrats = {
+		culture = estonian
+		religion = catholic
+		size = 800
+	}
+	
+	officers = {
+		culture = estonian
+		religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = estonian
+		religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = estonian
+		religion = catholic
+		size = 7100
+	}
+
+	soldiers = {
+		culture = estonian
+		religion = catholic
+		size = 2300
+	}
+
+	farmers = {
+		culture = estonian
+		religion = catholic
+		size = 65500
+	}
+
+	aristocrats = {
+		culture = fennoscandian
+		religion = catholic
+		size = 1200
+	}
+	
+	officers = {
+		culture = fennoscandian
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = fennoscandian
+		religion = catholic
+		size = 1200
+	}
+
+	artisans = {
+		culture = fennoscandian
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = fennoscandian
+		religion = catholic
+		size = 1050
+	}
+
+	farmers = {
+		culture = fennoscandian
+		religion = catholic
+		size = 18000
+	}
+}
+#Narva
+350 = {
+	clergymen = {
+		culture = estonian
+		religion = catholic
+		size = 500
+	}
+
+	artisans = {
+		culture = estonian
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = estonian
+		religion = catholic
+		size = 1950
+	}
+
+	farmers = {
+		culture = estonian
+		religion = catholic
+		size = 55000
+	}
+
+	artisans = {
+		culture = fennoscandian
+		religion = catholic
+		size = 5000
+	}
+}
+#Parnu
+351 = {
+	clergymen = {
+		culture = estonian
+		religion = catholic
+		size = 500
+	}
+
+	artisans = {
+		culture = estonian
+		religion = catholic
+		size = 750
+	}
+
+	soldiers = {
+		culture = estonian
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = estonian
+		religion = catholic
+		size = 37000
+	}
+
+	clergymen = {
+		culture = latvian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = latvian
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = latvian
+		religion = catholic
+		size = 4300
+	}
+}
+#Tartu/Dorpat (156000/39000 POPS)  
+352 = {
+	clergymen = {
+		culture = estonian
+		religion = catholic
+		size = 1200
+	}
+
+	artisans = {
+		culture = estonian
+		religion = catholic
+		size = 3900
+	}
+
+	soldiers = {
+		culture = estonian
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = estonian
+		religion = catholic
+		size = 62000
+	}
+
+	clergymen = {
+		culture = latvian
+		religion = catholic
+		size = 1100
+	}
+
+	artisans = {
+		culture = latvian
+		religion = catholic
+		size = 960
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = catholic
+		size = 670
+	}
+
+	farmers = {
+		culture = latvian
+		religion = catholic
+		size = 10200
+	}
+
+	clergymen = {
+		culture = fennoscandian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = fennoscandian
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = fennoscandian
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = latvian
+		religion = catholic
+		size = 2500
+	}
+}
+#Kuressaare
+353 = {
+	clergymen = {
+		culture = estonian
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = estonian
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = estonian
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = estonian
+		religion = catholic
+		size = 11050
+	}
+
+	clergymen = {
+		culture = fennoscandian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = fennoscandian
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = fennoscandian
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = fennoscandian
+		religion = catholic
+		size = 7000
+	}
+}

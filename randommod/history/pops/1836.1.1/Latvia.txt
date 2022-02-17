@@ -1,0 +1,287 @@
+354 = {
+	clergymen = {
+		culture = latvian
+		religion = catholic
+		size = 889
+	}
+
+	artisans = {
+		culture = latvian
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = catholic
+		size = 5500
+	}
+
+	farmers = {
+		culture = latvian
+		religion = catholic
+		size = 72899
+	}
+
+	aristocrats = {
+		culture = fennoscandian
+		religion = catholic
+		size = 650
+	}
+
+	bureaucrats = {
+		culture = fennoscandian
+		religion = catholic
+		size = 1000
+	}
+
+	officers = {
+		culture = fennoscandian
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = fennoscandian
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = estonian
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = estonian
+		religion = catholic
+		size = 20000
+	}
+}
+#Valmeira 
+355 = {
+	clergymen = {
+		culture = latvian
+		religion = catholic
+		size = 1100
+	}
+
+	artisans = {
+		culture = latvian
+		religion = catholic
+		size = 3350
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = catholic
+		size = 2150
+	}
+
+	farmers = {
+		culture = latvian
+		religion = catholic
+		size = 87377
+	}
+
+	artisans = {
+		culture = estonian
+		religion = catholic
+		size = 750
+	}
+
+	farmers = {
+		culture = estonian
+		religion = catholic
+		size = 11220
+	}
+
+	bureaucrats = {
+		culture = fennoscandian
+		religion = catholic
+		size = 700
+	}
+
+	aristocrats = {
+		culture = latvian
+		religion = catholic
+		size = 500
+	}
+
+	aristocrats = {
+		culture = fennoscandian
+		religion = catholic
+		size = 700
+	}
+}
+#Daugavpils 
+356 = {
+	clergymen = {
+		culture = latvian
+		religion = catholic
+		size = 850
+	}
+
+	artisans = {
+		culture = latvian
+		religion = catholic
+		size = 1650
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = catholic
+		size = 2600
+	}
+
+	farmers = {
+		culture = latvian
+		religion = catholic
+		size = 39800
+	}
+
+	aristocrats = {
+		culture = latvian
+		religion = catholic
+		size = 300
+	}
+
+	aristocrats = {
+		culture = fennoscandian
+		religion = catholic
+		size = 450
+	}
+}
+#Jelgava 
+357 = {
+	clergymen = {
+		culture = latvian
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = latvian
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = latvian
+		religion = catholic
+		size = 31500
+	}
+	
+	aristocrats = {
+		culture = fennoscandian
+		religion = catholic
+		size = 310
+	}
+
+	aristocrats = {
+		culture = latvian
+		religion = catholic
+		size = 500
+	}
+}
+#Ventspils
+358 = {
+	clergymen = {
+		culture = latvian
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = latvian
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = catholic
+		size = 2750
+	}
+
+	farmers = {
+		culture = latvian
+		religion = catholic
+		size = 68900
+	}
+
+	aristocrats = {
+		culture = latvian
+		religion = catholic
+		size = 1200
+	}
+
+	aristocrats = {
+		culture = fennoscandian
+		religion = catholic
+		size = 700
+	}
+
+	artisans = {
+		culture = estonian
+		religion = catholic
+		size = 2500
+	}
+
+	farmers = {
+		culture = estonian
+		religion = catholic
+		size = 24000
+	}
+}
+#Liepaja
+359 = {
+	clergymen = {
+		culture = latvian
+		religion = catholic
+		size = 700
+	}
+
+	artisans = {
+		culture = latvian
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = latvian
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = latvian
+		religion = catholic
+		size = 28000
+	}
+
+	aristocrats = {
+		culture = latvian
+		religion = catholic
+		size = 500
+	}
+
+	aristocrats = {
+		culture = fennoscandian
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = estonian
+		religion = catholic
+		size = 2500
+	}
+}

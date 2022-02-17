@@ -1,0 +1,8 @@
+owner = FEN
+controller = FEN
+add_core = FEN
+trade_goods = grain
+life_rating = 40
+terrain = reval
+fort = 1
+naval_base = 2

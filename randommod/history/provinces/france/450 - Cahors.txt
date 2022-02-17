@@ -1,0 +1,5 @@
+owner = CAH
+controller = CAH
+add_core = CAH
+trade_goods = timber
+life_rating = 30
