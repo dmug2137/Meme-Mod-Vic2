@@ -583,44 +583,20 @@
 329 = {
 	aristocrats = {
 		culture = nordlander
-		religion = catholic
+		religion = protestant
 		size = 250
 	}
 
 	bureaucrats = {
 		culture = nordlander
-		religion = catholic
+		religion = protestant
 		size = 650
 	}
 
 	officers = {
 		culture = nordlander
-		religion = catholic
+		religion = protestant
 		size = 250
-	}
-
-	clergymen = {
-		culture = nordlander
-		religion = catholic
-		size = 250
-	}
-
-	artisans = {
-		culture = nordlander
-		religion = catholic
-		size = 5000
-	}
-
-	soldiers = {
-		culture = nordlander
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = nordlander
-		religion = catholic
-		size = 33750
 	}
 
 	clergymen = {
@@ -632,19 +608,37 @@
 	artisans = {
 		culture = nordlander
 		religion = protestant
-		size = 2000
+		size = 3000
 	}
 
 	soldiers = {
 		culture = nordlander
 		religion = protestant
-		size = 500
+		size = 1800
 	}
 
 	farmers = {
 		culture = nordlander
 		religion = protestant
-		size = 10000
+		size = 22000
+	}
+
+	artisans = {
+		culture = danelander
+		religion = protestant
+		size = 2500
+	}
+
+	clergymen = {
+		culture = danelander
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = danelander
+		religion = protestant
+		size = 20000
 	}
 }
 #Boras (220000/55000 POPS)
@@ -875,118 +869,94 @@
 334 = {
 	aristocrats = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = danelander
+		culture = fennoscandian
 		religion = catholic
-		size = 800
+		size = 300
 	}
 
 	clergymen = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 375
 	}
 
 	artisans = {
 		culture = danelander
-		religion = catholic
-		size = 3150
+		religion = protestant
+		size = 4500
 	}
 
 	soldiers = {
 		culture = danelander
-		religion = catholic
-		size = 2500
+		religion = protestant
+		size = 2800
 	}
 
 	farmers = {
 		culture = danelander
-		religion = catholic
-		size = 49125
-	}
-
-	clergymen = {
-		culture = danelander
 		religion = protestant
-		size = 150
+		size = 48000
 	}
 
 	artisans = {
-		culture = danelander
-		religion = protestant
-		size = 2000
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = protestant
-		size = 1200
+		culture = fennoscandian
+		religion = catholic
+		size = 500
 	}
 
 	farmers = {
-		culture = danelander
-		religion = protestant
-		size = 25000
+		culture = fennoscandian
+		religion = catholic
+		size = 5500
 	}
 }
 #Karlskrona (259000/64750 POPS)
 335 = {
 	aristocrats = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 625
 	}
 
 	clergymen = {
 		culture = danelander
-		religion = catholic
-		size = 375
-	}
-
-	artisans = {
-		culture = danelander
-		religion = catholic
-		size = 3125
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = catholic
-		size = 2500
-	}
-
-	farmers = {
-		culture = danelander
-		religion = catholic
-		size = 40625
-	}
-
-	clergymen = {
-		culture = danelander
 		religion = protestant
-		size = 250
+		size = 350
 	}
 
 	artisans = {
 		culture = danelander
 		religion = protestant
-		size = 2500
+		size = 4500
 	}
 
 	soldiers = {
 		culture = danelander
 		religion = protestant
-		size = 1300
+		size = 2300
 	}
 
 	farmers = {
 		culture = danelander
 		religion = protestant
-		size = 18000
+		size = 58000
+	}
+
+	artisans = {
+		culture = fennoscandian
+		religion = catholic
+		size = 750
+	}
+
+	farmers = {
+		culture = fennoscandian
+		religion = catholic
+		size = 8500
 	}
 
 }

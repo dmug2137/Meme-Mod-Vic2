@@ -1,5 +1,5 @@
-owner = CAR
-controller = CAR
-add_core = CAR
+owner = ARL
+controller = ARL
+add_core = ARL
 trade_goods = grain
 life_rating = 30

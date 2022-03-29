@@ -6,12 +6,6 @@ vassal = {
 }
 vassal = {
     first = ARL
-    second = CAR
-    start_date = 1815.1.1
-    end_date = 1936.1.1
-}
-vassal = {
-    first = ARL
     second = TOU
     start_date = 1815.1.1
     end_date = 1936.1.1
@@ -25,12 +19,6 @@ vassal = {
 vassal = {
     first = ARL
     second = BOR
-    start_date = 1815.1.1
-    end_date = 1936.1.1
-}
-vassal = {
-    first = ARL
-    second = MNT
     start_date = 1815.1.1
     end_date = 1936.1.1
 }
@@ -67,12 +55,6 @@ vassal = {
 vassal = {
     first = ARL
     second = LMO
-    start_date = 1815.1.1
-    end_date = 1936.1.1
-}
-vassal = {
-    first = ARL
-    second = BOU
     start_date = 1815.1.1
     end_date = 1936.1.1
 }
@@ -168,12 +150,6 @@ vassal = {
 }
 vassal = {
     first = ARL
-    second = PAP
-    start_date = 1815.1.1
-    end_date = 1936.1.1
-}
-vassal = {
-    first = ARL
     second = BRE
     start_date = 1815.1.1
     end_date = 1936.1.1
@@ -181,6 +157,12 @@ vassal = {
 vassal = {
     first = BUL
     second = ROM
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = SLV
+    second = WEN
     start_date = 1815.1.1
     end_date = 1936.1.1
 }

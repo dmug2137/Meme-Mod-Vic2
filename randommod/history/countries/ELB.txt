@@ -2,7 +2,7 @@
 
 #========================= H E A D E R =========================
 
-capital = 553
+capital = 546
 primary_culture = north_german
 religion = protestant
 government = democracy

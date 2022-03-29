@@ -299,178 +299,47 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
 	clergymen = {
-		culture = ukrainian
-		religion = orthodox
-		size = 850  
-	}
-
-	artisans = {
-		culture = ukrainian
-		religion = orthodox
-		size = 4600 
-	}
-
-	soldiers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 900
-	}
-
-	serfs = {
-		culture = ukrainian
-		religion = orthodox
-		size = 85650  
-	}
-
-	clergymen = {
 		culture = slovak
 		religion = catholic
-		size = 150 
+		size = 450 
 	}
 
 	artisans = {
 		culture = slovak
 		religion = catholic
-		size = 850
+		size = 28500
 	}
 
 	soldiers = {
 		culture = slovak
 		religion = catholic
-		size = 175
+		size = 3750
 	}
 
 	farmers = {
 		culture = slovak
 		religion = catholic
-		size = 15825
-	}
-
-	aristocrats = {
-		culture = hungarian
-		religion = catholic
-		size = 4250  
-	}
-
-	clergymen = {
-		culture = hungarian
-		religion = catholic
-		size = 425  
-	}
-
-	artisans = {
-		culture = hungarian
-		religion = catholic
-		size = 2150 
-	}
-
-	soldiers = {
-		culture = hungarian
-		religion = catholic
-		size = 450
+		size = 140000
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = polish
 		religion = catholic
-		size = 35725  
-	}
-
-	clergymen = {
-		culture = hungarian
-		religion = protestant
-		size = 400  
-	}
-
-	artisans = {
-		culture = hungarian
-		religion = protestant
-		size = 2250 
-	}
-
-	soldiers = {
-		culture = hungarian
-		religion = protestant
-		size = 400
-	}
-
-	farmers = {
-		culture = hungarian
-		religion = protestant
-		size =  38950   
+		size = 2000 
 	}
 
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 75  
+		size = 140  
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 800 
+		size = 1300 
 	}
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 50
-	}
-
-	farmers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 3075    
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = catholic
-		size = 25  
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 75 
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 875  
-	}
-
-	clergymen = {
-		culture = romanian
-		religion = orthodox
-		size = 125  
-	}
-
-	artisans = {
-		culture = romanian
-		religion = orthodox
-		size = 750 
-	}
-
-	soldiers = {
-		culture = romanian
-		religion = orthodox
-		size = 150
-	}
-
-	farmers = {
-		culture = romanian
-		religion = orthodox
-		size = 13975
-	}
 }
 #Galicia Region (2576000) #see Poland.txt for balance of region 
 #under the rule of Austria in 1836
@@ -1741,6 +1610,30 @@
 	}
 
 	clergymen = {
+		culture = ruthenian
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = ruthenian
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = ruthenian
+		religion = sunni
+		size = 1500
+	}
+
+	farmers = {
+		culture = ruthenian
+		religion = sunni
+		size = 11000
+	}
+
+	clergymen = {
 		culture = ashkenazi
 		religion = jewish
 		size = 100
@@ -1836,6 +1729,30 @@
 		culture = ruthenian
 		religion = orthodox
 		size = 11000
+	}
+
+	clergymen = {
+		culture = ruthenian
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = ruthenian
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = ruthenian
+		religion = sunni
+		size = 2600
+	}
+
+	farmers = {
+		culture = ruthenian
+		religion = sunni
+		size = 18000
 	}
 
 	clergymen = {

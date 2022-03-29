@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = PIC
+controller = PIC
+add_core = PIC
 trade_goods = iron
 life_rating = 30
 terrain = lille

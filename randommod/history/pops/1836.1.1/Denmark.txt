@@ -19,27 +19,9 @@
 		size = 900
 	}
 
-	clergymen = {
-		culture = icelandic
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = icelandic
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = icelandic
-		religion = catholic
-		size = 475
-	}
-
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 15
 	}
 
@@ -60,80 +42,50 @@
 		religion = protestant
 		size = 500
 	}
-
-	farmers = {
-		culture = welsh
-		religion = catholic
-		size = 700
-	}
 }
 #Jutland Region : 548000
 #Aarhus (248000/62000 POPS)
 366 = {
 	aristocrats = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 500
 	}
 
 	bureaucrats = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 350
 	}
 
 	officers = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 200
 	}
 
 	clergymen = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 375
 	}
 
 	artisans = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 6000
 	}
 
 	soldiers = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 1500
 	}
 
 	farmers = {
 		culture = danelander
-		religion = catholic
-		size = 28075
-	}
-
-	clergymen = {
-		culture = danelander
 		religion = protestant
-		size = 175
-	}
-
-	artisans = {
-		culture = danelander
-		religion = protestant
-		size = 2000
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = protestant
-		size = 900
-	}
-
-	farmers = {
-		culture = danelander
-		religion = protestant
-		size = 6500
+		size = 48075
 	}
 }
 #Alborg (152000/38000 POPS)
@@ -141,90 +93,8 @@
 367 = {
 	aristocrats = {
 		culture = danelander
-		religion = catholic
-		size = 250
-	}
-
-	clergymen = {
-		culture = danelander
-		religion = catholic
-		size = 250
-	}
-
-	artisans = {
-		culture = danelander
-		religion = catholic
-		size = 4000
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = danelander
-		religion = catholic
-		size = 12500
-	}
-
-	clergymen = {
-		culture = danelander
 		religion = protestant
-		size = 150
-	}
-
-	artisans = {
-		culture = danelander
-		religion = protestant
-		size = 2570
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = protestant
-		size = 1000
-	}
-
-	farmers = {
-		culture = danelander
-		religion = protestant
-		size = 10000
-	}
-}
-#Ribe (148000/37000 POPS)
-#1k moved to 2557
-#10k moved to 2557
-368 = {
-	aristocrats = {
-		culture = danelander
-		religion = catholic
-		size = 350
-	}
-
-	clergymen = {
-		culture = danelander
-		religion = catholic
-		size = 550
-	}
-
-	artisans = {
-		culture = danelander
-		religion = catholic
-		size = 10000 
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = catholic
-		size = 2000
-	}
-
-	farmers = {
-		culture = danelander
-		religion = catholic
-		size = 53400 
+		size = 450
 	}
 
 	clergymen = {
@@ -242,13 +112,89 @@
 	soldiers = {
 		culture = danelander
 		religion = protestant
-		size = 1200
+		size = 2100
 	}
 
 	farmers = {
 		culture = danelander
 		religion = protestant
-		size = 18000 
+		size = 32500
+	}
+}
+#Ribe (148000/37000 POPS)
+#1k moved to 2557
+#10k moved to 2557
+368 = {
+	aristocrats = {
+		culture = danelander
+		religion = protestant
+		size = 350
+	}
+
+	clergymen = {
+		culture = danelander
+		religion = protestant
+		size = 1150
+	}
+
+	artisans = {
+		culture = danelander
+		religion = protestant
+		size = 25000 
+	}
+
+	soldiers = {
+		culture = danelander
+		religion = protestant
+		size = 3500
+	}
+
+	farmers = {
+		culture = danelander
+		religion = protestant
+		size = 134400 
+	}
+
+	clergymen = {
+		culture = danelander
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = danelander
+		religion = catholic
+		size = 600 
+	}
+
+	farmers = {
+		culture = danelander
+		religion = catholic
+		size = 2000
+	}
+
+	artisans = {
+		culture = elbian
+		religion = protestant
+		size = 4500
+	}
+
+	farmers = {
+		culture = elbian
+		religion = protestant
+		size = 15000
+	}
+
+	artisans = {
+		culture = nordlander
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = nordlander
+		religion = protestant
+		size = 7000
 	}
 }
 
@@ -256,48 +202,28 @@
 2557 = {
 	artisans = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 1100
 	}
 	clergymen = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 125
 	}
 	soldiers = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 1100
 	}
 	aristocrats = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 250
 	}
 	farmers = {
 		culture = danelander
-		religion = catholic
-		size = 23550
-	}
-	artisans = {
-		culture = danelander
 		religion = protestant
-		size = 900
-	}
-	clergymen = {
-		culture = danelander
-		religion = protestant
-		size = 100
-	}
-	soldiers = {
-		culture = danelander
-		religion = protestant
-		size = 500
-	}
-	farmers = {
-		culture = danelander
-		religion = protestant
-		size = 12000
+		size = 43550
 	}
 }
 	
@@ -307,25 +233,25 @@
 370 = {
 	aristocrats = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 650
 	}
 
 	bureaucrats = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	clergymen = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 425
 	}
 
 	artisans = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 8500
 	}
 
@@ -337,38 +263,14 @@
 
 	farmers = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 30025
 	}
 
 	officers = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 250
-	}
-
-	clergymen = {
-		culture = danelander
-		religion = protestant
-		size = 225
-	}
-
-	artisans = {
-		culture = danelander
-		religion = protestant
-		size = 4700
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = protestant
-		size = 1180
-	}
-
-	farmers = {
-		culture = danelander
-		religion = protestant
-		size = 17000
 	}
 
 	clergymen = {
@@ -393,6 +295,12 @@
 		culture = elbian
 		religion = protestant
 		size = 13850
+	}
+
+	farmers = {
+		culture = frisian
+		religion = protestant
+		size = 11025
 	}
 }
 #Aabenra (100000/25000 POPS)
@@ -481,192 +389,86 @@
 372 = {
 	aristocrats = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 1550
 	}
 
 	bureaucrats = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 500
 	}
 
 	officers = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 500
 	}
 
 	aristocrats = {
 		culture = nordlander
-		religion = catholic
+		religion = protestant
 		size = 450
 	}
 
 	bureaucrats = {
 		culture = nordlander
-		religion = catholic
+		religion = protestant
 		size = 200
 	}
 
 	officers = {
 		culture = nordlander
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	aristocrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 300
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 750
 	}
 
 	officers = {
 		culture = british
-		religion = catholic
+		religion = protestant
 		size = 800
 	}
 
 	clergymen = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 750
 	}
 
 	artisans = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 8000
 	}
 
 	soldiers = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 3000
 	}
 
 	farmers = {
 		culture = danelander
-		religion = catholic
+		religion = protestant
 		size = 44000
 	}
 
 	clergymen = {
 		culture = danelander
-		religion = protestant
-		size = 350
-	}
-
-	artisans = {
-		culture = danelander
-		religion = protestant
-		size = 4000
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = protestant
-		size = 1000
-	}
-
-	farmers = {
-		culture = danelander
-		religion = protestant
-		size = 15000
-	}
-
-	artisans = {
-		culture = british
-		religion = catholic
-		size = 2500
-	}
-
-	artisans = {
-		culture = elbian
-		religion = protestant
-		size = 2000
-	}
-
-	artisans = {
-		culture = pomeranian
-		religion = protestant
-		size = 1800
-	}
-
-	artisans = {
-		culture = nordlander
-		religion = catholic
-		size = 1500
-	}
-}
-#Odense (208000/52000 POPS)
-373 = {
-	aristocrats = {
-		culture = danelander
-		religion = catholic
-		size = 500
-	}
-
-	clergymen = {
-		culture = danelander
 		religion = catholic
 		size = 350
-	}
-
-	artisans = {
-		culture = danelander
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = catholic
-		size = 2000
-	}
-
-	farmers = {
-		culture = danelander
-		religion = catholic
-		size = 46250
-	}
-
-	clergymen = {
-		culture = danelander
-		religion = protestant
-		size = 150
-	}
-
-	artisans = {
-		culture = danelander
-		religion = protestant
-		size = 1750
-	}
-
-	soldiers = {
-		culture = danelander
-		religion = protestant
-		size = 1200
-	}
-
-	farmers = {
-		culture = danelander
-		religion = protestant
-		size = 15250
-	}
-}
-#Bornholm (16000/4000 POPS)
-374 = {
-	clergymen = {
-		culture = danelander
-		religion = catholic
-		size = 100
 	}
 
 	artisans = {
@@ -684,9 +486,67 @@
 	farmers = {
 		culture = danelander
 		religion = catholic
-		size = 3500
+		size = 1500
 	}
 
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 2500
+	}
+
+	artisans = {
+		culture = elbian
+		religion = protestant
+		size = 2000
+	}
+
+	artisans = {
+		culture = pomeranian
+		religion = protestant
+		size = 1800
+	}
+
+	artisans = {
+		culture = nordlander
+		religion = protestant
+		size = 1500
+	}
+}
+#Odense (208000/52000 POPS)
+373 = {
+	aristocrats = {
+		culture = danelander
+		religion = protestant
+		size = 500
+	}
+
+	clergymen = {
+		culture = danelander
+		religion = protestant
+		size = 350
+	}
+
+	artisans = {
+		culture = danelander
+		religion = protestant
+		size = 3000
+	}
+
+	soldiers = {
+		culture = danelander
+		religion = protestant
+		size = 2000
+	}
+
+	farmers = {
+		culture = danelander
+		religion = protestant
+		size = 56250
+	}
+}
+#Bornholm (16000/4000 POPS)
+374 = {
 	clergymen = {
 		culture = danelander
 		religion = protestant
@@ -696,7 +556,7 @@
 	artisans = {
 		culture = danelander
 		religion = protestant
-		size = 100
+		size = 400
 	}
 
 	soldiers = {
@@ -708,6 +568,6 @@
 	farmers = {
 		culture = danelander
 		religion = protestant
-		size = 1500
+		size = 3500
 	}
 }

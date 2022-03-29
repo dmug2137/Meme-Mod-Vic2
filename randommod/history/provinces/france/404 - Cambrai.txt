@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = CHA
+controller = CHA
+add_core = CHA
 trade_goods = coal
 life_rating = 30
 #state_building = {

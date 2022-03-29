@@ -1,6 +1,6 @@
-owner = ELB
-controller = ELB
-add_core = ELB
+owner = WEI
+controller = WEI
+add_core = WEI
 terrain = chemnitz
 trade_goods = iron
 life_rating = 40

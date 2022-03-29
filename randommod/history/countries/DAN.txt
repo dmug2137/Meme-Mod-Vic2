@@ -2,7 +2,7 @@
 
 #========================= H E A D E R =========================
 
-capital = 592
+capital = 602
 primary_culture = south_german
 religion = reformed
 government = democracy

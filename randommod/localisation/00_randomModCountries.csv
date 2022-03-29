@@ -197,11 +197,11 @@ BUL_presidential_dictatorship;Bulgarian Republic;Bulgarian Republic;Bulgarian Re
 BUL_colonial_company;Bulgarian Republic;Bulgarian Republic;Bulgarian Republic;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 BUL_dominion;Bulgarian Republic;Bulgarian Republic;Bulgarian Republic;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 BUL_bourgeois_dictatorship;Bulgarian Republic;Bulgarian Republic;Bulgarian Republic;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-BUL_fascist_dictatorship;Great Bulgarian Empire;Great Bulgarian Empire;Great Bulgarian Empire;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-BUL_absolute_monarchy;Bulgarian Empire;Bulgarian Empire;Bulgarian Empire;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-BUL_prussian_constitutionalism;Bulgarian Empire;Bulgarian Empire;Bulgarian Empire;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-BUL_hms_government;Bulgarian Empire;Bulgarian Empire;Bulgarian Empire;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-BUL_democracy;Bulgarian Empire;Bulgarian Empire;Bulgarian Empire;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+BUL_fascist_dictatorship;Great Tsardom of Bulgaria;Great Tsardom of Bulgaria;Great Tsardom of Bulgaria;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+BUL_absolute_monarchy;Tsardom of Bulgaria;Tsardom of Bulgaria;Tsardom of Bulgaria;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+BUL_prussian_constitutionalism;Tsardom of Bulgaria;Tsardom of Bulgaria;Tsardom of Bulgaria;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+BUL_hms_government;Tsardom of Bulgaria;Tsardom of Bulgaria;Tsardom of Bulgaria;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+BUL_democracy;Tsardom of Bulgaria;Tsardom of Bulgaria;Tsardom of Bulgaria;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 BUR_ADJ;Burgundian;Burgundian;Burgundian;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 BUR;Burgundy;Burgundy;Burgundy;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 BUR_proletarian_dictatorship;Burgundy;Burgundy;Burgundy;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
@@ -442,6 +442,20 @@ FOI_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 FOI_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 FOI_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 FOI_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA;Francia;Francia;Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_proletarian_dictatorship;Republic of Francia;Republic of Francia;Republic of Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_presidential_dictatorship;Republic of Francia;Republic of Francia;Republic of Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_colonial_company;Francia;Francia;Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_dominion;Francia;Francia;Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_bourgeois_dictatorship;Republic of Francia;Republic of Francia;Republic of Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_fascist_dictatorship;Duchy of Francia;Duchy of Francia;Duchy of Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_absolute_monarchy;Duchy of Francia;Duchy of Francia;Duchy of Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_prussian_constitutionalism;Duchy of Francia;Duchy of Francia;Duchy of Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_hms_government;Duchy of Francia;Duchy of Francia;Duchy of Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_democracy;Republic of Foix;Republic of Foix;Republic of Foix;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_federal_democracy;Republic of Francia;Republic of Francia;Republic of Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_theocracy;Francia;Francia;Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+FRA_french_bourbon;Duchy of Francia;Duchy of Francia;Duchy of Francia;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 GOT_ADJ;Gothic;Gothic;Gothic;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 GOT;Bosphor;Bosphor;Bosphor;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 GOT_proletarian_dictatorship;People's Republic of Gothia;People's Republic of Gothia;People's Republic of Bosphor;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
@@ -730,20 +744,6 @@ VEN_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 VEN_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 VEN_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 VEN_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-AUS;City of Wien;City of Wien;City of Wien;;;;;;;;;;;x
-AUS_proletarian_dictatorship;Wien Commune;Wien Commune;Wien Commune;Wien Commune;Wien Commune;;;;;;;;;x
-AUS_presidential_dictatorship;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_colonial_company;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_dominion;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_bourgeois_dictatorship;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_fascist_dictatorship;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_absolute_monarchy;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_prussian_constitutionalism;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_hms_government;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_democracy;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_federal_democracy;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
-AUS_theocracy;Bishopric of Wien;Bishopric of Wien;Bishopric of Wien;Bishopric of Wien;;;;;;;;;;x
-AUS_french_bourbon;Free City of Wien;Free City of Wien;Free City of Wien;Free City of Wien;;;;;;;;;;x
 BRE;Bremen;Bremen;Bremen;;;;;;;;;;;x
 BRE_proletarian_dictatorship;People's Republic of Bremen;People's Republic of Bremen;People's Republic of Bremen;;;;;;;;;;;x
 BRE_presidential_dictatorship;Republic of Bremen;Republic of Bremen;Republic of Bremen;;;;;;;;;;;x

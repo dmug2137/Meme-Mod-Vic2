@@ -1,6 +1,6 @@
-owner = ELB
-controller = ELB
-add_core = ELB
+owner = WEI
+controller = WEI
+add_core = WEI
 trade_goods = sulphur
 life_rating = 40
 1861.1.1 = { railroad = 3 }

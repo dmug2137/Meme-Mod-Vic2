@@ -34,6 +34,7 @@ BOU		= "countries/BOU.txt"
 CLE		= "countries/CLE.txt"
 MOU		= "countries/MOU.txt"
 ARA		= "countries/ARA.txt"
+WEN     = "countries/WEN.txt"
 
 ###France Mod###
 NZF		="countries/French New Zealand.txt"

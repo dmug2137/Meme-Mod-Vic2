@@ -4,6 +4,63 @@
 germanic = {
 	leader = european
 	unit = EuropeanGC
+	frisian = {
+        color = { 170 90 30 }
+
+        first_names = {
+            Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
+            Barthout
+            Casimir Constantijn Cornelis Christiaan Christoffel
+            Dani�l David Dominicus Daniel Dirk
+            Elias Ernst Erwin Eise
+            Frans Frederik
+            Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
+            Hendrik Hans Hugo
+            Isaac
+            Johan Jurgen Jacob Jeroen Jan Joost
+            Karel Kasper
+            Luuk Lodewijk Laurens
+            Marius Matthijs Maximiliaam Merkus Moritz Maurits
+            Nikolaas
+            Pauwel Paul Pieter
+            Quinten
+            Rafa�l Ruben Rudolf Roeland Rogier Rutger
+            Stefan Simon
+            Thomas
+            Victor Willem Vincent
+            Zacharias
+        }
+
+        last_names = {
+            "van der Aa" "van Assendelft"
+            Boetge Boumeester "van Bronkhorst" Batenburg Bentinck Boreel Brandt "van Brederode" Brouwer Buyskes "van Braam Houckgeest"
+            "van der Capellen" Chass� Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen
+
+            "van Culemborg"
+            Duycker "de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "van Diemen" "van der Does" "van Duivenvoorde"
+            Ellis Engels Engelvaart "van Egmont" Evertzen
+            Fabius
+            Gregory "van Galen" "de Grouwe" "van Geen"
+            "van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek"
+            "van Ilpendam"
+            Janssens
+            K�hler Kool Kruys Kater "van Keppel" Kortenaer
+            List Lucas
+            Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee"
+            Nepveu Nachtegaal "van Nieuwenaar" "van Noort"
+            Ongerboer
+            "van Pallandt"
+            Rijk R�ell "van Raephorst" "van Rechteren" Reijersen "van Renesse" "van Riebeeck" "de Rijk" "van Rossum"
+            Sabron "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel
+
+            Steltman Stuyvesant
+            Tasman "van Troyen" Trip
+            "van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten"
+            "van Vredenburch" Verspijck Vetter Weitzel "Van Utenhove"
+            "van Walbeeck" "van Wassenaer" "van der Werff" "van Wesembeke" "van Wingle" "van der Wijck" "van Wijngaarden" "de Winter"
+            Wolterbeek
+        }
+    }
 	elbian = { 
 		color = { 90 60 60 }
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
@@ -35,6 +92,62 @@ germanic = {
 		"von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" 
 		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
+	}
+	niederlandisch = { 
+		color = { 230 130 50}
+		first_names = { 
+			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
+			Barthout
+			Casimir Constantijn Cornelis Christiaan Christoffel 
+			Dani�l David Dominicus Daniel Dirk
+			Elias Ernst Erwin Eise
+			Frans Frederik
+			Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
+			Hendrik Hans Hugo
+			Isaac
+			Johan Jurgen Jacob Jeroen Jan Joost
+			Karel Kasper
+			Luuk Lodewijk Laurens
+			Marius Matthijs Maximiliaam Merkus Moritz Maurits
+			Nikolaas
+			Pauwel Paul Pieter
+			Quinten
+			Rafa�l Ruben Rudolf Roeland Rogier Rutger
+			Stefan Simon
+			Thomas
+			Victor Willem Vincent
+			Zacharias
+		}
+		
+		last_names = { 
+			"van der Aa" "van Assendelft" 
+			Boetge Boumeester "van Bronkhorst" Batenburg Bentinck Boreel Brandt "van Brederode" Brouwer Buyskes "van Braam Houckgeest"
+			"van der Capellen" Chass� Cochius Coops "de Casembroot" Cleerens Coehoorn Coen "de Constant Rebecque" Crijnssen 	
+
+			"van Culemborg"
+			Duycker	"de Eerens" "de Kock" Deijkerhoff "den Beer Poortugael" Daendels "van Diemen" "van der Does" "van Duivenvoorde"
+			Ellis Engels Engelvaart "van Egmont" Evertzen
+			Fabius
+			Gregory "van Galen" "de Grouwe" "van Geen" 
+			"van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek" 
+			"van Ilpendam"
+			Janssens
+			K�hler Kool Kruys Kater "van Keppel" Kortenaer
+			List Lucas
+			Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee" 
+			Nepveu Nachtegaal "van Nieuwenaar" "van Noort"
+			Ongerboer 
+			"van Pallandt"
+			Rijk R�ell "van Raephorst" "van Rechteren" Reijersen "van Renesse" "van Riebeeck" "de Rijk" "van Rossum"
+			Sabron "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel 	
+
+			Steltman Stuyvesant
+			Tasman "van Troyen" Trip
+			"van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten" 
+			"van Vredenburch" Verspijck Vetter Weitzel "Van Utenhove"
+			"van Walbeeck" "van Wassenaer" "van der Werff" "van Wesembeke" "van Wingle" "van der Wijck" "van Wijngaarden" "de Winter"
+			Wolterbeek
+		}
 	}
 	rhenish = { 
 		color = { 124 155 26 }
@@ -674,30 +787,6 @@ french = {
 		Foch Forey "Franchet d'Esp�rey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaur�s Joffre Leb�uf Lyautey Murat "Ney d'Elchingen" Nivelle P�llissier Petain Vaillant }
 	}
-	rhinelander = { 
-		color = { 225 200 255 }
-		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
-		Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg G�nther
-		Gustav Hasso Heinrich Helmuth Hermann Joachim Johann J�rgen Karl
-		Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
-		Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang Achille Adolphe Adrien Aimable Alphonse Am�d�e Antoine Armand Augustin
-		Charles Daniel Denis �douard Elie �tienne Eug�ne F�licien F�lix Fernand
-		Fran�ois Fr�d�ric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-		Joseph Jules Julien Lazare L�opold Leroy Louis Lucien Matthieu Michel
-		Napol�on Nicolas Patrice Philippe Pierre Robert Thibaut Thierry Thomas}
-		
-		last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree
-		"Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" 		"von Boyen" "von Braunschweig" "von B�low" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover" 
-		"von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld"
-		"von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg" 
-		"von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" 
-		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
-		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou� de Lapeyr�re" Bou�t-Willaumez Boulanger Bourbaki
-		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
-		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orl�ans Dubail Dubois Duch�ne Dupetit-Thouars Exelmans
-		Foch Forey "Franchet d'Esp�rey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-		Jaur�s Joffre Leb�uf Lyautey Murat "Ney d'Elchingen" Nivelle P�llissier Petain Vaillant }
-	}
 	arpitan = { 
 		color = { 159 143 234 }
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Am�d�e Antoine Armand August Augustin
@@ -963,6 +1052,21 @@ czecho_slovak_culture_group = {
 	
 	slovak = {
 		color = {120 255 255}
+		first_names = { Alb�n Alexander Andr�s Andrej August�n Basil Cypri�n Dalibor Dezider Dominik
+		Eugen Fedor Ferdinand Frantisek Frico Gabriel Gust�v Imrich J�chym J�n
+		Janko Jozef Juraj Karol Ladislav Levoslav Mari�n Marko Martin Matej
+		Michal Mikul�s Milan Milos Miloslav Miroslav Pavel Pavol Peter Ratislav
+		Rudolf Samuel Sergej Stefan Svtoz�r Tibor Tom�s Viliam Vladim�r Vojtech }
+
+		last_names = { �chim B�zlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
+		Figus-Bystr� Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajansk� Hus�k
+		Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Mal�r Malovec Markovic
+		Masaryk M�ry Moyses R�zus Roh�cek Rudnay Selepc�ni Sidor Skult�ty-G�bris Smik
+		Sokol Stef�nik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
+	}
+
+	pannonian = {
+		color = {100 30 0}
 		first_names = { Alb�n Alexander Andr�s Andrej August�n Basil Cypri�n Dalibor Dezider Dominik
 		Eugen Fedor Ferdinand Frantisek Frico Gabriel Gust�v Imrich J�chym J�n
 		Janko Jozef Juraj Karol Ladislav Levoslav Mari�n Marko Martin Matej

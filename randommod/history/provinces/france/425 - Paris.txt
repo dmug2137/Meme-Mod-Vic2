@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = ARL
+controller = ARL
+add_core = ARL
 trade_goods = grain
 life_rating = 30
 terrain = paris

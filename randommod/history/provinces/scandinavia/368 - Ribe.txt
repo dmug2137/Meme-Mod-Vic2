@@ -1,5 +1,5 @@
-owner = NSE
-controller = NSE
+owner = FEN
+controller = FEN
 add_core = NSE
 trade_goods = fish
 life_rating = 35

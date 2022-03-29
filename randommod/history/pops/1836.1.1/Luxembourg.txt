@@ -3,87 +3,63 @@
 #Luxembourg (172000/43000 POPS)
 397 = {
 	aristocrats = {
-		culture = north_german
-		religion = catholic
+		culture = rhenish
+		religion = protestant
 		size = 175
 	}
 
 	bureaucrats = {
-		culture = north_german
-		religion = catholic
+		culture = rhenish
+		religion = protestant
 		size = 25
 	}
 
 	clergymen = {
-		culture = north_german
-		religion = catholic
-		size = 150
+		culture = rhenish
+		religion = protestant
+		size = 350
 	}
 
 	artisans = {
-		culture = north_german
-		religion = catholic
-		size = 750
+		culture = rhenish
+		religion = protestant
+		size = 10750
 	}
 
 	soldiers = {
-		culture = north_german
-		religion = catholic
+		culture = rhenish
+		religion = protestant
 		size = 2000
 	}
 
 	farmers = {
-		culture = north_german
-		religion = catholic
-		size = 17900
-	}
-	
-	craftsmen = {
-		culture = north_german
-		religion = catholic
-		size = 20
-	}
-
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 250
-	}
-
-	officers = {
-		culture = french
-		religion = catholic
-		size = 50
-	}
-
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 50
+		culture = rhenish
+		religion = protestant
+		size = 15900
 	}
 
 	clergymen = {
-		culture = french
-		religion = catholic
+		culture = norman
+		religion = protestant
 		size = 275
 	}
 
 	artisans = {
-		culture = french
-		religion = catholic
-		size = 1750
+		culture = norman
+		religion = protestant
+		size = 8750
 	}
 
 	soldiers = {
-		culture = french
-		religion = catholic
-		size = 250
+		culture = norman
+		religion = protestant
+		size = 1250
 	}
 
 	farmers = {
-		culture = french
-		religion = catholic
-		size = 20375
+		culture = norman
+		religion = protestant
+		size = 10375
 	}
 
 }
