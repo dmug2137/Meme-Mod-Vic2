@@ -26,4 +26,6 @@ This mod is based on ccHFM: https://github.com/moretrim/ccHFM
 
 ## People with large amounts of swag (credits)
 
-**Created this fucking shitshow: Dmug, fynd1**
+**Created this fucking abomination: Dmug, fynd1**
+
+**Special thanks to: Cato and fish 😳**
