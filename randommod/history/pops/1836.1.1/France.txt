@@ -2949,7 +2949,7 @@
 	farmers = {
 		culture = south_french
 		religion = catholic
-		size = 12000
+		size = 120000
 	}
 }
 #Pau (676000/169000 POPS)
@@ -3535,64 +3535,45 @@
 #Corsica (210000/52500 POPS)
 473 = {
 	aristocrats = {
-		culture = french
+		culture = north_italian
 		religion = catholic
-		size = 400
+		size = 250
 	}
 
-	aristocrats = {
+	officers = {
 		culture = north_italian
 		religion = catholic
 		size = 150
 	}
 
-	officers = {
-		culture = french
-		religion = catholic
-		size = 50
-	}
-
 	bureaucrats = {
-		culture = french
+		culture = north_italian
 		religion = catholic
-		size = 100
+		size = 300
 	}
 
 	clergymen = {
-		culture = french
+		culture = north_italian
 		religion = catholic
-		size = 200
+		size = 650
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 1500
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 1100
+		size = 8500
 	}
 
 	soldiers = {
-		culture = french
+		culture = north_italian
 		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 4800
+		size = 2000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 43300
+		size = 54300
 	}
-
 }
 

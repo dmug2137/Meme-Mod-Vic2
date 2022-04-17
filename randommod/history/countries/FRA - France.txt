@@ -1,16 +1,10 @@
 capital = 438
-primary_culture = french
-culture = occitan
-culture = picard
-culture = breton
-culture = arpitan
-culture = cajun
-culture = french_canadian
+primary_culture = norman
 religion = catholic
 government = french_bourbon
 plurality = 25
 nationalvalue = nv_order
-literacy = 0.50
+literacy = 0.5
 non_state_culture_literacy = 0.01
 civilized = yes
 

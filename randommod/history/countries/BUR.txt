@@ -3,12 +3,12 @@
 #========================= H E A D E R =========================
 
 capital = 432
-primary_culture = french
+primary_culture = burgundian
 religion = catholic
 government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_order
-literacy = 0,6
+literacy = 0.6
 civilized = yes 
 prestige = 15
 schools = traditional_academic

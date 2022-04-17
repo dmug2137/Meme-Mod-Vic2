@@ -3,7 +3,7 @@
 #========================= H E A D E R =========================
 
 capital = 443
-primary_culture = french
+primary_culture = norman
 religion = catholic
 government = absolute_monarchy
 plurality = 15

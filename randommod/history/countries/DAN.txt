@@ -3,12 +3,13 @@
 #========================= H E A D E R =========================
 
 capital = 602
-primary_culture = south_german
+primary_culture = bavarian
+culture = franconian
 religion = reformed
 government = democracy
 plurality = 10
 nationalvalue = nv_liberty
-literacy = 0,5
+literacy = 0.55
 civilized = yes 
 prestige = 15
 schools = traditional_academic

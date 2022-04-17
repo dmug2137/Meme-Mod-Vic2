@@ -1,7 +1,5 @@
 capital = 1745
-primary_culture = misri
-culture = mashriqi
-culture = bedouin
+primary_culture = turkish
 religion = sunni
 government = colonial_company
 plurality = 0.0

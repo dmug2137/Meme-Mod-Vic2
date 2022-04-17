@@ -3,12 +3,13 @@
 #========================= H E A D E R =========================
 
 capital = 575
-primary_culture = north_german
+primary_culture = rhenish
+culture = allemanic
 religion = reformed
 government = democracy
 plurality = 10
 nationalvalue = nv_liberty
-literacy = 0,6
+literacy = 0.55
 civilized = yes 
 prestige = 15
 schools = traditional_academic

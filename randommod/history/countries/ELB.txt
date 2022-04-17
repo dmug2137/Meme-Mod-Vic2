@@ -3,12 +3,13 @@
 #========================= H E A D E R =========================
 
 capital = 546
-primary_culture = north_german
+primary_culture = elbian 
+culture = saxon
 religion = protestant
 government = democracy
 plurality = 10
 nationalvalue = nv_liberty
-literacy = 0,6
+literacy = 0.45
 civilized = yes 
 prestige = 20
 schools = traditional_academic

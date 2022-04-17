@@ -4,11 +4,13 @@
 
 capital = 300
 primary_culture = british
+culture = nordlander
+culture = danelander
 religion = protestant
 government = hms_government
 plurality = 10
 nationalvalue = nv_liberty
-literacy = 0,7
+literacy = 0.7
 civilized = yes 
 prestige = 26
 schools = naval_tech_school

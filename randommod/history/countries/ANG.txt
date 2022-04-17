@@ -3,12 +3,12 @@
 #========================= H E A D E R =========================
 
 capital = 434
-primary_culture = french
+primary_culture = norman
 religion = catholic
 government = absolute_monarchy
 plurality = 15
 nationalvalue = nv_order
-literacy = 0,5
+literacy = 0.5
 civilized = yes 
 prestige = 10
 schools = traditional_academic

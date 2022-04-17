@@ -3,12 +3,12 @@
 #========================= H E A D E R =========================
 
 capital = 402
-primary_culture = picard
-religion = protestant
+primary_culture = norman
+religion = catholic
 government = prussian_constitutionalism
 plurality = 10
 nationalvalue = nv_order
-literacy = 0,6
+literacy = 0.6
 civilized = yes 
 prestige = 15
 schools = traditional_academic

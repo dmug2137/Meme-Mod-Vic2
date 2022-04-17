@@ -1,6 +1,5 @@
 capital = 633
 primary_culture = slovak
-culture = czech
 religion = catholic
 government = absolute_monarchy
 plurality = 0.05
