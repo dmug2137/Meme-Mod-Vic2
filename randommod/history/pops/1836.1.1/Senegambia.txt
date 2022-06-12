@@ -4,7 +4,7 @@
 #Dakar (8000/2000 POPS)
 1783 = {
 	aristocrats = {
-		culture = wolof
+		culture = berber
 		religion = sunni
 		size = 100
 	}
@@ -31,42 +31,6 @@
 		culture = wolof
 		religion = sunni
 		size = 17800
-	}
-	
-	aristocrats = {
-		culture = french
-		religion = catholic
-		size = 100
-	}
-		
-	officers = {
-		culture = french
-		religion = catholic
-		size = 150
-	}
-	
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 550
-	}
-	
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 100
-	}
-	
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 100
-	}
-	
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 250
 	}
 	
 }
@@ -298,13 +262,13 @@
 #Saint-Louis (24000/6000 POPS)
 1784 = {
 	aristocrats = {
-		culture = wolof
+		culture = berber
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = wolof
+		culture = berber
 		religion = sunni
 		size = 150
 	}
@@ -361,36 +325,6 @@
 		culture = fulbe
 		religion = sunni
 		size = 700
-	}
-	
-	officers = {
-		culture = french
-		religion = catholic
-		size = 100
-	}
-	
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 750
-	}
-	
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 100
-	}
-	
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 100
-	}
-	
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 250
 	}
 }
 #uncolonized/British have trade post in 1836

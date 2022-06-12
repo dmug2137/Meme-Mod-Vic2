@@ -1,0 +1,26 @@
+political_decisions = {
+    form_rome = {
+        picture = form_rome
+        potential = {
+            OR = {
+                tag = ROM
+                tag = ITA
+            }
+            NOT = { has_country_flag = larper }
+            is_ideology_enabled = fascist
+            ai = no
+        }
+
+        allow = {
+            ruling_party_ideology = fascist
+            NOT = { #:trollface:
+                owns = 749
+            }
+        }
+
+        effect = {
+            set_country_flag = larper
+            country_event = 1453
+        }
+    }
+}

@@ -236,7 +236,6 @@ URA 	= "countries/Ural Republic.txt"
 YAK 	= "countries/Yakutia.txt"
 
 #Middle East
-ARU		= "countries/Arab Union.txt"
 ASY		= "countries/Assyria.txt"
 BHR		= "countries/Bahrain.txt"
 CIR		= "countries/Circassia.txt"

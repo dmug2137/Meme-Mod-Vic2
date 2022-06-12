@@ -7,6 +7,16 @@ loyal_vassal = {
     icon = 5
 }
 
+no_larp = {
+	max_tariff = -1
+	tax_efficiency = -1
+	industry_tech_research_bonus = -1
+	commerce_tech_research_bonus = -1
+	culture_tech_research_bonus = -1
+	prestige = -100
+	icon = 5
+}
+
 being_dismantled = {
     prestige = -0.01
     badboy = -0.05

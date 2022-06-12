@@ -922,12 +922,6 @@
 #under the "rule" of Egypt in 1836
 #Rutbah (8000/2000 POPS) #now part of Iraq
 931 = {
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 25
-	}
-
 	clergymen = {
 		culture = bedouin
 		religion = sunni
@@ -937,19 +931,19 @@
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size = 375
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size = 25
+		size = 525
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 1825
+		size = 4825
 	}
 }
 #Basra Region (388000) #see Gulf States.txt for balance of region  
@@ -1158,88 +1152,27 @@
 }
 #Najaf (96000/24000 POPS)
 934 = {
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 100
-	}
-
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 5500
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = shiite
-		size = 75
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = shiite
 		size = 75
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = shiite
-		size = 250
+		religion = sunni
+		size = 850
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = shiite
-		size = 50
+		religion = sunni
+		size = 500
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = shiite
-		size = 4550
+		religion = sunni
+		size = 8000
 	}
-
-	aristocrats = {
-		culture = mashriqi
-		religion = shiite
-		size = 200
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = shiite
-		size = 125
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = shiite
-		size = 650
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = shiite
-		size = 12025
-	}
-
 }

@@ -1,0 +1,37 @@
+country_event = { #roman empire
+    id = 1453
+    title = "EVTNAME1453"
+	desc = "EVTDESC1453"
+	picture = "larp"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "I LOVE ROME I LOVE ROME I LOVE ROME I LOVE ROME I LOVE ROME I LOVE ROME I LOVE ROME" 
+        prestige = -1000
+        any_pop = {
+            scaled_militancy = {
+                ideology = liberal
+                factor = 10
+            }
+            scaled_militancy = {
+                ideology = conservative
+                factor = 10
+            }
+            scaled_militancy = {
+                ideology = socialist
+                factor = 10
+            }
+            scaled_militancy = {
+                ideology = communist
+                factor = 10
+            }
+            scaled_militancy = {
+                ideology = anarcho_liberal
+                factor = 10
+            }
+        }
+        add_country_modifier = { name = no_larp duration = -1 }
+        any_owned = { change_province_name = "Rome" }
+    }
+}

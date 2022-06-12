@@ -3,25 +3,25 @@
 #Mitrovica (108000/27000 POPS) #part of Serbia today
 791 = {
 	clergymen = {
-		culture = montenegrin
+		culture = bosniak
 		religion = catholic
 		size = 150 
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = bosniak
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = montenegrin
+		culture = bosniak
 		religion = catholic
 		size = 250 
 	}
 
 	farmers = {
-		culture = montenegrin
+		culture = bosniak
 		religion = catholic
 		size = 15350
 	}

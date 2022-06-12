@@ -1,23 +1,23 @@
-
+# I wanted to use ARA tag so its aragon not arabia :trollface:
 
 #========================= H E A D E R =========================
 
-capital = 967
-primary_culture = pontic
+capital = 495
+primary_culture = catalan
 religion = catholic
 government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_order
-literacy = 0,4
+literacy = 0.4
 civilized = yes 
-prestige = 10
+prestige = 20
 schools = traditional_academic
-oob = "GOT.txt"
+oob = "ARA.txt"
 
 
 #========================= H O U S E - O F - L O R D S =========================
 
-ruling_party = GOT_conservative_92
+ruling_party = ARA_conservative_92
 upper_house = {
 fascist = 0
 reactionary = 40

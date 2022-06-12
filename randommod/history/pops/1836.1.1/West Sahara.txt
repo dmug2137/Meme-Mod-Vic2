@@ -3,39 +3,33 @@
 #Al Aiyun (12000/3000 POPS)  aguia el-Hamra
 1773 = {
 	aristocrats = {
-		culture = bedouin
+		culture = maghrebi
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = maghrebi
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = maghrebi
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = maghrebi
 		religion = sunni
 		size = 100
-	}
-
-	aristocrats = {
-		culture = berber
-		religion = sunni
-		size = 25
 	}
 
 	clergymen = {
@@ -65,31 +59,31 @@
 #Dahkla (8000/2000 POPS)  
 1774 = {
 	aristocrats = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = berber
 		religion = sunni
 		size = 300
 	}
@@ -112,16 +106,10 @@
 		size = 50
 	}
 
-	soldiers = {
-		culture = maures
-		religion = sunni
-		size = 25
-	}
-
 	farmers = {
 		culture = maures
 		religion = sunni
-		size = 300
+		size = 200
 	}
 
 }

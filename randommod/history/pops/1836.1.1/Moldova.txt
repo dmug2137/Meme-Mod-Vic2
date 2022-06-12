@@ -1,17 +1,11 @@
 #Bessarabia Region (652000) #see Ukraine.txt for balance of Region  
 #under the rule of Russia in 1836 
 #Chisinau (332000/83000 POPS)  
-676 = {
-	farmers = {
-		culture = gypsy
-		religion = orthodox
-		size = 400
-	}
-	
+676 = {	
 	aristocrats = {
 		culture = romanian
 		religion = orthodox
-		size = 1400  
+		size = 800  
 	}
 
 	bureaucrats = {
@@ -35,129 +29,57 @@
 	artisans = {
 		culture = romanian
 		religion = orthodox
-		size = 10000
-	}
-	
-	artisans = {
-		culture = romanian
-		religion = orthodox
-		size = 1100
+		size = 2000
 	}
 
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size = 750
+		size = 1500
 	}
 
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 46750 
-	}
-	
-	serfs = {
-		culture = romanian
-		religion = orthodox
-		size = 10000 
+		size = 59750 
 	}
 
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 75     
+		size = 100     
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 1600   
-	}
-
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 75
+		size = 700   
 	}
 
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 6250    
-	}
-
-	clergymen = {
-		culture = turkish #gagauz
-		religion = orthodox
-		size = 75  
-	}
-
-	artisans = {
-		culture = turkish
-		religion = orthodox
-		size = 250 
-	}
-
-	soldiers = {
-		culture = turkish
-		religion = orthodox
-		size = 50
+		size = 3500    
 	}
 
 	farmers = {
-		culture = turkish
+		culture = gypsy
 		religion = orthodox
-		size = 4625  
-	}
-	
-	clergymen = {
-		culture = volga_german
-		religion = catholic
-		size = 75    
-	}
-
-	artisans = {
-		culture = volga_german
-		religion = catholic
-		size = 1400  
-	}
-
-	soldiers = {
-		culture = volga_german
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = volga_german
-		religion = catholic
-		size = 1050     
-	}
-	
-	aristocrats = {
-		culture = volga_german
-		religion = catholic
-		size = 800 
+		size = 2200     
 	}
 }
 #Balti (320000/80000 POPS)  
 677 = {
-	farmers = {
-		culture = gypsy
-		religion = orthodox
-		size = 400
-	}
-	
 	aristocrats = {
 		culture = romanian
 		religion = orthodox
-		size = 1300 
+		size = 500 
 	}
 
 	clergymen = {
 		culture = romanian
 		religion = orthodox
-		size = 700  
+		size = 300  
 	}
 
 	artisans = {
@@ -169,42 +91,36 @@
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size = 725
+		size = 1525
 	}
 
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 45675
-	}
-	
-	serfs = {
-		culture = romanian
-		religion = orthodox
-		size = 20000
+		size = 58675
 	}
 
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 75     
+		size = 100    
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 1800   
-	}
-
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 75
+		size = 1500   
 	}
 
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 7050   
+		size = 6050   
+	}
+
+	farmers = {
+		culture = gypsy
+		religion = orthodox
+		size = 750 
 	}
 }
