@@ -1,5 +1,5 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = SPA
+controller = SPA
 trade_goods = fish
 life_rating = 33
+colonial = 2

@@ -1,5 +1,5 @@
-owner = EIC
-controller = EIC
+owner = FEN
+controller = FEN
 add_core = ORI
 add_core = HND
 trade_goods = grain

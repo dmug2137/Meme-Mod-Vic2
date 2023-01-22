@@ -1,5 +1,6 @@
-owner = MYS
-controller = MYS
+owner = SPA
+controller = SPA
+colonial = 2
 add_core = MYS
 add_core = HND
 trade_goods = silk

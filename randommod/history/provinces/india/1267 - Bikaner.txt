@@ -1,6 +1,6 @@
-owner = BIK
-controller = BIK
-add_core = BIK
+owner = JAI
+controller = JAI
+add_core = JAI
 add_core = MUG
 add_core = HND
 trade_goods = wool

@@ -1,6 +1,6 @@
-owner = RPL
-controller = RPL
-add_core = COL
+owner = NSE
+controller = NSE
 terrain = new_world_montane_tundra
 trade_goods = fish
+colonial = 2
 life_rating = 20

@@ -1,6 +1,18 @@
 vassal = {
+    first = BUR
+    second = LUX
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
     first = ARL
     second = CLE
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARL
+    second = CAT
     start_date = 1815.1.1
     end_date = 1936.1.1
 }

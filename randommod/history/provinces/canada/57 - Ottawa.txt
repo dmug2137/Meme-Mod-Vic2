@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = FEN
+controller = FEN
 trade_goods = grain
 life_rating = 35
 terrain = ottawa

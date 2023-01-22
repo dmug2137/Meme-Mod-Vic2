@@ -1,11 +1,7 @@
-owner = URU
-controller = URU
-add_core = URU
+owner = IRE
+controller = IRE
+colonial = 2
 trade_goods = cattle
-life_rating = 38
+life_rating = 35
 terrain = montevideo
 naval_base = 1
-party_loyalty = {
-	ideology = liberal
-	loyalty_value = 30
-}

@@ -1,4 +1,6 @@
+owner = ZAN
+controller = ZAN
+add_core = ZAN
 trade_goods = cattle
 terrain = semidesert
 life_rating = 10
-colonial = 1

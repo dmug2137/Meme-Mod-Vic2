@@ -1,8 +1,8 @@
-name = "Taiping Rebellion"
+#name = "Taiping Rebellion"
 
-1850.1.1 = {
+2000.1.1 = {
 	add_attacker = TPG
-	add_defender = QNG
+	add_defender = CHI
 	
 	# actor
 	# receiver
@@ -12,17 +12,12 @@ name = "Taiping Rebellion"
 	war_goal = {
 		casus_belli = civil_war
 		actor = TPG
-		receiver = QNG
+		receiver = CHI
 	}
 	war_goal = {
 		casus_belli = civil_war
-		actor = QNG
+		actor = CHI
 		receiver = TPG
 	}
 
-}
-
-1850.6.6 = {
-	rem_attacker = TPG
-	rem_attacker = QNG
 }

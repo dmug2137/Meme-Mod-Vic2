@@ -21,11 +21,11 @@ oob = "ELB.txt"
 ruling_party = ELB_liberal_87
 upper_house = {
 fascist = 0
-reactionary = 0
-conservative = 0
+reactionary = 30
+conservative = 60
 socialist = 0
 communist = 0
-liberal = 0
+liberal = 10
 anarcho_liberal = 0
 }
 slavery = yes_slavery

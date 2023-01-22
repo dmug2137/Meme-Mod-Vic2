@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = NSE
+controller = NSE
 trade_goods = cattle
 life_rating = 30
 colonial = 2

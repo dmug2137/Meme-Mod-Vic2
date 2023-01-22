@@ -1,6 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = LSK
+owner = NSE
+controller = NSE
 trade_goods = fish
 life_rating = 20
 colonial = 2

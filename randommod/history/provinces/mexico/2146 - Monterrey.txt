@@ -1,8 +1,8 @@
-owner = USA
+owner = FSK
 
-controller = USA
+controller = FSK
 
-add_core = USA
+add_core = FSK
 
 trade_goods = grain
 life_rating = 35

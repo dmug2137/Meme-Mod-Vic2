@@ -109,15 +109,16 @@ ARL_democracy;Republic of Arles;Republic of Arles;Republic of Arles;;;;;;;;;;;x;
 ARL_federal_democracy;Republic of Arles;Republic of Arles;Republic of Arles;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 ARL_theocracy;Archbishopric of Arles;Archbishopric of Arles;Archbishopric of Arles;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 ARL_french_bourbon;Archduchy of Arles;Archduchy of Arles;Archduchy of Arles;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-ARL_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-ARL_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-ARL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-ARL_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-ARL_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-ARL_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-ARL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-ARL_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
-ARL_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_conservative_92;Royalists;Royalists;Royalists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_conservative_33;Norman Faction;Norman Faction;Norman Faction;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_liberal_79;Reformist Party;Reformist Party;Reformist Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_liberal_87;Unity Party;Unity Party;Unity Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_socialist_85;Workers' Party;Workers' Party;Workers' Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_socialist_99;Neosocialist Party;Neosocialist Party;Neosocialist Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_reactionary_84;Centralists;Centralists;Centralists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_anarcho_liberal_93;Moderates;Moderates;Moderates;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_communist_86;Republicans;Republicans;Republicans;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+ARL_fascist_72;Democratic Party;Democratic Party;Democratic Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 BLO_ADJ;Blois;Blois;Blois;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 BLO;Blois;Blois;Blois;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 BLO_proletarian_dictatorship;Republic of Blois;Republic of Blois;Republic of Blois;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
@@ -480,6 +481,28 @@ GOT_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 GOT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 GOT_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 GOT_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_ADJ;Inca;Inca;Inca;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_proletarian_dictatorship;Peasant Republic of Inca;Peasant Republic of Inca;Peasant Republic of Inca;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_presidential_dictatorship;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_colonial_company;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_dominion;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_bourgeois_dictatorship;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_fascist_dictatorship;Empire of the Sun;Empire of the Sun;Empire of the Sun;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_absolute_monarchy;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_prussian_constitutionalism;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_hms_government;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_democracy;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_federal_democracy;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_theocracy;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_french_bourbon;Inca Confederation;Inca Confederation;Inca Confederation;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_conservative_1;S;Conservatives;Conservatives;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_liberal_1;Reformists;Reformists;Reformists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_reactionary_1;Traditionalists;Traditionalists;Traditionalists;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_socialist_1;Peasants' Party;Peasants' Party;Peasants' Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_anarcho_liberal_1;Radical Republican Party;Radical Republican Party;Radical Republican Party;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_communist_1;Shining Path;Shining Path;Shining Path;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
+INC_fascist_1;Sons of the Sun;Sons of the Sun;Sons of the Sun;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 LMO_ADJ;Limoges;Limoges;Limoges;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 LMO;Limoges;Limoges;Limoges;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
 LMO_proletarian_dictatorship;Republic of Limoges;Republic of Limoges;Republic of Limoges;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;
@@ -850,19 +873,26 @@ SVY_federal_democracy;Republic of Savoy;Republic of Savoy;Republic of Savoy;;;;;
 SVY_theocracy;Savoy;Savoy;Savoy;;;;;;;;;;;x
 SVY_french_bourbon;Savoy;Savoy;Savoy;;;;;;;;;;;x
 SLV;Carpathia;Carpathia;Carpathia;;;;;;;;;;;x
-SLV_proletarian_dictatorship;Carpathian Council Republic;Carpathian Council Republic;Carpathian Council Republic;;;;;;;;;;;x
-SLV_presidential_dictatorship;Republic of Carpathia;Republic of Carpathia;Republic of Carpathia;;;;;;;;;;;x
+SLV_proletarian_dictatorship;Union of Carpathian Council Republics;Union of Carpathian Council Republics;Union of Carpathian Council Republics;;;;;;;;;;;x
+SLV_presidential_dictatorship;Confederation of Carpathia;Confederation of Carpathia;Confederation of Carpathia;;;;;;;;;;;x
 SLV_colonial_company;Carpathia;Carpathia;Carpathia;;;;;;;;;;;x
 SLV_dominion;Carpathia;Carpathia;Carpathia;;;;;;;;;;;x
-SLV_bourgeois_dictatorship;Republic of Carpathia;Republic of Carpathia;Republic of Carpathia;;;;;;;;;;;x
-SLV_fascist_dictatorship;Carpathian State;Carpathian State;Carpathian State;;;;;;;;;;;x
+SLV_bourgeois_dictatorship;Confederation of Carpathia;Confederation of Carpathia;Confederation of Carpathia;;;;;;;;;;;x
+SLV_fascist_dictatorship;Kingdom of Great Moravia;Kingdom of Great Moravia;Kingdom of Great Moravia;;;;;;;;;;;x
 SLV_absolute_monarchy;Triarchy of Carpathia;Triarchy of Carpathia;Triarchy of Carpathia;;;;;;;;;;;x
 SLV_prussian_constitutionalism;Triarchy of Carpathia;Triarchy of Carpathia;Triarchy of Carpathia;;;;;;;;;;;x
 SLV_hms_government;Triarchy of Carpathia;Triarchy of Carpathia;Triarchy of Carpathia;;;;;;;;;;;x
-SLV_democracy;Republic of Carpathia;Republic of Carpathia;Republic of Carpathia;;;;;;;;;;;x
-SLV_federal_democracy;Republic of Carpathia;Republic of Carpathia;Republic of Carpathia;;;;;;;;;;;x
+SLV_democracy;Confederation of Carpathia;Confederation of Carpathia;Confederation of Carpathia;;;;;;;;;;;x
+SLV_federal_democracy;Confederation of Carpathia;Confederation of Carpathia;Confederation of Carpathia;;;;;;;;;;;x
 SLV_theocracy;Carpathia;Carpathia;Carpathia;;;;;;;;;;;x
 SLV_french_bourbon;Carpathia;Carpathia;Carpathia;;;;;;;;;;;x
+SLV_conservative;National Constitution Party;National Constitution Party;National Constitution Party;;;;;;;;;;;x
+SLV_liberal;National Progressive Party;National Progressive Party;National Progressive Party;;;;;;;;;;;x
+SLV_reactionary;Carpathian Peoples' Party;Carpathian Peoples' Party;Carpathian Peoples' Party;;;;;;;;;;;x
+SLV_anarcho_liberal;Cooperate Council of Carpathia;Cooperate Council of Carpathia;Cooperate Council of Carpathia;;;;;;;;;;;x
+SLV_socialist;The Party of Carpathian Workers;The Party of Carpathian Workers;The Party of Carpathian Workers;;;;;;;;;;;x
+SLV_communist;Workers League of Carpathia;Workers League of Carpathia;Workers League of Carpathia;;;;;;;;;;;x
+SLV_fascist;Party of Moravian Catholics;Party of Moravian Catholics;Party of Moravian Catholics;;;;;;;;;;;x
 TUS;Tuscany;Tuscany;Tuscany;;;;;;;;;;;x
 TUS_proletarian_dictatorship;People's Republic of Tuscany;People's Republic of Tuscany;People's Republic of Tuscany;;;;;;;;;;;x
 TUS_presidential_dictatorship;Republic of Tuscany;Republic of Tuscany;Republic of Tuscany;;;;;;;;;;;x

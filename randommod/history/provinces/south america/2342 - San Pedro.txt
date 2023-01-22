@@ -1,6 +1,6 @@
-owner = PRG
-controller = PRG
-add_core = PRG
+owner = IRE
+controller = IRE
+colonial = 2
 trade_goods = wool
 life_rating = 31
 

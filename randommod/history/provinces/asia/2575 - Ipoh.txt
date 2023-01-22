@@ -1,7 +1,5 @@
-owner = PRK
-controller = PRK
-add_core = PRK
-add_core = JOH
-add_core = SIA
+owner = NET
+controller =  NET
+colonial = 2
 trade_goods = timber
 life_rating = 35

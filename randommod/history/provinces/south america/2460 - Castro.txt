@@ -1,5 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = IRE
+controller = IRE
+colonial = 2
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = MAD
-controller = MAD
-add_core = MAD
+owner = OMA
+controller = OMA
+colonial = 2
 terrain = jungle
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = FSK
+controller = FSK
+add_core = FSK
 trade_goods = timber
 life_rating = 35
 

@@ -1,7 +1,7 @@
-owner = DEN
-controller = DEN
+owner = NSE
+controller = NSE
 add_core = GRN
-add_core = DEN
+add_core = NSE
 trade_goods = fish
 life_rating = 10
 colonial = 2

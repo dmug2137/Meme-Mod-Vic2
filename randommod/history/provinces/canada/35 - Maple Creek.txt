@@ -1,7 +1,5 @@
-owner = RPL
-controller = RPL
-add_core = RPL
-add_core = MTC
+owner = NSE
+controller = NSE
 trade_goods = grain
 terrain = steppe
 life_rating = 30

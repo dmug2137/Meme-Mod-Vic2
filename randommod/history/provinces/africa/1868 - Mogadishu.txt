@@ -1,8 +1,6 @@
-owner = GEL
-controller = GEL
-add_core = MAJ
-add_core = GEL
-add_core = WRL
+owner = OMA
+controller = OMA
+colonial = 2
 trade_goods = cattle
 terrain = savanna
 life_rating = 35

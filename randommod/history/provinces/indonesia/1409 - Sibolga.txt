@@ -1,5 +1,6 @@
-owner = ATJ
-controller = ATJ
+owner = FEN
+controller = FEN
+colonial = 2
 add_core = ATJ
 trade_goods = coffee
 life_rating = 35

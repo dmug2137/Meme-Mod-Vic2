@@ -1,11 +1,5 @@
-owner = USA
-
-controller = USA
-
-add_core = USA
-
+owner = IDA
+controller = IDA
+add_core = IDA
 trade_goods = fruit
 life_rating = 35
-colonial = 2
-1861.1.1 = { colonial = 0 }
-

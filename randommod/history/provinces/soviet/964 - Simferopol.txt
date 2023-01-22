@@ -3,4 +3,4 @@ controller = GOT
 add_core = GOT
 trade_goods = fish
 life_rating = 35
-colonial = 2
+

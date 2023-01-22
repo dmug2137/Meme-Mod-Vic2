@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = FSK
+controller = FSK
+add_core = FSK
 add_core = NEN
 trade_goods = fish
 life_rating = 35

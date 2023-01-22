@@ -4,25 +4,25 @@
 1877 = {
 
 	clergymen = {
-		culture = portuguese
+		culture = western_nigritic
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = western_nigritic
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = western_nigritic
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = portuguese
+		culture = western_nigritic
 		religion = catholic
 		size = 100
 	}
@@ -109,74 +109,74 @@
 #Gabu (152000/38000 POPS)
 1878 = {
 	aristocrats = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 500
 	}
 	
 	bureaucrats = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 1000
 	}
 
 	soldiers = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 3768
 	}
 	
 	
 	aristocrats = {
-		culture = fulbe
+		culture = western_nigritic
 		religion = sunni
 		size = 400
 	}
 	
 	bureaucrats = {
-		culture = fulbe
+		culture = western_nigritic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = fulbe
+		culture = western_nigritic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = fulbe
+		culture = western_nigritic
 		religion = sunni
 		size = 1000
 	}
 
 	soldiers = {
-		culture = fulbe
+		culture = western_nigritic
 		religion = sunni
 		size = 1200
 	}
 
 	farmers = {
-		culture = fulbe
+		culture = western_nigritic
 		religion = sunni
 		size = 11129
 	}

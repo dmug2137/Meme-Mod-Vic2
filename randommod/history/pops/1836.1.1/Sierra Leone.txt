@@ -4,73 +4,73 @@
 1884 = {
 
 	aristocrats = {
-		culture = afro_caribbean
+		culture = western_nigritic
 		religion = protestant
 		size = 300
 	}
 	
 	officers = {
-		culture = afro_caribbean
+		culture = western_nigritic
 		religion = protestant
 		size = 100
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = western_nigritic
 		religion = protestant
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = western_nigritic
 		religion = protestant
 		size = 250
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = western_nigritic
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = western_nigritic
 		religion = protestant
 		size = 4700
 	}
 
 	aristocrats = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 675
 	}
 	
 	officers = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 1650
 	}
 
 	soldiers = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 32125
 	}
@@ -145,31 +145,31 @@
 #Bo (352000/88000 POPS) 
 1886 = {
 	aristocrats = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 900
 	}
 
 	clergymen = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 1875
 	}
 
 	soldiers = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 475
 	}
 
 	farmers = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 36650
 	}
@@ -215,31 +215,31 @@
 #Falaba (384000/96000 POPS) #now part of Sierra Leone 
 1885 = {
 	aristocrats = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 925
 	}
 
 	clergymen = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 1900
 	}
 
 	soldiers = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 475
 	}
 
 	farmers = {
-		culture = mande
+		culture = western_nigritic
 		religion = sunni
 		size = 36600
 	}

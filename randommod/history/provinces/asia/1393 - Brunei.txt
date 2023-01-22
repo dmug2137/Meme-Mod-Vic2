@@ -1,5 +1,6 @@
-owner = BRU
-controller = BRU
+owner = NET
+controller =  NET
+colonial = 2
 add_core = BRU
 trade_goods = timber
 life_rating = 30

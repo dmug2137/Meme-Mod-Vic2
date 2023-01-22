@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
-add_core = SLW
+owner = KTI
+controller = KTI
+add_core = KTI
 trade_goods = dye
 life_rating = 32

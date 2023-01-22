@@ -1,6 +1,6 @@
-owner = VNZ
-controller = VNZ
-add_core = VNZ
+owner = SPA
+controller = SPA
 trade_goods = coffee
 terrain = montane_forest
 life_rating = 32
+colonial = 2

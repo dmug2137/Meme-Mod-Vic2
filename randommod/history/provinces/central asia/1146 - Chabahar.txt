@@ -1,6 +1,5 @@
-owner = PER
-controller = PER
-add_core = PER
-add_core = BLC
+owner = OMA
+controller = OMA
+add_core = OMA
 trade_goods = fish
 life_rating = 35

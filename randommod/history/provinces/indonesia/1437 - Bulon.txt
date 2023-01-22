@@ -1,5 +1,5 @@
-owner = SLW
-controller = SLW
-add_core = SLW
+owner = KTI
+controller = KTI
+add_core = KTI
 trade_goods = fish
 life_rating = 30

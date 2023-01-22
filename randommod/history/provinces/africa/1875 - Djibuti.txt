@@ -1,6 +1,6 @@
-add_core = AWS
-add_core = WRL
+owner = OMA
+controller = OMA
+colonial = 2
 trade_goods = cattle
 terrain = semidesert
 life_rating = 10
-colonial = 1

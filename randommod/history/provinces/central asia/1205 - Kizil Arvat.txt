@@ -1,4 +1,6 @@
-add_core = TKM
+owner = KHI
+controller = KHI
+add_core = KHI
 terrain = desert
 trade_goods = fish
 life_rating = 20

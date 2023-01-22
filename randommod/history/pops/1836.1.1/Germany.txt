@@ -29,7 +29,7 @@
 	artisans = {
 		culture = elbian
 		religion = protestant
-		size = 2400
+		size = 2000
 	}
 
 	soldiers = {
@@ -47,7 +47,7 @@
 	farmers = {
 		culture = elbian
 		religion = protestant
-		size = 45650
+		size = 30650
 	}
 
 	farmers = {
@@ -60,6 +60,24 @@
 		culture = danelander
 		religion = protestant
 		size = 2500
+	}
+
+	clergymen = {
+		culture = polabian
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = polabian
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = polabian
+		religion = protestant
+		size = 25000
 	}
 }
 #Lauenburg (148000/37000 POPS)
@@ -79,7 +97,7 @@
 	artisans = {
 		culture = elbian
 		religion = protestant
-		size = 1825
+		size = 1250
 	}
 
 	soldiers = {
@@ -91,7 +109,25 @@
 	farmers = {
 		culture = elbian
 		religion = protestant
-		size = 29500
+		size = 12500
+	}
+
+	clergymen = {
+		culture = polabian
+		religion = protestant
+		size = 150 
+	}
+
+	artisans = {
+		culture = polabian
+		religion = protestant
+		size = 6000
+	}
+
+	farmers = {
+		culture = polabian
+		religion = protestant
+		size = 18000
 	}
 }
 #Lower Elbe Region (557600)
@@ -226,7 +262,13 @@
 	farmers = {
 		culture = saxon
 		religion = protestant
-		size = 34900
+		size = 27900
+	}
+
+	farmers = {
+		culture = polabian
+		religion = protestant
+		size = 8000
 	}
 }
 #Under rule of Britain 1836
@@ -285,6 +327,24 @@
 		size = 8476 
 	}
 
+	clergymen = {
+		culture = polabian
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = polabian
+		religion = protestant
+		size = 7000
+	}
+
+	farmers = {
+		culture = polabian
+		religion = protestant
+		size = 9000
+	}
+
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
@@ -321,7 +381,7 @@
 	artisans = {
 		culture = elbian
 		religion = protestant
-		size = 6000
+		size = 3000
 	}
 
 	soldiers = {
@@ -333,7 +393,25 @@
 	farmers = {
 		culture = elbian
 		religion = protestant
-		size = 69800 
+		size = 19800 
+	}
+
+	clergymen = {
+		culture = polabian
+		religion = protestant
+		size = 200
+	}
+
+	artisans = {
+		culture = polabian
+		religion = protestant
+		size = 4000
+	}
+
+	farmers = {
+		culture = polabian
+		religion = protestant
+		size = 40000
 	}
 }
 #Neustrelitz (90000/22500 POPS)
@@ -364,6 +442,24 @@
 
 	farmers = {
 		culture = elbian
+		religion = protestant
+		size = 2000
+	}
+
+	clergymen = {
+		culture = polabian
+		religion = protestant
+		size = 225
+	}
+
+	artisans = {
+		culture = polabian
+		religion = protestant
+		size = 1125
+	}
+
+	farmers = {
+		culture = polabian
 		religion = protestant
 		size = 12950
 	}
@@ -849,7 +945,7 @@
 	artisans = {
 		culture = elbian
 		religion = protestant
-		size = 3050
+		size = 2050
 	}
 
 	soldiers = {
@@ -861,13 +957,31 @@
 	farmers = {
 		culture = elbian
 		religion = protestant
-		size = 32725
+		size = 12725
 	}
 
 	farmers = {
 		culture = pomeranian
 		religion = protestant
 		size = 8500
+	}
+
+	clergymen = {
+		culture = polabian
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = polabian
+		religion = protestant
+		size = 2500
+	}
+
+	farmers = {
+		culture = polabian
+		religion = protestant
+		size = 22725
 	}
 }
 #Stralsund (157000/39250 POPS)
@@ -887,7 +1001,7 @@
 	artisans = {
 		culture = elbian
 		religion = protestant
-		size = 2350
+		size = 1350
 	}
 
 	soldiers = {
@@ -899,7 +1013,25 @@
 	farmers = {
 		culture = elbian
 		religion = protestant
-		size = 24250
+		size = 12500
+	}
+
+	clergymen = {
+		culture = polabian
+		religion = protestant
+		size = 100 
+	}
+
+	artisans = {
+		culture = polabian
+		religion = protestant
+		size = 2500
+	}
+
+	farmers = {
+		culture = polabian
+		religion = protestant
+		size = 25000
 	}
 }
 #Brandenburg Region (1628000) #see Poland.txt for balance of region

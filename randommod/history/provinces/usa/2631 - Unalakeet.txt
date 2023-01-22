@@ -1,7 +1,6 @@
-owner = RUS
-controller = RUS
+owner = NSE
+controller = NSE
 colonial = 2
-add_core = LSK
 terrain = new_world_arctic
 trade_goods = fish
 life_rating = 15

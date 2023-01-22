@@ -1,7 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = SLE
-trade_goods = grain
-naval_base = 1
-life_rating = 35
+owner = FEN
+controller = FEN
 colonial = 2
+trade_goods = grain
+life_rating = 35

@@ -1,7 +1,5 @@
-owner = POR
-controller = POR
-add_core = SHO
-add_core = AGC
+owner = OMA
+controller = OMA
+colonial = 2
 trade_goods = grain
 life_rating = 35
-colonial = 2

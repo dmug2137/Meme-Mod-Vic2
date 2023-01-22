@@ -1,6 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = LSK
+owner = NSE
+controller = NSE
 trade_goods = timber
 life_rating = 35
 colonial = 2

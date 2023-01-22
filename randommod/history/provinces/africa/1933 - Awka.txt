@@ -1,6 +1,5 @@
-owner = ARO
-controller = ARO
-add_core = ARO
-add_core = WRI
+owner = NSE
+controller = NSE
+colonial = 2
 trade_goods = cattle
 life_rating = 35

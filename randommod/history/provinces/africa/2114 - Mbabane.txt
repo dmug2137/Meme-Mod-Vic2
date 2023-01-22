@@ -1,5 +1,5 @@
-owner = SUA
-controller = SUA
-add_core = SUA
+owner = NSE
+controller = NSE
+colonial = 2
 trade_goods = grain
 life_rating = 35

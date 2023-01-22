@@ -1,6 +1,5 @@
-owner = UCA
-controller = UCA
-add_core = UCA
-add_core = GUA
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = fish
 life_rating = 31

@@ -1,7 +1,5 @@
-owner = RPL
-controller = RPL
-add_core = RPL
-add_core = MTC
+owner = NSE
+controller = NSE
 colonial = 2
 trade_goods = timber
 terrain = new_world_boreal

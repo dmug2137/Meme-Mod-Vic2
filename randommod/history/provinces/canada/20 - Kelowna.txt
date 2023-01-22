@@ -1,10 +1,6 @@
-owner = RPL
-controller = RPL
-add_core = COL
+owner = NSE
+controller = NSE
 trade_goods = grain
 life_rating = 30
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}
+colonial = 2
+

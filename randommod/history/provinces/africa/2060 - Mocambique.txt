@@ -1,7 +1,5 @@
-owner = POR
-controller = POR
-add_core = AGC
+owner = OMA
+controller = OMA
+colonial = 2
 trade_goods = cotton
 life_rating = 35
-colonial = 2
-naval_base = 1

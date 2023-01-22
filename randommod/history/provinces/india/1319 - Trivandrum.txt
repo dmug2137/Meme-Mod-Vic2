@@ -1,5 +1,6 @@
-owner = TRA
-controller = TRA
+owner = NSE
+controller = NSE
+colonial = 2
 add_core = TRA
 add_core = HND
 trade_goods = fruit

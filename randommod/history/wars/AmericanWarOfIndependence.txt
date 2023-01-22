@@ -1,6 +1,6 @@
-name = "The American War of Independence"
+name = "American War of Independence"
 
-1775.4.19 = {
+2000.1.1 = {
 	add_attacker = USA
 	add_defender = ENG
 	
@@ -12,7 +12,7 @@ name = "The American War of Independence"
 
 }
 
-1783.9.3 = {
+2001.1.1 = {
 	rem_attacker = USA
 	rem_defender = ENG
 }

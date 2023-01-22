@@ -1,7 +1,7 @@
-owner = USA
+owner = FSK
 
-controller = USA
-add_core = USA
+controller = FSK
+add_core = FSK
 trade_goods = fish
 naval_base = 1
 life_rating = 35

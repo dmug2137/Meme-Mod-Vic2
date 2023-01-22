@@ -1,7 +1,7 @@
-owner = USA
-controller = USA
+owner = FSK
+controller = FSK
 
-add_core = USA
+add_core = FSK
 trade_goods = coal
 life_rating = 35
 terrain = pittsburgh

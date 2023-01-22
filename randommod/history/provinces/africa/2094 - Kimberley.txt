@@ -1,5 +1,6 @@
+owner = BSH
+controller = BSH
+add_core = BSH
 trade_goods = grain
-add_core = SAF
 terrain = steppe
 life_rating = 15
-colonial = 1

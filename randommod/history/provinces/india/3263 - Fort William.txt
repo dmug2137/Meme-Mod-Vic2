@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = FEN
+controller = FEN
 add_core = BNG
 trade_goods = precious_goods
 life_rating = 35

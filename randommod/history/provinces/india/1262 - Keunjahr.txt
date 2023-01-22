@@ -1,6 +1,7 @@
-owner = ORI
-controller = ORI
+owner = FEN
+controller = FEN
 add_core = ORI
 add_core = HND
+colonial = 2
 trade_goods = grain
 life_rating = 32

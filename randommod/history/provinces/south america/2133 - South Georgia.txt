@@ -1,3 +1,6 @@
+owner = FEN
+controller = FEN
+colonial = 2
 trade_goods = fish
 life_rating = 30
 terrain = new_world_arctic

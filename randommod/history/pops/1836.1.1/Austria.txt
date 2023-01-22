@@ -29,19 +29,19 @@
 	artisans = {
 		culture = allemanic
 		religion = reformed
-		size = 2750
+		size = 1750
 	}
 
 	soldiers = {
 		culture = allemanic
 		religion = reformed
-		size = 3000
+		size = 2000
 	}
 
 	farmers = {
 		culture = allemanic
 		religion = reformed
-		size = 50325
+		size = 20325
 	}
 
 	clergymen = {
@@ -59,13 +59,13 @@
 	soldiers = {
 		culture = bavarian
 		religion = reformed
-		size = 2000
+		size = 3000
 	}
 
 	farmers = {
 		culture = bavarian
 		religion = reformed
-		size = 20325
+		size = 40325
 	}
 }
 #Salzburg (136000/34000 POPS)

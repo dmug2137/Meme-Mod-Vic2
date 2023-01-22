@@ -1,2 +1,5 @@
+owner = NSE
+controller = NSE
+colonial = 2
 trade_goods = coffee
 life_rating = 10

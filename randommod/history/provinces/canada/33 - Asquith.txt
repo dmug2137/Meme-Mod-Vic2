@@ -1,7 +1,5 @@
-owner = RPL
-controller = RPL
-add_core = RPL
+owner = NSE
+controller = NSE
 colonial = 2
-add_core = MTC
 trade_goods = grain
 life_rating = 30

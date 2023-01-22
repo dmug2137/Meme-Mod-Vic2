@@ -1,6 +1,5 @@
-owner = MLD
-controller = MLD
-add_core = MLD
+owner = OMA
+controller = OMA
 trade_goods = fish
 life_rating = 32
 colonial = 2

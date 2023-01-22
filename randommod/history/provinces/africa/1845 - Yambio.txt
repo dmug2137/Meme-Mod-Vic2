@@ -1,5 +1,5 @@
-add_core = AZA
+owner = DAR
+controller = DAR
 add_core = DAR
 trade_goods = grain
 life_rating = 15
-colonial = 2

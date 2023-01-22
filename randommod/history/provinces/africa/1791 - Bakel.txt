@@ -1,7 +1,5 @@
-owner = GBU
-controller = GBU
-add_core = GBU
-add_core = TOO
+owner = SEG
+controller = SEG
 add_core = SEG
 trade_goods = cattle
 terrain = semidesert

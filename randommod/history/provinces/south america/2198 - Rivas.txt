@@ -1,9 +1,5 @@
-owner = UCA
-controller = UCA
-add_core = NIC
+owner = SPA
+controller = SPA
 trade_goods = fish
 life_rating = 31
-1861.1.1 = {
-	owner = NIC
-	controller = NIC
-}
+colonial = 2

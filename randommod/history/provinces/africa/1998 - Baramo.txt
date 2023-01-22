@@ -1,3 +1,5 @@
-add_core = AZA
+owner = SHK
+controller = SHK
+add_core = SHK
 trade_goods = fruit
 life_rating = 10

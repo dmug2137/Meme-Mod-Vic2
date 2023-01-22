@@ -1,6 +1,6 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner = CLM
+controller = CLM
+add_core = CLM
 trade_goods = wool
 terrain = jungle
 life_rating = 31

@@ -1,6 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = SPA
+controller = SPA
 trade_goods = coal
 terrain = montane_forest
 life_rating = 32
+colonial = 2

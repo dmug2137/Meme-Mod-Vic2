@@ -1,11 +1,6 @@
-owner = OMA
-controller = OMA
-add_core = ZAN
-add_core = OMA
+owner = NSE
+controller = NSE
+colonial = 2
 trade_goods = precious_goods
 life_rating = 40
 terrain = zanzibar
-1861.1.1 = {
-	owner = ZAN
-	controller = ZAN
-}

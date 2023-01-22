@@ -1,5 +1,5 @@
-owner = ARO
-controller = ARO
-add_core = ARO
+owner = NSE
+controller = NSE
+colonial = 2
 trade_goods = grain
 life_rating = 35

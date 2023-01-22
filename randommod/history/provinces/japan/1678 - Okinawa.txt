@@ -1,5 +1,6 @@
-owner = RYU
-controller = RYU
+owner = NET
+controller = NET
 add_core = RYU
+add_core = JAP
 trade_goods = grain
 life_rating = 35

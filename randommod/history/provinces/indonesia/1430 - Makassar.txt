@@ -1,6 +1,5 @@
-owner = NET
-controller = NET
-add_core = SLW
+owner = KTI
+controller = KTI
+add_core = KTI
 trade_goods = timber
 life_rating = 32
-colonial = 2

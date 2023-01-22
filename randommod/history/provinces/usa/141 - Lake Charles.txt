@@ -1,7 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
-add_core = ULA
+owner = FSK
+controller = FSK
+add_core = FSK
 trade_goods = sulphur
 life_rating = 35
 

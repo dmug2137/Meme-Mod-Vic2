@@ -1,7 +1,6 @@
-owner = KBO
-controller = KBO
-add_core = SOK
-add_core = KBO
+owner = ARO
+controller = ARO
+add_core = ARO
 trade_goods = fruit
 terrain = semidesert
 life_rating = 35

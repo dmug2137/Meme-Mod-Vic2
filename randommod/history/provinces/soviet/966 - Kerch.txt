@@ -4,4 +4,3 @@ add_core = GOT
 trade_goods = iron
 life_rating = 35
 terrain = kerch
-colonial = 2

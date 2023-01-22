@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = SEY
+owner = NSE
+controller = NSE
+colonial = 2
 trade_goods = fruit
 life_rating = 35
-colonial = 2
 terrain = small_island

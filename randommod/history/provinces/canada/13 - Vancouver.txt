@@ -1,6 +1,5 @@
-owner = RPL
-controller = RPL
-add_core = COL
+owner = NSE
+controller = NSE
 trade_goods = fish
 life_rating = 35
 terrain = vancouver

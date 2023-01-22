@@ -1,8 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = MAJ
-add_core = GEL
-add_core = WRL
+owner = OMA
+controller = OMA
+colonial = 2
 trade_goods = grain
 terrain = semidesert
 life_rating = 35

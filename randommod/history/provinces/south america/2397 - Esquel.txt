@@ -1,4 +1,6 @@
-add_core = PTG
+owner = SPA
+controller = SPA
+colonial = 2
 trade_goods = wool
 terrain = dryhills
 life_rating = 15

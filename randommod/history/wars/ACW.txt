@@ -1,6 +1,6 @@
-#name = "The War of Northern Aggression"
+#name = "War of Northern Aggression"
 
-1861.4.13 = {
+2000.1.1 = {
 	add_attacker = USA
 	add_defender = CSA
 	

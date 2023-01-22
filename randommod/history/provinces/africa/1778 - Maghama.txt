@@ -1,6 +1,6 @@
-owner = TRZ
-controller = TRZ
-add_core = TRZ
+owner = SEG
+controller = SEG
+add_core = SEG
 trade_goods = timber
 life_rating = 15
 terrain = semidesert

@@ -1,5 +1,6 @@
-add_core = HBY
+owner = ZAN
+controller = ZAN
+add_core = ZAN
 trade_goods = coffee
 terrain = savanna
 life_rating = 10
-colonial = 1

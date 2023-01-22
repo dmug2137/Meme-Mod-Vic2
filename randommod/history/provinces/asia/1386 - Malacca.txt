@@ -1,6 +1,6 @@
-owner = EIC
-controller = EIC
+owner = NET
+controller =  NET
+colonial = 2
 add_core = JOH
 trade_goods = tropical_wood
 life_rating = 37
-colonial = 2

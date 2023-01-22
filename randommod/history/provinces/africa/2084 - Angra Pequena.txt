@@ -1,5 +1,6 @@
-add_core = NMB
+owner = FEN
+controller = FEN
+colonial = 2
 terrain = desert
 trade_goods = fish
 life_rating = 10
-colonial = 1

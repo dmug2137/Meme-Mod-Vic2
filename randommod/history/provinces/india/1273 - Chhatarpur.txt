@@ -1,8 +1,7 @@
-owner = CHH
-controller = CHH
-add_core = CHH
-add_core = BUN
+owner = MUG
+controller = MUG
 add_core = MUG
+add_core = BUN
 add_core = HND
 trade_goods = dye
 life_rating = 32

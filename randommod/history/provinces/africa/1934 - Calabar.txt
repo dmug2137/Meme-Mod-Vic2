@@ -1,6 +1,5 @@
-owner = CLA
-controller = CLA
-add_core = CLA
-add_core = ARO
+owner = NSE
+controller = NSE
+colonial = 2
 trade_goods = fish
 life_rating = 35

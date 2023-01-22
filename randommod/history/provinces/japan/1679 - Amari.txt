@@ -1,7 +1,7 @@
-owner = SAT
-controller = SAT
-add_core = SAT
-add_core = RYU
+owner = NET
+controller = NET
+add_core = JAP
+colonial = 2
 trade_goods = iron
 life_rating = 35
 terrain = small_island

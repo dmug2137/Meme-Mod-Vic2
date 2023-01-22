@@ -1,4 +1,5 @@
-add_core = EQG
+owner = NET
+controller = NET
+colonial = 2
 trade_goods = timber
 life_rating = 5
-colonial = 2

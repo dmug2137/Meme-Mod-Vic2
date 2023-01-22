@@ -1,6 +1,6 @@
-owner = PNJ
-controller = PNJ
-add_core = PNJ
+owner = CRL
+controller = CRL
+add_core = CRL
 add_core = AFG
 add_core = HND
 trade_goods = grain

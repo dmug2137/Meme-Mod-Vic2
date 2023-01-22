@@ -1,6 +1,5 @@
-owner = SLG
-controller = SLG
-add_core = SLG
-add_core = JOH
+owner = NET
+controller =  NET
+colonial = 2
 trade_goods = timber
 life_rating = 35

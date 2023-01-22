@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = NEW
+owner = FEN
+controller = FEN
 trade_goods = fish
 terrain = stjohn
 life_rating = 30

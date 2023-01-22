@@ -1,3 +1,5 @@
-add_core = KAZ
+owner = KML
+controller = KML
+add_core = KML
 trade_goods = grain
 life_rating = 30

@@ -1,9 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = SAF
+owner = SPA
+controller = SPA
+colonial = 2
 trade_goods = fruit
 life_rating = 35
 terrain = capetown
-colonial = 2
-naval_base = 1
-1861.1.1 = { railroad = 1 }

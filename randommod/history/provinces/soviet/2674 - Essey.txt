@@ -1,8 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = SIB
-add_core = ALT
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = timber
 life_rating = 35
-colonial = 2

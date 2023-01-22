@@ -1,11 +1,6 @@
-owner = BUR
-controller = BUR
-add_core = KAR
-add_core = BUR
+owner = KCH
+controller = KCH
+add_core = KCH
 trade_goods = opium
 life_rating = 35
-1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
-}
+
