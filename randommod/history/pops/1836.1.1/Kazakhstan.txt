@@ -3,39 +3,33 @@
 #Guryev (19000/4750 POPS)
 1182 = {
 	bureaucrats = {
-		culture = russian
-		religion = orthodox
+		culture = tatar
+		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
-		culture = russian
-		religion = orthodox
-		size = 15
+		culture = tatar
+		religion = sunni
+		size = 100
 	}
 
 	artisans = {
-		culture = russian
-		religion = orthodox
-		size = 35
+		culture = tatar
+		religion = sunni
+		size = 200
 	}
 
 	soldiers = {
-		culture = russian
-		religion = orthodox
-		size = 15
+		culture = tatar
+		religion = sunni
+		size = 350
 	}
 
 	farmers = {
-		culture = russian
-		religion = orthodox
-		size = 665
-	}
-
-	aristocrats = {
-		culture = kazak
+		culture = tatar
 		religion = sunni
-		size = 75
+		size = 4665
 	}
 
 	clergymen = {
@@ -64,12 +58,6 @@
 }
 #Aqtobe (20000/5000 POPS)
 1183 = {
-	aristocrats = {
-		culture = kazak
-		religion = sunni
-		size = 75
-	}
-
 	clergymen = {
 		culture = kazak
 		religion = sunni
@@ -97,33 +85,27 @@
 #Uralsk (13000/3250 POPS)
 2610 = {
 	clergymen = {
-		culture = russian
-		religion = orthodox
+		culture = tatar
+		religion = sunni
 		size = 30
 	}
 
 	artisans = {
-		culture = russian
-		religion = orthodox
+		culture = tatar
+		religion = sunni
 		size = 45
 	}
 
 	soldiers = {
-		culture = russian
-		religion = orthodox
+		culture = tatar
+		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = russian
-		religion = orthodox
-		size = 1150
-	}
-
-	aristocrats = {
-		culture = kazak
+		culture = tatar
 		religion = sunni
-		size = 25
+		size = 1150
 	}
 
 	clergymen = {
@@ -152,12 +134,6 @@
 }
 #Turgay (20000/5000 POPS)
 2611 = {
-	aristocrats = {
-		culture = kazak
-		religion = sunni
-		size = 75
-	}
-
 	clergymen = {
 		culture = kazak
 		religion = sunni
@@ -186,12 +162,6 @@
 #under the rule of Russia in 1836
 #Qaraganda (56000/14000 POPS)
 1181 = {
-	aristocrats = {
-		culture = kazak
-		religion = sunni
-		size = 225
-	}
-
 	clergymen = {
 		culture = kazak
 		religion = sunni
@@ -219,33 +189,33 @@
 #Kokshetau (96000/24000 POPS)
 1184 = {
 	bureaucrats = {
-		culture = russian
-		religion = orthodox
+		culture = tatar
+		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = russian
-		religion = orthodox
+		culture = tatar
+		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = russian
-		religion = orthodox
-		size = 150
+		culture = tatar
+		religion = sunni
+		size = 650
 	}
 
 	soldiers = {
-		culture = russian
-		religion = orthodox
+		culture = tatar
+		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = russian
-		religion = orthodox
-		size = 2700
+		culture = tatar
+		religion = sunni
+		size = 5700
 	}
 
 	aristocrats = {
@@ -308,12 +278,6 @@
 		culture = kazak
 		religion = sunni
 		size = 18250
-	}
-
-	slaves = {
-		culture = russian
-		religion = orthodox
-		size = 5000
 	}
 }
 #Zhambul (76000/19000 POPS)

@@ -1,4 +1,4 @@
-capital = 994
+capital = 1036
 primary_culture = tatar
 religion = sunni
 government = absolute_monarchy
