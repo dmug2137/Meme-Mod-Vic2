@@ -3,7 +3,7 @@
 #========================= H E A D E R =========================
 
 capital = 457
-primary_culture = south_french
+primary_culture = french
 religion = catholic
 government = prussian_constitutionalism
 plurality = 15

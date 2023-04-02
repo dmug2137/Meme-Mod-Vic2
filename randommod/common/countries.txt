@@ -4,6 +4,7 @@
 REB 	= 	"countries/rebels.txt"
 
 ### NEW NATIONS MOD ###
+CHN		= "countries/CHN.txt"
 NSE     = "countries/NSE.txt"
 VEN		= "countries/VEN.txt"
 FEN 	= "countries/FEN.txt"

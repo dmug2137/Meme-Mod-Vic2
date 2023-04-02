@@ -399,25 +399,25 @@
 
 	clergymen = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 	
 	soldiers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 250
 	}
 
 	artisans = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 975
 	}
 	
 	farmers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 3000
 	}
 }
@@ -491,13 +491,13 @@
 
 	clergymen = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	artisans = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 975
 	}
 
@@ -890,25 +890,25 @@
 
 	clergymen = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	artisans = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 975
 	}
 	
 	soldiers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	farmers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 5000
 	}
 }
@@ -965,12 +965,6 @@
 		culture = makua
 		religion = catholic
 		size = 50
-	}
-
-	bureaucrats = {
-		culture = makua
-		religion = catholic
-		size = 25
 	}
 
 	artisans = {
@@ -1062,55 +1056,55 @@
 
 	aristocrats = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 150
 	}
 
 	clergymen = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 150
 	}
 
 	artisans = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 750
 	}
 
 	soldiers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 200
 	}
 
 	farmers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 12750
 	}
 
 	clergymen = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 	
 	soldiers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	artisans = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 2925
 	}
 	
 	farmers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 5000
 	}
 }
@@ -1154,25 +1148,25 @@
 
 	clergymen = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 	
 	soldiers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	artisans = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 1950
 	}
 	
 	farmers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 3000
 	}
 }
@@ -1180,31 +1174,31 @@
 2064 = {
 	aristocrats = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 250
 	}
 
 	clergymen = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 250
 	}
 
 	artisans = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 1250
 	}
 
 	soldiers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 300
 	}
 
 	farmers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 21950
 	}
 
@@ -1335,31 +1329,31 @@
 2581 = {
 	aristocrats = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 450
 	}
 
 	clergymen = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 400
 	}
 
 	artisans = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 2100
 	}
 
 	soldiers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 450
 	}
 
 	farmers = {
 		culture = makua
-		religion = sunni
+		religion = ibadi
 		size = 35600
 	}
 

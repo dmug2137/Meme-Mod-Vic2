@@ -582,31 +582,31 @@
 1858 = {
 	aristocrats = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 315
 	}
 
 	clergymen = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 175
 	}
 
 	artisans = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 700
 	}
 
 	soldiers = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 175
 	}
 
 	farmers = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 12635
 	}
 

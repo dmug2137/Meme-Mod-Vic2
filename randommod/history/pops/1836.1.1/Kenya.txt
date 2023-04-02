@@ -395,31 +395,31 @@
 2031 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 400
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 200
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 850
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 225
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 18225
 	}
 
@@ -493,31 +493,31 @@
 
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 150
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 2700
 	}
 }
@@ -527,61 +527,61 @@
 2029 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 200
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 550
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 1100
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 9150
 	}
 
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 100
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 50
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 300
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 50
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 500
 	}
 
@@ -625,31 +625,31 @@
 2030 = {
 	aristocrats = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 225
 	}
 
 	clergymen = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 125
 	}
 
 	artisans = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 500
 	}
 
 	soldiers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 125
 	}
 
 	farmers = {
 		culture = swahili
-		religion = sunni
+		religion = ibadi
 		size = 10025
 	}
 

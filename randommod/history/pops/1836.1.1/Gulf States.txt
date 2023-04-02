@@ -248,82 +248,82 @@
 1167 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 125
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
-        size = 15
+        religion = ibadi
+        size = 150
     }
 
     officers = {
         culture = bedouin
-        religion = sunni
-        size = 10
+        religion = ibadi
+        size = 100
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
-        size = 50
+        religion = ibadi
+        size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
-        size = 250
+        religion = ibadi
+        size = 850
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 1000
     }
 
     farmers = {
         culture = bedouin
+        religion = ibadi
+        size = 16500
+    }
+
+    farmers = {
+        culture = bedouin
         religion = sunni
-        size = 3650
+        size = 5000
     }
 
     slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 800
+        culture = nilotic
+        religion = ibadi
+        size = 1500
     }
 }
 #Dubai (16000/4000 POPS)   #now part of UAE
 1168 = {
-    aristocrats = {
-        culture = bedouin
-        religion = sunni
-        size = 50
-    }
-
     clergymen = {
         culture = bedouin
-        religion = sunni
-        size = 75
+        religion = ibadi
+        size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
-        size = 200
+        religion = ibadi
+        size = 1000
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 1000
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
-        size = 2625
+        religion = ibadi
+        size = 12625
     }
 
     farmers = {

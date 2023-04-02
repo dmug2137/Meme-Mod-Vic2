@@ -480,31 +480,31 @@
 1325 = {
 	aristocrats = {
 		culture = asian_minor
-		religion = sunni
+		religion = ibadi
 		size = 50
 	}
 
 	clergymen = {
 		culture = asian_minor
-		religion = sunni
+		religion = ibadi
 		size = 50
 	}
 
 	artisans = {
 		culture = asian_minor
-		religion = sunni
+		religion = ibadi
 		size = 500
 	}
 
 	soldiers = {
 		culture = asian_minor
-		religion = sunni
+		religion = ibadi
 		size = 75
 	}
 
 	farmers = {
 		culture = asian_minor
-		religion = sunni
+		religion = ibadi
 		size = 5325
 	}
 

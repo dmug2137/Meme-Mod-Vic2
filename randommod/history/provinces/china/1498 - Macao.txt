@@ -1,6 +1,8 @@
 owner = CHI
 controller = CHI
+add_core = CHN
 add_core = CHI
+
 trade_goods = precious_goods
 life_rating = 35
 terrain = macao

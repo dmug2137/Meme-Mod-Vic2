@@ -1115,7 +1115,7 @@
 	}
 
 	farmers = {
-		culture = south_french
+		culture = french
 		religion = catholic
 		size = 5000
 	}

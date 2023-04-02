@@ -1,6 +1,6 @@
-capital = 1448
-primary_culture = moluccan
-culture = melanesian
+capital = 1453
+primary_culture = dutch
+culture = malay
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

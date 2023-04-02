@@ -1,0 +1,253 @@
+#Slovakia Region (1588000) 
+#under the rule of Austria in 1836  
+#Bratislava (691060/172765 POPS)
+633 = {
+	bureaucrats = {
+		culture = slovak
+		religion = catholic
+		size = 825 
+	}
+
+	aristocrats = {
+		culture = slovak
+		religion = catholic
+		size = 1450
+	}
+	
+	officers = {
+		culture = slovak
+		religion = catholic
+		size = 375 
+	}
+
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 2200 
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 130000
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 12500 
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 331500
+	}
+
+	clergymen = {
+		culture = czech
+		religion = catholic
+		size = 100  
+	}
+
+	artisans = {
+		culture = czech
+		religion = catholic
+		size = 6500
+	}
+
+	soldiers = {
+		culture = czech
+		religion = catholic
+		size = 1350  
+	}
+
+	farmers = {
+		culture = czech
+		religion = catholic
+		size = 1400   
+	}
+
+	artisans = {
+		culture = pannonian
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = silesian
+		religion = catholic
+		size = 4545
+	}
+}
+#Trencin (342540/85635 POPS)
+634 = {
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 500 
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 6800
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 2000 
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 98000
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 250  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1200
+	}
+
+}
+#Nitra (3279752/819938 POPS)
+635 = {
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 850
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 15400
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 2650 
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 180300
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 350  
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1700
+	}
+
+}
+#Banska Bystrica (340000/85000 POPS)
+636 = {
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 475
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 4650
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 2000 
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 74375 
+	}
+}
+#Felvidek Region (860000) #see Hungary.txt and Ukraine.txt for balance of Region
+#under the rule of Austria in 1836  
+#Kosice (497628/124407POPS)
+637 = {
+	bureaucrats = {
+		culture = slovak
+		religion = catholic
+		size = 375 
+	}
+
+	officers = {
+		culture = slovak
+		religion = catholic
+		size = 175 
+	}
+
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 975
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 29000
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 4900 
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 178750 
+	}
+}
+#Roznava (160400/40100 POPS)
+638 = {
+	clergymen = {
+		culture = slovak
+		religion = catholic
+		size = 275
+	}
+
+	artisans = {
+		culture = slovak
+		religion = catholic
+		size = 8100
+	}
+
+	soldiers = {
+		culture = slovak
+		religion = catholic
+		size = 2200 
+	}
+
+	farmers = {
+		culture = slovak
+		religion = catholic
+		size = 61900    
+	}
+	
+}

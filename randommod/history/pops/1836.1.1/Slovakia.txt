@@ -1,253 +1,250 @@
-#Slovakia Region (1588000) 
-#under the rule of Austria in 1836  
+#Slovakia Region (1588000)
+#under the rule of Austria in 1836
 #Bratislava (691060/172765 POPS)
 633 = {
-	bureaucrats = {
-		culture = slovak
-		religion = catholic
-		size = 825 
-	}
+    bureaucrats = {
+        culture = slovak
+        religion = catholic
+        size = 495
+    }
 
-	aristocrats = {
-		culture = slovak
-		religion = catholic
-		size = 1450
-	}
-	
-	officers = {
-		culture = slovak
-		religion = catholic
-		size = 375 
-	}
+    aristocrats = {
+        culture = slovak
+        religion = catholic
+        size = 870
+    }
 
-	clergymen = {
-		culture = slovak
-		religion = catholic
-		size = 2200 
-	}
+    officers = {
+        culture = slovak
+        religion = catholic
+        size = 225
+    }
 
-	artisans = {
-		culture = slovak
-		religion = catholic
-		size = 130000
-	}
+    clergymen = {
+        culture = slovak
+        religion = catholic
+        size = 1320
+    }
 
-	soldiers = {
-		culture = slovak
-		religion = catholic
-		size = 12500 
-	}
+    artisans = {
+        culture = slovak
+        religion = catholic
+        size = 78000
+    }
 
-	farmers = {
-		culture = slovak
-		religion = catholic
-		size = 331500
-	}
+    soldiers = {
+        culture = slovak
+        religion = catholic
+        size = 7500
+    }
 
-	clergymen = {
-		culture = czech
-		religion = catholic
-		size = 100  
-	}
+    farmers = {
+        culture = slovak
+        religion = catholic
+        size = 198900
+    }
 
-	artisans = {
-		culture = czech
-		religion = catholic
-		size = 6500
-	}
+    clergymen = {
+        culture = czech
+        religion = catholic
+        size = 60
+    }
 
-	soldiers = {
-		culture = czech
-		religion = catholic
-		size = 1350  
-	}
+    artisans = {
+        culture = czech
+        religion = catholic
+        size = 3900
+    }
 
-	farmers = {
-		culture = czech
-		religion = catholic
-		size = 1400   
-	}
+    soldiers = {
+        culture = czech
+        religion = catholic
+        size = 810
+    }
 
-	artisans = {
-		culture = pannonian
-		religion = catholic
-		size = 5000
-	}
+    farmers = {
+        culture = czech
+        religion = catholic
+        size = 840
+    }
 
-	artisans = {
-		culture = silesian
-		religion = catholic
-		size = 4545
-	}
+    artisans = {
+        culture = pannonian
+        religion = catholic
+        size = 3000
+    }
+
+    artisans = {
+        culture = silesian
+        religion = catholic
+        size = 2727
+    }
 }
 #Trencin (342540/85635 POPS)
 634 = {
-	clergymen = {
-		culture = slovak
-		religion = catholic
-		size = 500 
-	}
+    clergymen = {
+        culture = slovak
+        religion = catholic
+        size = 500
+    }
 
-	artisans = {
-		culture = slovak
-		religion = catholic
-		size = 6800
-	}
+    artisans = {
+        culture = slovak
+        religion = catholic
+        size = 6800
+    }
 
-	soldiers = {
-		culture = slovak
-		religion = catholic
-		size = 2000 
-	}
+    soldiers = {
+        culture = slovak
+        religion = catholic
+        size = 2000
+    }
 
-	farmers = {
-		culture = slovak
-		religion = catholic
-		size = 98000
-	}
+    farmers = {
+        culture = slovak
+        religion = catholic
+        size = 98000
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 250  
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 250
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1200
-	}
-
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1200
+    }
 }
 #Nitra (3279752/819938 POPS)
 635 = {
-	clergymen = {
-		culture = slovak
-		religion = catholic
-		size = 850
-	}
+    clergymen = {
+        culture = slovak
+        religion = catholic
+        size = 510
+    }
 
-	artisans = {
-		culture = slovak
-		religion = catholic
-		size = 15400
-	}
+    artisans = {
+        culture = slovak
+        religion = catholic
+        size = 9240
+    }
 
-	soldiers = {
-		culture = slovak
-		religion = catholic
-		size = 2650 
-	}
+    soldiers = {
+        culture = slovak
+        religion = catholic
+        size = 1590
+    }
 
-	farmers = {
-		culture = slovak
-		religion = catholic
-		size = 180300
-	}
+    farmers = {
+        culture = slovak
+        religion = catholic
+        size = 108180
+    }
 
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 350  
-	}
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 210
+    }
 
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 1700
-	}
-
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1020
+    }
 }
 #Banska Bystrica (340000/85000 POPS)
 636 = {
-	clergymen = {
-		culture = slovak
-		religion = catholic
-		size = 475
-	}
+    clergymen = {
+        culture = slovak
+        religion = catholic
+        size = 475
+    }
 
-	artisans = {
-		culture = slovak
-		religion = catholic
-		size = 4650
-	}
+    artisans = {
+        culture = slovak
+        religion = catholic
+        size = 4650
+    }
 
-	soldiers = {
-		culture = slovak
-		religion = catholic
-		size = 2000 
-	}
+    soldiers = {
+        culture = slovak
+        religion = catholic
+        size = 2000
+    }
 
-	farmers = {
-		culture = slovak
-		religion = catholic
-		size = 74375 
-	}
+    farmers = {
+        culture = slovak
+        religion = catholic
+        size = 74375
+    }
 }
 #Felvidek Region (860000) #see Hungary.txt and Ukraine.txt for balance of Region
-#under the rule of Austria in 1836  
+#under the rule of Austria in 1836
 #Kosice (497628/124407POPS)
 637 = {
-	bureaucrats = {
-		culture = slovak
-		religion = catholic
-		size = 375 
-	}
+    bureaucrats = {
+        culture = slovak
+        religion = catholic
+        size = 225
+    }
 
-	officers = {
-		culture = slovak
-		religion = catholic
-		size = 175 
-	}
+    officers = {
+        culture = slovak
+        religion = catholic
+        size = 105
+    }
 
-	clergymen = {
-		culture = slovak
-		religion = catholic
-		size = 975
-	}
+    clergymen = {
+        culture = slovak
+        religion = catholic
+        size = 585
+    }
 
-	artisans = {
-		culture = slovak
-		religion = catholic
-		size = 29000
-	}
+    artisans = {
+        culture = slovak
+        religion = catholic
+        size = 17400
+    }
 
-	soldiers = {
-		culture = slovak
-		religion = catholic
-		size = 4900 
-	}
+    soldiers = {
+        culture = slovak
+        religion = catholic
+        size = 2940
+    }
 
-	farmers = {
-		culture = slovak
-		religion = catholic
-		size = 178750 
-	}
+    farmers = {
+        culture = slovak
+        religion = catholic
+        size = 107250
+    }
 }
 #Roznava (160400/40100 POPS)
 638 = {
-	clergymen = {
-		culture = slovak
-		religion = catholic
-		size = 275
-	}
+    clergymen = {
+        culture = slovak
+        religion = catholic
+        size = 275
+    }
 
-	artisans = {
-		culture = slovak
-		religion = catholic
-		size = 8100
-	}
+    artisans = {
+        culture = slovak
+        religion = catholic
+        size = 8100
+    }
 
-	soldiers = {
-		culture = slovak
-		religion = catholic
-		size = 2200 
-	}
+    soldiers = {
+        culture = slovak
+        religion = catholic
+        size = 2200
+    }
 
-	farmers = {
-		culture = slovak
-		religion = catholic
-		size = 61900    
-	}
-	
+    farmers = {
+        culture = slovak
+        religion = catholic
+        size = 61900
+    }
 }

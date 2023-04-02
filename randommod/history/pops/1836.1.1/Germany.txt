@@ -714,19 +714,19 @@
 #Oldenburg (184000/46000 POPS)
 540 = {
 	aristocrats = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 400 
 	}
 
 	bureaucrats = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 125 
 	}
 
 	officers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 75 
 	}
@@ -885,7 +885,7 @@
 #Emden (84000/21000 POPS)
 543 = {
 	aristocrats = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 30 
 	}
@@ -4239,7 +4239,7 @@
 #Former Ghat - Now Nordhorn(16000/4000 POPS)
 1743 = {
 	officers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 25
 	}
@@ -4275,13 +4275,13 @@
 	}
 
 	farmers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 985 
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 400
 	}
@@ -4567,43 +4567,43 @@
 #Wilhelmshaven (34000/8500 POPS)
 3259 = {
 	aristocrats = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 40 
 	}
 
 	bureaucrats = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 15 
 	}
 
 	officers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 25 
 	}
 
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 55 
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 3500
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 50 
 	}
 
 	farmers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 1000
 	}

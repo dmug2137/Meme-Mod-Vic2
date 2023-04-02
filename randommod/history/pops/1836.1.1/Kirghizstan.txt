@@ -50,30 +50,6 @@
 		size = 100
 	}
 
-	clergymen = {
-		culture = kazak
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = kazak
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = kazak
-		religion = sunni
-		size = 75
-	}
-
-	farmers = {
-		culture = kazak
-		religion = sunni
-		size = 6450
-	}
-
 	aristocrats = {
 		culture = uighur
 		religion = sunni
@@ -115,13 +91,13 @@
 	clergymen = {
 		culture = kirgiz
 		religion = sunni
-		size = 50
+		size = 200
 	}
 
 	artisans = {
 		culture = kirgiz
 		religion = sunni
-		size = 100
+		size = 500
 	}
 
 	soldiers = {
@@ -136,76 +112,34 @@
 		size = 2775
 	}
 
-	aristocrats = {
-		culture = kirgiz
-		religion = animist
-		size = 100
-	}
-
 	clergymen = {
-		culture = kirgiz
-		religion = animist
-		size = 50
+		culture = uighur
+		religion = sunni
+		size = 150
 	}
 
 	artisans = {
-		culture = kirgiz
-		religion = animist
-		size = 250
-	}
-
-	soldiers = {
-		culture = kirgiz
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = kirgiz
-		religion = animist
-		size = 4575
-	}
-
-	aristocrats = {
-		culture = kazak
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = kazak
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
-		size = 50
+		size = 100
 	}
 
 	farmers = {
-		culture = kazak
+		culture = uighur
 		religion = sunni
-		size = 4600
+		size = 15000
 	}
 }
 #Mawarannahr Region (112000) #see Kazakhstan.txt, Tajikistan.txt, Uzbekistan.txt for balance of region 
 #under the rule of Kokand in 1836  
 #Osh (112000/28000 POPS) #Now part of Kirghizstan   
 1203 = {
-	aristocrats = {
-		culture = uzbek
-		religion = sunni
-		size = 175
-	}
-
 	clergymen = {
 		culture = uzbek
 		religion = sunni

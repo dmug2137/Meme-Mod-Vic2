@@ -88,30 +88,6 @@
         size = 500
     }
 
-    clergymen = {
-        culture = alaskan
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = alaskan
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = alaskan
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = alaskan
-        religion = protestant
-        size = 15
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -5771,7 +5747,7 @@
     }
 
     artisans = {
-        culture = niederlandisch
+        culture = dutch
         religion = protestant
         size = 1500
     }

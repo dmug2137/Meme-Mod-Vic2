@@ -436,43 +436,43 @@
 #Azores (204000/51000 POPS)
 2134 = {
 	aristocrats = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 500
 	}
 
 	officers = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 45975
 	}
@@ -480,31 +480,31 @@
 #Madeira (104000/26000 POPS)
 2135 = {
 	aristocrats = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = portuguese
+		culture = spanish
 		religion = catholic
 		size = 23825
 	}

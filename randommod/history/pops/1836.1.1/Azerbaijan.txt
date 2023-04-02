@@ -288,34 +288,46 @@
 }
 #Lankaran (56000/14000 POPS)
 1107 = {
-	aristocrats = {
-		culture = azerbaijani
-		religion = shiite
-		size = 225
-	}
-
 	clergymen = {
-		culture = azerbaijani
+		culture = persian
 		religion = shiite
 		size = 125
 	}
 
 	artisans = {
-		culture = azerbaijani
+		culture = persian
 		religion = shiite
 		size = 700
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = persian
 		religion = shiite
 		size = 150
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = persian
 		religion = shiite
 		size = 12800
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 500
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 10000
 	}
 
 }

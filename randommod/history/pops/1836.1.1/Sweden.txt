@@ -964,32 +964,32 @@
 3246 = {
 	
 	aristocrats = {
-		culture = french
+		culture = irish
 		religion = catholic
 		size = 20
 	}
 	
 	clergymen = {
-		culture = french
+		culture = irish
 		religion = catholic
 		size = 50
 	}
 	
 	artisans = {
-		culture = french
+		culture = irish
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = french
+		culture = irish
 		religion = catholic
 		size = 500
 	}
 	
 	slaves = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size = 242
 	}
 }

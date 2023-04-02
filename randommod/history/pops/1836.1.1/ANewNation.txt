@@ -65,19 +65,19 @@
 	}
 
 	clergymen = {
-		culture = south_french
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = south_french
+		culture = french
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = { #probably an army base or smth
-		culture = south_french
+		culture = french
 		religion = catholic
 		size = 2500
 	}

@@ -76,32 +76,32 @@
 2236 = {
 
 	aristocrats = {
-		culture = dutch
-		religion = protestant
+		culture = irish
+		religion = catholic
 		size = 10
 	}
 	
 	clergymen = {
-		culture = dutch
-		religion = protestant
+		culture = irish
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size = 55
 	}
 	
 	farmers = {
-		culture = dutch
-		religion = protestant
+		culture = irish
+		religion = catholic
 		size = 400
 	}
 
 	slaves = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 

@@ -32,43 +32,43 @@
 	}
 
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 625
 	}
 
 	capitalists = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 100
 	}
 
 	clerks = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 3550
 	}
 
 	craftsmen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 20000
 	}
 	
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 19000
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 3500
 	}
 
 	labourers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 60725
 	}
@@ -76,25 +76,25 @@
 #Bruges (456000/114000 POPS)
 388 = {
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 625
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 30000
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 1700
 	}
 
 	farmers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 50525
 	}
@@ -102,25 +102,25 @@
 #Ghent (704000/176000 POPS)
 389 = {
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 850
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 50000
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 2250
 	}
 
 	farmers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 79750
 	}
@@ -128,25 +128,25 @@
 #Antwerp (354000/88500 POPS)
 390 = {
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 1575
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 45000
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 3400
 	}
 
 	farmers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 97700
 	}
@@ -161,25 +161,25 @@
 #Hasselt (272000/68000 POPS)
 391 = {
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 475
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 5700
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 1800
 	}
 
 	farmers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 52175
 	}
@@ -225,43 +225,43 @@
 	}
 
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 550
 	}
 
 	capitalists = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 50
 	}
 
 	clerks = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 1000
 	}
 
 	craftsmen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 7000
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 13000
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 3000
 	}
 
 	labourers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 61200
 	}
@@ -287,25 +287,25 @@
 #Tournai (292000/73000 POPS)
 393 = {
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 300
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 4000
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 1700
 	}
 
 	farmers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 43800
 	}
@@ -337,31 +337,31 @@
 #Charleroi (396000/99000 POPS)
 394 = {
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 800
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 10000
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 2125
 	}
 
 	craftsmen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 6500
 	}
 
 	farmers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 60275
 	}
@@ -393,37 +393,37 @@
 #Liege (212000/53000 POPS)
 395 = {
 	clergymen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 600
 	}
 
 	clerks = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 2000
 	}
 	
 	craftsmen = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 8000
 	}
 
 	artisans = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 8200
 	}
 
 	soldiers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 3100
 	}
 
 	farmers = {
-		culture = niederlandisch
+		culture = dutch
 		religion = protestant
 		size = 56800
 	}

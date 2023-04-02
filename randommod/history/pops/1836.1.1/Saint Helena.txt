@@ -33,13 +33,7 @@
 	}
 	
 	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 155
-	}
-	
-	farmers = {
-		culture = afro_caribeno
+		culture = afro_caribbean
 		religion = protestant
 		size = 500
 	}
@@ -62,14 +56,14 @@
 2132 = {
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = fennoscandian
+		religion = catholic
 		size = 10
 	}
 	
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = fennoscandian
+		religion = catholic
 		size = 60
 	}
 

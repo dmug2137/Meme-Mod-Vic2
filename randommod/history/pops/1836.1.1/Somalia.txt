@@ -5,43 +5,31 @@
 1868 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 1050
-	}
-
-	bureaucrats = {
-		culture = somali
-		religion = sunni
-		size = 100
-	}
-
-	officers = {
-		culture = somali
-		religion = sunni
-		size = 75
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 550
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 2175
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 1125
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 58000
 	}
 
@@ -55,31 +43,31 @@
 1870 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 275
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 150
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 650
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 150
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 13775
 	}
 
@@ -124,31 +112,31 @@
 1869 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 450
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 225
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 1150
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 1175
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 20000
 	}
 }
@@ -158,31 +146,31 @@
 1871 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 350
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 175
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 775
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 200
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 15500
 	}
 
@@ -196,43 +184,31 @@
 1872 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 540
-	}
-
-	bureaucrats = {
-		culture = somali
-		religion = sunni
-		size = 50
-	}
-
-	officers = {
-		culture = somali
-		religion = sunni
-		size = 50
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 275
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 1175
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 1000
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 20950
 	}
 
@@ -248,43 +224,31 @@
 1873 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 890
-	}
-
-	bureaucrats = {
-		culture = somali
-		religion = sunni
-		size = 10
-	}
-
-	officers = {
-		culture = somali
-		religion = sunni
-		size = 50
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 450
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 1850
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 1750
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 32000
 	}
 
@@ -304,31 +268,31 @@
 1874 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 150
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 75
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 400
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 75
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 7300
 	}
 }
@@ -336,61 +300,61 @@
 1875 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 50
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 75
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 150
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 25
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = ibadi
 		size = 2700
 	}
 
 	aristocrats = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 50
 	}
 
 	clergymen = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 75
 	}
 
 	artisans = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 200
 	}
 
 	soldiers = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 50
 	}
 
 	farmers = {
 		culture = afar
-		religion = sunni
+		religion = ibadi
 		size = 3625
 	}
 

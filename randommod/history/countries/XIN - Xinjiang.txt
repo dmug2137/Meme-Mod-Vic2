@@ -1,7 +1,5 @@
-capital = 1600
-primary_culture = beifaren
-culture = uighur
-culture = hanhui
+capital = 1597
+primary_culture = uighur
 religion = mahayana
 government = colonial_company
 plurality = 0.0
