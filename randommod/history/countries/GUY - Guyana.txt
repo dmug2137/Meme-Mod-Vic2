@@ -1,8 +1,7 @@
-capital = 2240
-primary_culture = afro_caribbean
-culture = afro_antillean
-culture = amazonian
-religion = protestant
+capital = 2241
+primary_culture = ashkenazi
+culture = sephardic
+religion = jewish
 government = democracy
 plurality = 0.0
 nationalvalue = nv_order
