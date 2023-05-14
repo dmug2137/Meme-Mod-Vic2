@@ -16,3 +16,5 @@ party_loyalty = {
 	railroad = 3 
 	naval_base = 4 #Portsmouth
 }
+
+add_core = ENL

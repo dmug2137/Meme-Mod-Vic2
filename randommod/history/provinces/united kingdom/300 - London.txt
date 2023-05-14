@@ -61,3 +61,5 @@ state_building = {
 	}
 }
 1861.1.1 = { railroad = 3 }
+
+add_core = ENL

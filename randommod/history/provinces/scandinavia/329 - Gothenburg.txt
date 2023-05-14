@@ -14,3 +14,5 @@ terrain = goteborg
 #	building = paper_mill
 #	upgrade = yes
 #}
+
+add_core = NOR

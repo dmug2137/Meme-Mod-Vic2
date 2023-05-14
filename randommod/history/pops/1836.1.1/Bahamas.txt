@@ -27,37 +27,37 @@
 	}
 
 	aristocrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 15
 	}
 
 	bureaucrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 540
 	}

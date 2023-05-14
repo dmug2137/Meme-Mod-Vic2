@@ -138,13 +138,13 @@
 
     artisans = {
         culture = southern_bantu
-        religion = sunni
+        religion = catholic
         size = 500
     }
 
     farmers = {
         culture = southern_bantu
-        religion = sunni
+        religion = catholic
         size = 650
     }
 }
@@ -495,67 +495,67 @@
 2092 = {
     aristocrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     bureaucrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 40
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 55
     }
 
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 2450
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 650
     }
 
     aristocrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 5
     }
 
     bureaucrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 20
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 25
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
@@ -587,19 +587,19 @@
 2093 = {
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 25
     }
 
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 825
     }
 
@@ -691,37 +691,37 @@
 
     aristocrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 5
     }
 
     bureaucrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 30
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 2350
     }
 }
@@ -730,43 +730,43 @@
 2094 = {
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     aristocrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     bureaucrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     officers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 900
     }
 
@@ -1027,79 +1027,79 @@
 2097 = {
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 160
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 6825
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 1550
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     aristocrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 20
     }
 
     bureaucrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 75
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 500
     }
 
     officers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 30
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 2250
     }
 
@@ -1284,31 +1284,31 @@
 
     aristocrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 }
@@ -1363,43 +1363,43 @@
 2101 = {
     aristocrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     bureaucrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     officers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 1200
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 2400
     }
 
@@ -1443,25 +1443,25 @@
 2102 = {
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 1000
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 800
     }
 
@@ -1535,25 +1535,25 @@
 2103 = {
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 690
     }
 
@@ -1650,43 +1650,43 @@
 2105 = {
     aristocrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     bureaucrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     officers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 2400
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 1200
     }
 
@@ -1730,25 +1730,25 @@
 2106 = {
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 400
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 1200
     }
 
@@ -1793,31 +1793,31 @@
 2107 = {
     aristocrats = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 20
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 525
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 650
     }
 
@@ -1888,25 +1888,25 @@
 2108 = {
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 300
     }
 
@@ -1981,25 +1981,25 @@
 2109 = {
     artisans = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = southern_bantu
-        religion = protestant
+        religion = catholic
         size = 3000
     }
 
@@ -2187,20 +2187,8 @@
 
     farmers = {
         culture = southern_bantu
-        religion = sunni
+        religion = protestant
         size = 150
-    }
-
-    farmers = {
-        culture = southern_bantu
-        religion = hindu
-        size = 275
-    }
-
-    clergymen = {
-        culture = southern_bantu
-        religion = hindu
-        size = 10
     }
 
     aristocrats = {

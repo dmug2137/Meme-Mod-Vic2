@@ -11,19 +11,91 @@
 	bureaucrats = {
 		culture = dutch
 		religion = protestant
-		size = 60
+		size = 200
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 275
 	}
 
 	artisans = {
 		culture = dutch
 		religion = protestant
-		size = 100
+		size = 4000
 	}
 
 	soldiers = {
 		culture = dutch
 		religion = protestant
-		size = 75
+		size = 2050
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 20000
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 150
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 3000
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 11000
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 7000
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2000
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4000
 	}
 
 	clergymen = {
@@ -52,7 +124,7 @@
 
 	slaves = {
 		culture = afro_caribbean
-		religion = animist
+		religion = protestant
 		size = 9000
 	}
 }

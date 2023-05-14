@@ -5,37 +5,37 @@
 
 	aristocrats = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 	
 	officers = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 4700
 	}
 

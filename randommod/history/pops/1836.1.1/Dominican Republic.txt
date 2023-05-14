@@ -3,37 +3,37 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
 	aristocrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 700
 	}
 	
 	bureaucrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 25
 	}
 	
 	clergymen = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 62375
 	}
@@ -65,31 +65,31 @@
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
 	aristocrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 550
 	}
 	
 	clergymen = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 30175
 	}

@@ -38,3 +38,5 @@ naval_base = 2
 	railroad = 3 
 	naval_base = 2
 }
+
+add_core = ENL

@@ -3,43 +3,43 @@
 #Jamaica (372000/93000 POPS)
 2217 = {
 	aristocrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 100
 	}
 	
 	aristocrats = { #So the state has 2% aristocrats
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 1890
 	}
 
 	bureaucrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 85
 	}
 
 	clergymen = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 2190
 	}

@@ -3,3 +3,5 @@ controller = NSE
 add_core = NSE
 trade_goods = timber
 life_rating = 10
+
+add_core = NOR

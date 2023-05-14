@@ -1,6 +1,7 @@
 owner = DAN
 controller = DAN
 add_core = DAN
+add_core = SWI
 trade_goods = wool
 life_rating = 32
 

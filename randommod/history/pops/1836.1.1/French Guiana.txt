@@ -3,131 +3,232 @@
 #Cayenne (17000/4250 POPS)
 2241 = {
 	aristocrats = {
-		culture = french
-		religion = catholic
+		culture = ashkenazi
+		religion = jewish
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 10
+		culture = ashkenazi
+		religion = jewish
+		size = 120
 	}
 
 	clergymen = {
-		culture = french
-		religion = catholic
-		size = 10
+		culture = ashkenazi
+		religion = jewish
+		size = 300
 	}
 
 	artisans = {
-		culture = french
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 80
+		culture = ashkenazi
+		religion = jewish
+		size = 2500
 	}
 
 	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 150
+		culture = dutch
+		religion = protestant
+		size = 2000
 	}
 
-	clergymen = {
-		culture = afro_antillean
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 1000
+	}
+
+	artisans = {
+		culture = brazilian
 		religion = catholic
-		size = 25
+		size = 1000
 	}
 
 	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 50
+		culture = ashkenazi
+		religion = jewish
+		size = 1500
 	}
 
 	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 425
-	}
-
-	slaves = {
-		culture = afro_antillean
-		religion = catholic
-		size = 2950
+		culture = ashkenazi
+		religion = jewish
+		size = 18000
 	}
 
 	aristocrats = {
-		culture = amazonian
-		religion = animist
-		size = 2
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2000
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 1200
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 5000
+	}
+
+	artisans = {
+		culture = afro_caribbean
+		religion = jewish
+		size = 250
+	}
+
+	clergymen = {
+		culture = afro_caribbean
+		religion = jewish
+		size = 125
+	}
+
+	soldiers = {
+		culture = afro_caribbean
+		religion = jewish
+		size = 500
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = jewish
+		size = 4250
+	}
+
+	artisans = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 300
+	}
+
+	clergymen = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 700
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 5500
 	}
 
 	clergymen = {
 		culture = amazonian
-		religion = animist
-		size = 3
+		religion = jewish
+		size = 50
 	}
 
 	artisans = {
 		culture = amazonian
-		religion = animist
-		size = 10
-	}
-
-	soldiers = {
-		culture = amazonian
-		religion = animist
-		size = 5
+		religion = jewish
+		size = 100
 	}
 
 	farmers = {
 		culture = amazonian
-		religion = animist
-		size = 230
+		religion = jewish
+		size = 2000
 	}
 }
 #Maripasoula (3000/750 POPS)
 2246 = {
-	aristocrats = {
-		culture = amazonian
-		religion = animist
-		size = 10
-	}
-
 	clergymen = {
 		culture = amazonian
-		religion = animist
-		size = 15
+		religion = jewish
+		size = 150
 	}
 
 	artisans = {
 		culture = amazonian
-		religion = animist
-		size = 35
+		religion = jewish
+		size = 350
 	}
 
 	soldiers = {
 		culture = amazonian
-		religion = animist
-		size = 10
+		religion = jewish
+		size = 1000
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = jewish
+		size = 18000
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 500
+	}
+
+	soldiers = {
+		culture = sephardic
+		religion = jewish
+		size = 200
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 1000
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 100
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 200
 	}
 
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 680
+		size = 35000
 	}
 
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 11000
+	}
 }

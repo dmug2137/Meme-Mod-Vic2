@@ -1,7 +1,5 @@
-capital = 57
+capital = 50
 primary_culture = anglo_canadian
-#culture = british
-culture = french_canadian
 religion = protestant
 government = dominion
 plurality = 0.2

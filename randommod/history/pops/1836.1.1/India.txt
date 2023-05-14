@@ -7832,24 +7832,6 @@
         size = 6450
     }
 
-    clergymen = {
-        culture = tamil
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = tamil
-        religion = protestant
-        size = 700
-    }
-
-    farmers = {
-        culture = tamil
-        religion = protestant
-        size = 5250
-    }
-
     aristocrats = {
         culture = kannada
         religion = sunni
@@ -7992,7 +7974,7 @@
 
     farmers = {
         culture = tamil
-        religion = protestant
+        religion = catholic
         size = 1600
     }
 
@@ -8184,19 +8166,19 @@
 #Pondicherry (132000/33000 POPS)
 1312 = {
     bureaucrats = {
-        culture = french
+        culture = irish
         religion = catholic
         size = 4
     }
 
     clergymen = {
-        culture = french
+        culture = irish
         religion = catholic
         size = 6
     }
 
     soldiers = {
-        culture = french
+        culture = irish
         religion = catholic
         size = 10
     }

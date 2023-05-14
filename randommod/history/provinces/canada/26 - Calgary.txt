@@ -4,3 +4,5 @@ colonial = 2
 trade_goods = timber
 terrain = plains
 life_rating = 30
+
+add_core = CAN

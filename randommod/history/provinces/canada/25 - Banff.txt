@@ -3,3 +3,5 @@ controller = NSE
 colonial = 2
 trade_goods = coal
 life_rating = 30
+
+add_core = CAN

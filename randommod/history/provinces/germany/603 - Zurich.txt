@@ -1,6 +1,7 @@
 owner = DAN
 controller = DAN
 add_core = DAN
+add_core = SWI
 trade_goods = iron
 life_rating = 34
 terrain = zurich

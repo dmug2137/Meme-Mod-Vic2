@@ -1,6 +1,7 @@
 owner = FEN
 controller = FEN
 add_core = NSE
+add_core = DEN
 trade_goods = fish
 life_rating = 35
 terrain = small_island

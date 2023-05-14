@@ -76,13 +76,13 @@
 2236 = {
 
 	aristocrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 10
 	}
 	
 	clergymen = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 25
 	}
@@ -94,7 +94,7 @@
 	}
 	
 	farmers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 400
 	}

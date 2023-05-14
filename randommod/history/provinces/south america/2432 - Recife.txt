@@ -4,3 +4,5 @@ colonial = 2
 trade_goods = coffee
 terrain = farmlands
 life_rating = 35
+
+add_core = BRZ

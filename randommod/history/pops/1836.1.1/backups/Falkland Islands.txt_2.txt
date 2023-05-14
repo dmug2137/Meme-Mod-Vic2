@@ -1,0 +1,36 @@
+#Falkland Islands (360)
+#Ruled by Britain 1836
+#Falkland Islands (300/75 POPS)
+2131 = {
+    soldiers = {
+        culture = platinean
+        religion = catholic
+        size = 22
+    }
+
+    farmers = {
+        culture = platinean
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 5
+    }
+}
+#South Georgia (60/15 POPS)
+2133 = {
+    farmers = {
+        culture = fennoscandian
+        religion = catholic
+        size = 30
+    }
+}

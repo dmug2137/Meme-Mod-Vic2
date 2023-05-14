@@ -3,3 +3,5 @@ controller = IRE
 colonial = 2
 trade_goods = tobacco
 life_rating = 20
+
+add_core = BRZ

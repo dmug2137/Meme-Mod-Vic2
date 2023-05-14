@@ -1,6 +1,7 @@
 owner = RHI
 controller = RHI
 add_core = RHI
+add_core = SWI
 trade_goods = fruit
 life_rating = 32
 fort = 1

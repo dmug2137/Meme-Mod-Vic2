@@ -4,43 +4,43 @@
 1887 = {
 	aristocrats = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 	
 	officers = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 1010
 	}
 
 	artisans = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 2775
 	}
 
@@ -138,19 +138,19 @@
 1888 = {
 	aristocrats = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 375
 	}
 
 	artisans = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 1900
 	}
 
@@ -168,7 +168,7 @@
 
 	aristocrats = {
 		culture = western_nigritic
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 

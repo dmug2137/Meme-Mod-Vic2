@@ -4,3 +4,5 @@ terrain = panama
 trade_goods = fruit
 life_rating = 31
 colonial = 2
+
+add_core = UCA

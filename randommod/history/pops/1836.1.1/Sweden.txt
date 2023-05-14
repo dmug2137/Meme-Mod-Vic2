@@ -964,25 +964,25 @@
 3246 = {
 	
 	aristocrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 20
 	}
 	
 	clergymen = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 50
 	}
 	
 	artisans = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 500
 	}

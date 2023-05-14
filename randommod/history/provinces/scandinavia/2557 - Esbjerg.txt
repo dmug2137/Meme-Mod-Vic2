@@ -3,3 +3,5 @@ controller = FEN
 add_core = NSE
 trade_goods = fruit
 life_rating = 35
+
+add_core = DEN

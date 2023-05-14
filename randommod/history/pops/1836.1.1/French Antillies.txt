@@ -3,37 +3,37 @@
 #Martinique (190800/27450 POPS)
 2228 = {
 	aristocrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 400
 	}
@@ -136,13 +136,13 @@
 45 = {
 	
 	aristocrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 10
 	}
 	
 	clergymen = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 25
 	}
@@ -154,7 +154,7 @@
 	}
 	
 	farmers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 500
 	}

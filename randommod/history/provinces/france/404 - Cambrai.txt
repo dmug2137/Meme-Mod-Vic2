@@ -1,6 +1,7 @@
 owner = CHA
 controller = CHA
 add_core = CHA
+add_core = FLA
 trade_goods = coal
 life_rating = 30
 #state_building = {

@@ -3,25 +3,25 @@
 #Saint Thomas (44000/11000 POPS)
 2223 = {
 	aristocrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = irish
+		culture = brazilian
 		religion = catholic
 		size = 200
 	}

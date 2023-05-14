@@ -1,6 +1,6 @@
-capital = 73
-primary_culture = french_canadian
-religion = catholic
+capital = 68
+primary_culture = swedish
+religion = protestant
 government = democracy
 plurality = 0.2
 nationalvalue = nv_liberty

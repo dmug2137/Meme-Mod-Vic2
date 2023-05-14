@@ -3,3 +3,5 @@ controller = NSE
 add_core = NSE
 trade_goods = fish
 life_rating = 35
+
+add_core = NOR

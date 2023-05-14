@@ -4,3 +4,6 @@ add_core = NSE
 trade_goods = fish
 life_rating = 35
 terrain = small_island
+
+add_core = ENL
+add_core = SCO

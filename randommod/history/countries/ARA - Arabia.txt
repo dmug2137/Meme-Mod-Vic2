@@ -4,6 +4,7 @@
 
 capital = 495
 primary_culture = catalan
+culture = valencian
 religion = catholic
 government = absolute_monarchy
 plurality = 10

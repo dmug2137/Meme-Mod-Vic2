@@ -32,3 +32,5 @@ fort = 1
 		upgrade = yes
 	}
 }
+
+add_core = DEN

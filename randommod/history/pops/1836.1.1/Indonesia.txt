@@ -4032,31 +4032,31 @@
 #Sorong (88000/22000 POPS)
 1453 = {
 	aristocrats = {
-		culture = dutch
+		culture = new_zelandic
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = new_zelandic
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = dutch
+		culture = new_zelandic
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = new_zelandic
 		religion = sunni
 		size = 1500
 	}
 
 	farmers = {
-		culture = dutch
+		culture = new_zelandic
 		religion = sunni
 		size = 6000
 	}

@@ -4,3 +4,4 @@ trade_goods = coal
 life_rating = 35
 terrain = chicago
 colonial = 2
+add_core = FSA

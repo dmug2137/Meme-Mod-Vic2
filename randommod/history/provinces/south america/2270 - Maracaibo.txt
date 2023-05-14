@@ -3,3 +3,5 @@ controller = SPA
 trade_goods = cattle
 life_rating = 32
 colonial = 2
+
+add_core = CLM
