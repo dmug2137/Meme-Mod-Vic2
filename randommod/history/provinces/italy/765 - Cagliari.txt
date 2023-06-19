@@ -1,6 +1,7 @@
 owner = SIC
 controller = SIC
 add_core = SIC
+add_core = ITA
 trade_goods = coal
 naval_base = 1
 life_rating = 35
@@ -14,7 +15,4 @@ life_rating = 35
 #	building = glass_factory
 #	upgrade = yes
 #}
-1861.1.1 = {
-	controller = ITA
-	owner = ITA
-}
+

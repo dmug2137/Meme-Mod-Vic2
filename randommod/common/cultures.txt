@@ -1962,6 +1962,7 @@ east_asian = {
 		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye L� Tian Jiang Wei Ting Shen Fang Jin Qiu
 		}
 	}
+	union = CHN
 }
 
 far_east_asian = {

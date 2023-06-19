@@ -1,6 +1,7 @@
 owner = BUL
 controller = BUL
 add_core = BUL
+add_core = GRE
 trade_goods = fruit
 life_rating = 35
 terrain = athens

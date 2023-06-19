@@ -1,8 +1,9 @@
 owner = ELB
 controller = ELB
 add_core = ELB
+add_core = GER
 add_core = MEC
 trade_goods = grain
 life_rating = 40
 #naval_base = 1
-1861.1.1 = { railroad = 3 }
+

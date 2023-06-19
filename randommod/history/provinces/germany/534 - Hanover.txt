@@ -1,6 +1,7 @@
 owner = ELB
 controller = ELB
 add_core = ELB
+add_core = GER
 trade_goods = fruit
 life_rating = 45
 terrain = hanover
@@ -14,4 +15,4 @@ terrain = hanover
 #	building = liquor_distillery
 #	upgrade = yes
 #}
-1861.1.1 = { railroad = 3 }
+

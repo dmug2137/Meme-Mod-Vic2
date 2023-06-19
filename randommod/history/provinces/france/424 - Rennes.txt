@@ -7,4 +7,4 @@ trade_goods = grain
 life_rating = 30
 terrain = rennes
 
-1861.1.1 = { railroad = 3 }
+

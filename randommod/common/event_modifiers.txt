@@ -3318,3 +3318,61 @@ foreign_weapons_imported = {
 cch.recent-call-to-arms = {
     icon = 15
 }
+
+city_cooldown = {
+	icon = 17
+}
+
+marked_state = {
+	icon = 12
+}
+
+invest_state_capital1 = { #small states
+	immigrant_attract = 0.75
+	assimilation_rate = 0.5
+	population_growth = 0.005
+	icon = 19
+}
+
+invest_state_rural1 = {
+	immigrant_attract = 0.25
+	assimilation_rate = 0.25
+	population_growth = 0.0025
+	icon = 19
+}
+
+invest_state_capital2 = { #medium-sized states
+	immigrant_attract = 0.5
+	assimilation_rate = 0.25
+	population_growth = 0.0025
+	icon = 19
+}
+
+invest_state_rural2 = {
+	immigrant_attract = 0.2
+	assimilation_rate = 0.15
+	population_growth = 0.0012
+	icon = 19
+}
+
+invest_state_capital3 = { #big states
+	immigrant_attract = 0.25
+	assimilation_rate = 0.1
+	population_growth = 0.001
+	icon = 19
+}
+
+invest_state_rural3 = {
+	immigrant_attract = 0.1
+	assimilation_rate = 0.1
+	population_growth = 0.0005
+	icon = 19
+}
+
+grant_cooldown = {
+	icon = 12
+}
+
+infamy_grant_cooldown = {
+	icon = 12
+}

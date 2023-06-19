@@ -1,11 +1,11 @@
 capital = 754
 primary_culture = south_italian
 religion = catholic
-government = absolute_monarchy
+government = democracy
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.1
-non_state_culture_literacy = 0.05
+literacy = 0.25
+non_state_culture_literacy = 0.1
 civilized = yes
 prestige = 0
 

@@ -4,256 +4,226 @@
 #Boer POPs represent post-Great Trek migration
 #Cape Town (173000/43250 POPS)
 2087 = {
-    aristocrats = {
-        culture = southern_bantu
-        religion = catholic
-        size = 300
-    }
-
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 750
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 9050
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 750
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 15575
     }
 
-    aristocrats = {
+    farmers = {
         culture = southern_bantu
         religion = catholic
-        size = 20
+        size = 2000
+    }
+
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 100
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = spanish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = spanish
         religion = catholic
-        size = 400
+        size = 1200
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = spanish
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 1000
+    }
+
+    clergymen = {
+        culture = galician
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = galician
+        religion = catholic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = galician
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
-        size = 1250
-    }
-
-    aristocrats = {
-        culture = southern_bantu
-        religion = catholic
-        size = 2100
-    }
-
-    clergymen = {
-        culture = southern_bantu
-        religion = catholic
-        size = 245
-    }
-
-    bureaucrats = {
-        culture = southern_bantu
-        religion = catholic
-        size = 50
+        size = 9250
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 1100
     }
 
-    officers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 100
-    }
-
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 14145
-    }
-
-    artisans = {
-        culture = southern_bantu
-        religion = catholic
-        size = 1550
-    }
-
-    soldiers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 550
-    }
-
-    artisans = {
-        culture = southern_bantu
-        religion = catholic
-        size = 500
-    }
-
-    farmers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 650
     }
 }
 #Worcester (117700/29425 POPS)
 2089 = {
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 50
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 7600
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 1150
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 6700
     }
 
-    aristocrats = {
-        culture = southern_bantu
-        religion = catholic
-        size = 10
-    }
-
     bureaucrats = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 40
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 95
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 1000
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 3825
     }
 
     aristocrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 9800
     }
@@ -267,103 +237,103 @@
 #Swettenham (69700/17425 POPS)
 2090 = {
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 6625
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 6525
     }
 
     aristocrats = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 8
     }
 
     bureaucrats = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 30
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 65
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 600
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 4425
     }
 
     bureaucrats = {
-        culture = southern_bantu
+        culture = spanish
         religion = catholic
         size = 30
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = spanish
         religion = catholic
         size = 65
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = spanish
         religion = catholic
         size = 425
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 14675
     }
@@ -377,79 +347,67 @@
 #Mossel Bay (34700/8675 POPS)
 2091 = {
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 2775
     }
 
-    farmers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 500
-    }
-
-    farmers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 500
-    }
-
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 35
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 2890
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 1750
     }
@@ -459,31 +417,31 @@
 #Springbok (12000/3000 POPS)
 2088 = {
     aristocrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 2750
     }
@@ -494,91 +452,91 @@
 #Beaufort (34600/8650 POPS)
 2092 = {
     aristocrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 10
     }
 
     bureaucrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 40
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 55
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 150
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 2450
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 650
     }
 
     aristocrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 5
     }
 
     bureaucrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 20
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 8800
     }
@@ -586,73 +544,55 @@
 #Calvinia (23300/5825 POPS)
 2093 = {
     clergymen = {
-        culture = southern_bantu
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = southern_bantu
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 825
-    }
-
-    clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 2900
     }
 
     aristocrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 1875
     }
@@ -660,31 +600,31 @@
 #De Aar (30600/7650 POPS)
 2558 = {
     aristocrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 5700
     }
@@ -728,121 +668,85 @@
 #Uncolonized in 1836
 #Kimberley (156000/39000 POPS)
 2094 = {
-    farmers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 50
-    }
-
     aristocrats = {
-        culture = southern_bantu
-        religion = catholic
-        size = 10
-    }
-
-    bureaucrats = {
-        culture = southern_bantu
-        religion = catholic
-        size = 10
-    }
-
-    farmers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 900
-    }
-
-    clergymen = {
-        culture = southern_bantu
-        religion = catholic
-        size = 50
-    }
-
-    officers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 10
-    }
-
-    soldiers = {
-        culture = southern_bantu
-        religion = catholic
-        size = 900
-    }
-
-    aristocrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 1600
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 400
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 36200
+    }
+
+    farmers = {
+        culture = southern_bantu
+        religion = animist
+        size = 10000
     }
 }
 #Bechuanaland Region (20000) #see Botswana.txt for balance of region
 #Dikathong (20000/5000 POPS)
 2095 = {
     aristocrats = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 4650
+    }
+
+    farmers = {
+        culture = southern_bantu
+        religion = animist
+        size = 3000
     }
 }
 #Eastern Cape Region (232000)
 #Ruled by Britain 1836
 #Port Elizabeth (44000/11000 POPS)
 2096 = {
-    aristocrats = {
-        culture = southern_bantu
-        religion = catholic
-        size = 100
-    }
-
     artisans = {
         culture = southern_bantu
         religion = catholic
@@ -868,99 +772,63 @@
     }
 
     aristocrats = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 125
     }
 
     bureaucrats = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 3000
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = galician
         religion = catholic
         size = 4500
-    }
-
-    aristocrats = {
-        culture = southern_bantu
-        religion = animist
-        size = 140
-    }
-
-    clergymen = {
-        culture = southern_bantu
-        religion = animist
-        size = 100
-    }
-
-    artisans = {
-        culture = southern_bantu
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = southern_bantu
-        religion = animist
-        size = 100
-    }
-
-    farmers = {
-        culture = southern_bantu
-        religion = animist
-        size = 6900
-    }
-
-    aristocrats = {
-        culture = southern_bantu
-        religion = animist
-        size = 100
     }
 
     clergymen = {
@@ -987,32 +855,26 @@
         size = 860
     }
 
-    aristocrats = {
-        culture = southern_bantu
-        religion = animist
-        size = 100
-    }
-
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 4900
     }
@@ -1061,44 +923,32 @@
         size = 10
     }
 
-    aristocrats = {
-        culture = southern_bantu
-        religion = catholic
-        size = 20
-    }
-
-    bureaucrats = {
-        culture = southern_bantu
-        religion = catholic
-        size = 75
-    }
-
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 500
     }
 
     officers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 30
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = catholic
         size = 2250
     }
@@ -1164,25 +1014,25 @@
     }
 
     clergymen = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = southern_bantu
+        culture = khoisan
         religion = animist
         size = 3750
     }

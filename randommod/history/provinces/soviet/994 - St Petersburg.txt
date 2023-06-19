@@ -1,6 +1,7 @@
 owner = FEN
 controller = FEN
 add_core = FEN
+add_core = EST
 trade_goods = grain
 life_rating = 42
 terrain = stpetersburg
@@ -16,12 +17,7 @@ fort = 1
 #	building = cement_factory
 #	upgrade = yes
 #}
-1861.1.1 = { 
-	state_building = {
-		level = 1
-		building = steamer_shipyard
-		upgrade = yes
-	} 
+ 
 	state_building = {
 		level = 1
 		building = ammunition_factory
@@ -33,7 +29,4 @@ fort = 1
 		upgrade = yes
 	} 
 }
-1861.1.1 = {
-	railroad = 2
-	fort = 2
-}
+

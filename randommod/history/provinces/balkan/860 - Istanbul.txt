@@ -1,6 +1,7 @@
 owner = BUL
 controller = BUL
 add_core = BUL
+add_core = GRE
 trade_goods = fruit
 life_rating = 40
 terrain = istanbul
@@ -21,13 +22,6 @@ fort = 1
 #	building = canned_food_factory
 #	upgrade = yes
 #}
-1861.1.1 = {
-	state_building = {
-		level = 2
-		building = fabric_factory
-		upgrade = yes
-	}
+
 }
-1861.1.1 = {
-	naval_base = 2
-}
+

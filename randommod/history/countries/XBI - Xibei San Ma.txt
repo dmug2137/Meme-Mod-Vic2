@@ -1,6 +1,5 @@
 capital = 1557
 primary_culture = beifaren
-culture = hanhui
 religion = sunni
 government = colonial_company
 plurality = 0.0

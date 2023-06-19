@@ -35,3 +35,341 @@ country_event = { #roman empire
         any_owned = { change_province_name = "Rome" }
     }
 }
+country_event = {
+    id = 50001
+    title = "Growing Unrest Amongst Wends"
+    desc = "Some interesting lore here"
+    picture = "yound_irelander_rebellion"
+
+    trigger = {
+        exists = yes	
+        tag = ELB
+        war = no
+        year = 1837
+    }
+
+    fire_only_once = yes
+
+    immediate = {
+        set_country_flag = wendish_unrest
+    }
+
+    option = {
+        name = "Oh my gawd"
+        capital = 553
+        any_pop = { 
+			limit = { OR = { has_pop_culture = pomeranian has_pop_culture = western_slavic has_pop_culture = polabian } }
+			militancy = 5
+		}
+    }
+}
+country_event = {
+    id = 50002
+    title = "Pomerania Declares Independence"
+    desc = "Our Pomeranian subjects have rebelled!"
+    picture = "yound_irelander_rebellion"
+
+    trigger = {
+        exists = yes	
+        tag = ELB
+        year = 1841
+        any_owned_province = { is_core = PML }
+        has_country_flag = wendish_unrest
+    }
+
+    fire_only_once = yes
+
+    immediate = {
+        set_country_flag = pom_indenpendence
+    }
+
+    option = {
+        name = "It is so jover,,,"
+        any_owned = { limit = { is_core = PML } remove_core = ELB secede_province = PML }
+        create_vassal = PML
+        PML = { any_owned = { add_core = ELB } }
+        PML = { government = presidential_dictatorship }
+    }
+
+    option = {
+        name = "Play as Pomerania"
+        any_owned = { limit = { is_core = PML } remove_core = ELB secede_province = PML }
+        create_vassal = PML
+        PML = { any_owned = { add_core = ELB } }
+        PML = { government = presidential_dictatorship }
+        change_tag_no_core_switch = PML
+    }
+}
+
+country_event = {
+    id = 50003
+    title = "Lusatia Declares Independence"
+    desc = "Our Lusatian subjects have rebelled!"
+    picture = "yound_irelander_rebellion"
+
+    trigger = {
+        exists = yes	
+        tag = ELB
+        year = 1841
+        any_owned_province = { is_core = LUZ }
+        has_country_flag = wendish_unrest
+    }
+
+    fire_only_once = yes
+
+    immediate = {
+        set_country_flag = lus_indenpendence
+    }
+
+    option = {
+        name = "It is so jover,,,"
+        any_owned = { limit = { is_core = LUZ } remove_core = ELB secede_province = LUZ }
+        create_vassal = LUZ
+        LUZ = { any_owned = { add_core = ELB } }
+        LUZ = { government = presidential_dictatorship }
+    }
+
+    option = {
+        name = "Play as Lusatia"
+        any_owned = { limit = { is_core = LUZ } remove_core = ELB secede_province = LUZ }
+        create_vassal = LUZ
+        LUZ = { any_owned = { add_core = ELB } }
+        LUZ = { government = presidential_dictatorship }
+        change_tag_no_core_switch = LUZ
+    }
+}
+
+country_event = {
+    id = 50004
+    title = "Polabia Declares Independence"
+    desc = "Our Polabian subjects have rebelled!"
+    picture = "yound_irelander_rebellion"
+
+    trigger = {
+        exists = yes	
+        tag = ELB
+        year = 1841
+        any_owned_province = { is_core = MEC }
+        has_country_flag = wendish_unrest
+    }
+
+    fire_only_once = yes
+
+    immediate = {
+        set_country_flag = mec_indenpendence
+    }
+
+    option = {
+        name = "It is so jover,,,"
+        any_owned = { limit = { is_core = MEC } remove_core = ELB secede_province = MEC }
+        create_vassal = MEC
+        MEC = { any_owned = { add_core = ELB } }
+        MEC = { government = presidential_dictatorship }
+    }
+
+    option = {
+        name = "Play as Polabia"
+        any_owned = { limit = { is_core = MEC } remove_core = ELB secede_province = MEC }
+        create_vassal = MEC
+        MEC = { any_owned = { add_core = ELB } }
+        MEC = { government = presidential_dictatorship }
+        change_tag_no_core_switch = MEC
+    }
+}
+
+country_event = {
+    id = 50005
+    title = "Wendish Rebellion"
+    desc = "Self-proclaimed Wendish States have risen up against us - they may gain support of our enemies"
+    picture = "yound_irelander_rebellion"
+    major = yes
+
+    trigger = {
+        exists = yes	
+        tag = ELB
+        OR = {
+            has_country_flag = pom_indenpendence
+            has_country_flag = lus_indenpendence
+            has_country_flag = mec_indenpendence
+        }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = {
+        months = 3
+    }
+
+    immediate = {
+        set_global_flag = wends_rebel
+    }
+
+    option = {
+        name = "balls"
+        define_general = { name = "Der Fiskur" personality = attack_minus_1.1 background = defence_2.1 }
+        release_vassal = PML
+        release_vassal = MEC
+        release_vassal = LUZ
+        war = {
+            target = PML
+            attacker_goal = { casus_belli = civil_war }
+            defender_goal = { casus_belli = status_quo }
+        }
+        war = {
+            target = MEC
+            attacker_goal = { casus_belli = civil_war }
+            defender_goal = { casus_belli = status_quo }
+        }
+        war = {
+            target = LUZ
+            attacker_goal = { casus_belli = civil_war }
+            defender_goal = { casus_belli = status_quo }
+        }
+        MEC = { country_event = 50006 }
+        PML = { country_event = 50006 }
+        LUZ = { country_event = 50006 }
+    }
+}
+
+country_event = {
+    id = 50006
+    title = "UNLIMITED GENOCIDE ON G*RMANY"
+    desc = "Trve wvndish pvtriots vnite"
+    picture = "yound_irelander_rebellion"
+    is_triggered_only = yes
+
+    trigger = {
+        exists = yes	  
+    }
+
+    option = {
+        name = "ambatukam"
+        define_general = { name = "d mug??????" personality = attack_1.1 background = defence_4.1 }
+        leadership = 40
+        treasury = 10000
+        small_arms = 150
+        ammunition = 100
+        canned_food = 100
+        artillery = 50
+        regular_clothes = 50
+        wine = 100
+        liquor = 100
+    }
+}
+
+province_event = {
+	id = 50007
+	title = "Invest in chosen state"
+	desc = "This event will add modifiers for capital of a state you selected (ones with bureaucrats/officers) and other cities in the same state."
+	
+	allow_multiple_instances = no
+
+    trigger = {
+		has_province_modifier = marked_state
+	}
+	
+	option = {
+		name = "pops my beloved,,,"
+		treasury = -1500000
+        state_scope = { NOT = { total_pops = 600000 } }
+        state_scope = {
+            any_owned = { limit = { is_state_capital = no } add_province_modifier = { name = invest_state_rural1 duration = 1800 }}
+            any_owned = { limit = { is_state_capital = yes } add_province_modifier = { name = invest_state_capital1 duration = 1800 }}
+        }
+        owner = {
+		    add_country_modifier = {
+		    	name = city_cooldown
+		    	duration = 3650
+		    }
+            clr_country_flag = foundCityFlag
+        }
+        remove_province_modifier = marked_state
+	}
+	
+	option = {
+		name = "no swag - no investment"
+        remove_province_modifier = marked_state
+        owner = {
+            clr_country_flag = foundCityFlag
+        }
+	}
+}
+
+province_event = {
+	id = 50008
+	title = "Invest in chosen state"
+	desc = "This event will add modifiers for capital of a state you selected (ones with bureaucrats/officers) and other cities in the same state."
+	
+	allow_multiple_instances = no
+
+    trigger = {
+		has_province_modifier = marked_state
+        AND = {
+            state_scope = { total_pops = 250000 }
+            state_scope = { NOT = { total_pops = 600000 } }
+        }
+	}
+	
+	option = {
+		name = "pops my beloved,,,"
+		treasury = -1500000
+        state_scope = {
+            any_owned = { limit = { is_state_capital = no } add_province_modifier = { name = invest_state_rural2 duration = 1800 }}
+            any_owned = { limit = { is_state_capital = yes } add_province_modifier = { name = invest_state_capital2 duration = 1800 }}
+        }
+		owner = {
+		    add_country_modifier = {
+		    	name = city_cooldown
+		    	duration = 3650
+		    }
+            clr_country_flag = foundCityFlag
+        }
+        remove_province_modifier = marked_state
+	}
+	
+	option = {
+		name = "no swag - no investment"
+        remove_province_modifier = marked_state
+        owner = {
+            clr_country_flag = foundCityFlag
+        }
+	}
+}
+
+province_event = {
+	id = 50009
+	title = "Invest in chosen state"
+	desc = "This event will add modifiers for capital of a state you selected (ones with bureaucrats/officers) and other cities in the same state."
+	
+	allow_multiple_instances = no
+
+    trigger = {
+		has_province_modifier = marked_state
+        state_scope = { total_pops = 600000 }
+	}
+	
+	option = {
+		name = "pops my beloved,,,"
+		treasury = -1500000
+        state_scope = {
+            any_owned = { limit = { is_state_capital = no } add_province_modifier = { name = invest_state_rural3 duration = 1800 }}
+            any_owned = { limit = { is_state_capital = yes } add_province_modifier = { name = invest_state_capital3 duration = 1800 }}
+        }
+		owner = {
+		    add_country_modifier = {
+		    	name = city_cooldown
+		    	duration = 3650
+		    }
+            clr_country_flag = foundCityFlag
+        }
+        remove_province_modifier = marked_state
+	}
+	
+	option = {
+		name = "no swag - no investment"
+        remove_province_modifier = marked_state
+        owner = {
+            clr_country_flag = foundCityFlag
+        }
+	}
+}

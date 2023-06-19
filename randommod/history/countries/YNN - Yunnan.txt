@@ -1,6 +1,5 @@
 capital = 1602
 primary_culture = nanfaren
-culture = hanhui
 religion = mahayana
 government = colonial_company
 plurality = 0.0

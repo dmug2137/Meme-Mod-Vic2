@@ -1,6 +1,7 @@
 owner = NSE
 controller = NSE
 add_core = NSE
+add_core = ENL
 trade_goods = iron
 life_rating = 35
 terrain = bristol
@@ -23,6 +24,6 @@ state_building = {
 	building = canned_food_factory
 	upgrade = yes
 }
-1861.1.1 = { railroad = 3 }
+
 
 add_core = ENL

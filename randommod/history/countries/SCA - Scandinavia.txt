@@ -1,8 +1,7 @@
 capital = 322
-primary_culture = swedish
-culture = finnish
+primary_culture = danish
 culture = norwegian
-culture = danish
+culture = swedish
 religion = protestant
 government = hms_government
 plurality = 0.05

@@ -3807,7 +3807,7 @@ china_acquire_state = {
 		OR = {
 			any_owned_province = {
 				NOT = { is_core = THIS }
-				is_core = CHI
+				is_core = CHN
 			}
 			is_culture_group = east_asian
 		}
@@ -3829,7 +3829,7 @@ china_acquire_state = {
 			owns = 1616
 			NOT = { is_culture_group = east_asian }
 			AND = {
-				tag = CHI
+				tag = CHN
 				THIS = { NOT = { has_country_flag = neutral_faction } }
 				THIS = { NOT = { has_country_flag = kuomintang_faction } }
 			}
@@ -3890,7 +3890,7 @@ china_acquire_state = {
 			AND = {
 				any_owned_province = {
 					NOT = {	is_core = THIS }
-					is_core = CHI
+					is_core = CHN
 					owner = { civilized = yes }
 				}
 				year = 1900
@@ -3898,20 +3898,20 @@ china_acquire_state = {
 			AND = {
 				any_owned_province = {
 					NOT = {	is_core = THIS }
-					is_core = CHI
+					is_core = CHN
 				}
 				THIS = { ai = no }
 			}
 			AND = {
 				any_owned_province = {
 					NOT = {	is_core = THIS }
-					is_core = CHI
+					is_core = CHN
 					owner = { civilized = no }
 				}
 			}
 			any_owned_province = {
 				owner = { is_culture_group = east_asian }
-				NOT = { is_core = CHI }
+				NOT = { is_core = CHN }
 			}
 		}
 	}

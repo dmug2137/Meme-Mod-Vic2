@@ -5,12 +5,7 @@ trade_goods = timber
 life_rating = 42
 terrain = moscow
 fort = 1
-1861.1.1 = {
-	state_building = {
-		level = 1
-		building = fabric_factory
-		upgrade = yes
-	}
+
 	state_building = {
 		level = 1
 		building = lumber_mill
@@ -22,4 +17,4 @@ fort = 1
 		upgrade = yes
 	}   
 }
-1861.1.1 = { railroad = 2 }
+

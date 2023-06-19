@@ -3,4 +3,4 @@ controller = BUR
 add_core = BUR
 trade_goods = sulphur
 life_rating = 30
-1861.1.1 = { railroad = 3 }
+

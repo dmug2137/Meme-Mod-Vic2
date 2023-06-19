@@ -1,5 +1,7 @@
 owner = PLC
 controller = PLC
 add_core = PLC
+add_core = RUT
+add_core = LAT
 trade_goods = wool
 life_rating = 35

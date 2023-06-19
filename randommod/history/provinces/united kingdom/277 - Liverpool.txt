@@ -1,6 +1,7 @@
 owner = NSE
 controller = NSE
 add_core = NSE
+add_core = ENL
 trade_goods = fish
 life_rating = 40
 terrain = liverpool
@@ -34,9 +35,6 @@ state_building = {
 	upgrade = yes
 }
 naval_base = 2
-1861.1.1 = { 
-	railroad = 3 
-	naval_base = 2
-}
+
 
 add_core = ENL

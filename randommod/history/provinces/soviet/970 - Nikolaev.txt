@@ -1,5 +1,6 @@
 owner = GOT
 controller = GOT
 add_core = GOT
+add_core = RUT
 trade_goods = fish
 life_rating = 35

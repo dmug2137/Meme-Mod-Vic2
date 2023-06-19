@@ -1,7 +1,8 @@
 owner = DAN
 controller = DAN
 add_core = DAN
+add_core = GER
 trade_goods = fruit
 life_rating = 40
 terrain = stuttgart
-1861.1.1 = { railroad = 3 }
+

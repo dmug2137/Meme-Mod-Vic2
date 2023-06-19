@@ -920,4 +920,96 @@ TST_hms_government;Duchy of Tirol;Duchy of Tirol;Duchy of Tirol;;;;;;;;;;;x
 TST_democracy;Republic of Tirol;Republic of Tirol;Republic of Tirol;;;;;;;;;;;x
 TST_federal_democracy;Republic of Tirol;Republic of Tirol;Republic of Tirol;;;;;;;;;;;x
 TST_theocracy;Tirol;Tirol;Tirol;;;;;;;;;;;x
-TST_french_bourbon;Tirol;Tirol;Tirol;;;;;;;;;;;x
+TST_french_bourbon;Tirol;Tirol;Tirol;;;;;;;;;;;x
+PLC_conservative;Crown Coalition;Crown Coalition;Crown Coalition;;;;;;;;;;;x
+PLC_liberal;Trinational Party;Trinational Party;Trinational Party;;;;;;;;;;;x
+PLC_reactionary;Arelat Party;Arelat Party;Arelat Party;;;;;;;;;;;x
+PLC_anarcho_liberal;The Korwin Confederation;The Korwin Confederation;The Korwin Confederation;;;;;;;;;;;x
+PLC_socialist;PPS;PPS;PPS;;;;;;;;;;;x
+PLC_communist;PZPR;PZPR;PZPR;;;;;;;;;;;x
+PLC_fascist;ONR-Falanga;ONR-Falanga;ONR-Falanga;;;;;;;;;;;x
+MEC_conservative;Nacionalni Volkspartaj;Nacionalni Volkspartaj;Nacionalni Volkspartaj;;;;;;;;;;;x
+MEC_liberal;Nasch Hajm;Nasch Hajm;Nasch Hajm;;;;;;;;;;;x
+MEC_reactionary;Panslaviani;Panslaviani;Panslaviani;;;;;;;;;;;x
+MEC_anarcho_liberal;Radikali;Radikali;Radikali;;;;;;;;;;;x
+MEC_socialist;Arbajdspartaj;Arbajdspartaj;Arbajdspartaj;;;;;;;;;;;x
+MEC_communist;Gezelschaft Leviatan - Levica;Gezelschaft Leviatan - Levica;Gezelschaft Leviatan - Levica;;;;;;;;;;;x
+MEC_fascist;Partaj Neosocialismusa;Partaj Neosocialismusa;Partaj Neosocialismusa;;;;;;;;;;;x
+USA;Cascadia;Cascadia;Cascadia;;;;;;;;;;;x
+USA_proletarian_dictatorship;balls empire;balls empire;balls empire;;;;;;;;;;;x
+USA_presidential_dictatorship;Cascadian Republic;Cascadian Republic;Cascadian Republic;;;;;;;;;;;x
+USA_colonial_company;Carpathia;Carpathia;Carpathia;;;;;;;;;;;x
+USA_dominion;Carpathia;Carpathia;Carpathia;;;;;;;;;;;x
+USA_bourgeois_dictatorship;Cascadian Republic;Cascadian Republic;Cascadian Republic;;;;;;;;;;;x
+USA_fascist_dictatorship;Femboy Empire;Femboy Empire;Femboy Empire;;;;;;;;;;;x
+USA_absolute_monarchy;Cascadian Empire;Cascadian Empire;Cascadian Empire;;;;;;;;;;;x
+USA_prussian_constitutionalism;Cascadian Empire;Cascadian Empire;Cascadian Empire;;;;;;;;;;;x
+USA_hms_government;Cascadian Empire;Cascadian Empire;Cascadian Empire;;;;;;;;;;;x
+USA_democracy;Cascadian Republic;Cascadian Republic;Cascadian Republic;;;;;;;;;;;x
+USA_federal_democracy;Cascadian Republic;Cascadian Republic;Cascadian Republic;;;;;;;;;;;x
+USA_theocracy;Cascadia;Cascadia;Cascadia;;;;;;;;;;;x
+USA_french_bourbon;Cascadia;Cascadia;Cascadia;;;;;;;;;;;x
+FSA;Liberia;Liberia;Liberia;;;;;;;;;;;x
+FSA_proletarian_dictatorship;liberal land;liberal land;liberal land;;;;;;;;;;;x
+FSA_presidential_dictatorship;Liberia;Liberia;Liberia;;;;;;;;;;;x
+FSA_colonial_company;Liberia;Liberia;Liberia;;;;;;;;;;;x
+FSA_dominion;Liberia;Liberia;Liberia;;;;;;;;;;;x
+FSA_bourgeois_dictatorship;Liberia;Liberia;Liberia;;;;;;;;;;;x
+FSA_fascist_dictatorship;Pvtriots;Pvtriots;Pvtriots;;;;;;;;;;;x
+FSA_absolute_monarchy;Liberian Empire;Liberian Empire;Liberian Empire;;;;;;;;;;;x
+FSA_prussian_constitutionalism;Liberian Empire;Liberian Empire;Liberian Empire;;;;;;;;;;;x
+FSA_hms_government;Liberian Empire;Liberian Empire;Liberian Empire;;;;;;;;;;;x
+FSA_democracy;Liberia;Liberia;Liberia;;;;;;;;;;;x
+FSA_federal_democracy;Liberia;Liberia;Liberia;;;;;;;;;;;x
+FSA_theocracy;Liberia;Liberia;Liberia;;;;;;;;;;;x
+FSA_french_bourbon;Liberia;Liberia;Liberia;;;;;;;;;;;x
+CAN;Hvperborea;Hvperborea;Hvperborea;;;;;;;;;;;x
+CAN_proletarian_dictatorship;Svcivlst Hvperborea;Svcivlst Hvperborea;Svcivlst Hvperborea;;;;;;;;;;;x
+CAN_presidential_dictatorship;Hvperborea;Hvperborea;Hvperborea;;;;;;;;;;;x
+CAN_colonial_company;Hvperborea;Hvperborea;Hvperborea;;;;;;;;;;;x
+CAN_dominion;Hvperborea;Hvperborea;Hvperborea;;;;;;;;;;;x
+CAN_bourgeois_dictatorship;Hvperborea;Hvperborea;Hvperborea;;;;;;;;;;;x
+CAN_fascist_dictatorship;Hvpvrbvrvv;Hvpvrbvrvv;Hvpvrbvrvv;;;;;;;;;;;x
+CAN_absolute_monarchy;Hvperborean Imperivm;Hvperborean Imperivm;Hvperborean Imperivm;;;;;;;;;;;x
+CAN_prussian_constitutionalism;Hvperborean Imperivm;Hvperborean Imperivm;Hvperborean Imperivm;;;;;;;;;;;x
+CAN_hms_government;Hvperborean Imperivm;Hvperborean Imperivm;Hvperborean Imperivm;;;;;;;;;;;x
+CAN_democracy;Hvperborea;Hvperborea;Hvperborea;;;;;;;;;;;x
+CAN_federal_democracy;Hvperborea;Hvperborea;Hvperborea;;;;;;;;;;;x
+CAN_theocracy;Hvperborea;Hvperborea;Hvperborea;;;;;;;;;;;x
+CAN_french_bourbon;Hvperborea;Hvperborea;Hvperborea;;;;;;;;;;;x
+ACA;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_proletarian_dictatorship;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_presidential_dictatorship;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_colonial_company;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_dominion;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_bourgeois_dictatorship;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_fascist_dictatorship;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_absolute_monarchy;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_prussian_constitutionalism;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_hms_government;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_democracy;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_federal_democracy;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_theocracy;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+ACA_french_bourbon;New Sweden;New Sweden;New Sweden;;;;;;;;;;;x
+QUE;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_proletarian_dictatorship;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_presidential_dictatorship;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_colonial_company;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_dominion;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_bourgeois_dictatorship;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_fascist_dictatorship;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_absolute_monarchy;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_prussian_constitutionalism;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_hms_government;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_democracy;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_federal_democracy;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_theocracy;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+QUE_french_bourbon;Khaganate of Finland;Khaganate of Finland;Khaganate of Finland;;;;;;;;;;;x
+TMR;Timor;Timor;Timor;;;;;;;;;;;x
+CRL;Chitral;Chitral;Chitral;;;;;;;;;;;x
+AGC;Angoche;Angoche;Angoche;;;;;;;;;;;x
+ZBW;Zimbabwe;Zimbabwe;Zimbabwe;;;;;;;;;;;x
+ASH;Ashanti;Ashanti;Ashanti;;;;;;;;;;;x
+SHK;Shilluk;Shilluk;Shilluk;;;;;;;;;;;x
+KML;East Turkestan;East Turkestan;East Turkestan;;;;;;;;;;;x
+

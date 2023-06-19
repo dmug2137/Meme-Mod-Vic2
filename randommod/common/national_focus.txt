@@ -85,6 +85,17 @@ rail_focus = { #Now called Colonial Policy
 			is_overseas = yes
 		}
 	}
+
+	metropolis = {
+		life_rating = -1000
+		icon = 2
+		limit = {
+			is_core = THIS
+			is_colonial = no
+			owner = { ai = no }
+			owner = { NOT = { has_country_modifier = city_cooldown } }
+		}
+	}
 }
 
 immigration_focus = {
@@ -92,6 +103,7 @@ immigration_focus = {
 		immigrant_attract = 0.5 #increases attractiveness to immigrants by 50 %
 		icon = 8
 		limit = {
+			owner = { ai = no }
 			NOT = { state_scope = { any_owned_province = { NOT = { controlled_by = THIS } } } }
 			owner = { number_of_states = 2 }
 		}

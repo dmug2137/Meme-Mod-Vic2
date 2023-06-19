@@ -1,6 +1,7 @@
 owner = RHI
 controller = RHI
 add_core = RHI
+add_core = GER
 add_core = SWI
 trade_goods = fruit
 life_rating = 32
@@ -20,12 +21,5 @@ state_building = {
 	upgrade = yes
 }
 
-1861.1.1 = { 
-	railroad = 1
 
-	state_building = {
-		level = 1
-		building = fabric_factory
-		upgrade = yes
- 	}
 }

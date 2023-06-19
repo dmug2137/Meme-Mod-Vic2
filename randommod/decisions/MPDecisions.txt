@@ -1,0 +1,33 @@
+political_decisions = {
+	found_new_city = {
+		picture = budapest_city
+		potential = {
+			ai = no
+			civilized = yes
+		}
+		allow = {
+			war = no
+			money = 1500000
+			state_n_government = 1
+			central_bank_money_bill_printing = 1
+			iron_railroad = 1
+			NOT = { has_country_modifier = city_cooldown }
+			NOT = { has_country_flag = foundCityFlag }
+			any_owned_province = {
+				NOT = { life_rating = 1 }
+			}
+		}
+		effect = {
+			random_owned = {
+				limit = {
+					NOT = { life_rating = 1 }
+				}
+				add_province_modifier = {
+					name = marked_state
+					duration = -1
+				}
+			}
+			set_country_flag = foundCityFlag
+		}
+	}
+}

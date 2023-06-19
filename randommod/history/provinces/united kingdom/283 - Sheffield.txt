@@ -1,6 +1,7 @@
 owner = NSE
 controller = NSE
 add_core = NSE
+add_core = ENL
 trade_goods = coal
 life_rating = 35
 terrain = sheffield
@@ -8,6 +9,6 @@ party_loyalty = {
 	ideology = liberal
 	loyalty_value = 20
 }
-1861.1.1 = { railroad = 3 }
+
 
 add_core = ENL

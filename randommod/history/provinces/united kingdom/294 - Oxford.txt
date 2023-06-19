@@ -1,6 +1,7 @@
 owner = NSE
 controller = NSE
 add_core = NSE
+add_core = ENL
 trade_goods = grain
 life_rating = 35
 party_loyalty = {
@@ -15,6 +16,6 @@ party_loyalty = {
 	ideology = reactionary
 	loyalty_value = 5
 }
-1861.1.1 = { railroad = 3 }
+
 
 add_core = ENL

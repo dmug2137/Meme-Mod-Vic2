@@ -618,13 +618,13 @@
 
     soldiers = {
         culture = beifaren
-        religion = protestant
+        religion = mormon
         size = 12270
     }
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mormon
         size = 60540
     }
 
@@ -2258,25 +2258,25 @@
 
     aristocrats = {
         culture = hakka
-        religion = protestant
+        religion = mormon
         size = 435
     }
 
     clergymen = {
         culture = hakka
-        religion = protestant
+        religion = mormon
         size = 225
     }
 
     artisans = {
         culture = hakka
-        religion = protestant
+        religion = mormon
         size = 1110
     }
 
     soldiers = {
         culture = hakka
-        religion = protestant
+        religion = mormon
         size = 225
     }
 
@@ -2288,7 +2288,7 @@
 
     farmers = {
         culture = hakka
-        religion = protestant
+        religion = mormon
         size = 20205
     }
 
@@ -2752,7 +2752,7 @@
 
     farmers = {
         culture = hakka
-        religion = protestant
+        religion = mormon
         size = 825
     }
 }
@@ -3212,12 +3212,6 @@
     }
 
     slaves = {
-        culture = ovimbundu
-        religion = animist
-        size = 150
-    }
-
-    slaves = {
         culture = hakka
         religion = mahayana
         size = 120
@@ -3471,7 +3465,7 @@
 
     farmers = {
         culture = zhuang
-        religion = protestant
+        religion = mormon
         size = 6000
     }
 
@@ -3525,7 +3519,7 @@
 
     farmers = {
         culture = yue
-        religion = protestant
+        religion = mormon
         size = 600
     }
 
@@ -3561,7 +3555,7 @@
 
     farmers = {
         culture = miao
-        religion = protestant
+        religion = mormon
         size = 600
     }
 }
@@ -6571,7 +6565,7 @@
 2221 = {
     aristocrats = {
         culture = hakka
-        religion = protestant
+        religion = mormon
         size = 6900
     }
 
@@ -6595,7 +6589,7 @@
 
     artisans = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 6600
     }
 
@@ -6613,7 +6607,7 @@
 
     artisans = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 6600
     }
 
@@ -6625,7 +6619,7 @@
 
     soldiers = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 5400
     }
 
@@ -6637,7 +6631,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 25680
     }
 
@@ -6727,7 +6721,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mormon
         size = 1200
     }
 
@@ -6923,7 +6917,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 3000
     }
 
@@ -6959,7 +6953,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mormon
         size = 600
     }
 }
@@ -6997,7 +6991,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 3900
     }
 }
@@ -7513,7 +7507,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 1200
     }
 
@@ -7561,7 +7555,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mormon
         size = 3600
     }
 }
@@ -12397,7 +12391,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 120
     }
 }
@@ -12435,7 +12429,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mormon
         size = 300
     }
 
@@ -12471,7 +12465,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 60
     }
 }
@@ -12631,7 +12625,7 @@
 
     farmers = {
         culture = beifaren
-        religion = protestant
+        religion = mormon
         size = 300
     }
 
@@ -12667,7 +12661,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 300
     }
 }
@@ -12741,7 +12735,7 @@
 
     farmers = {
         culture = nanfaren
-        religion = protestant
+        religion = mormon
         size = 1800
     }
 }
