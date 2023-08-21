@@ -1,0 +1,31 @@
+political_decisions = {
+	form_zapadoslavia = {
+		potential = {
+			tag = SLV
+		}
+
+		allow = {
+			war = no			
+		}
+
+		effect = {
+			change_tag = WSF
+			PLC = { all_core = { add_core = THIS } }
+			PRU_549 = { add_core = THIS }
+			PRU_546 = { add_core = THIS }
+			SAX_558 = { add_core = THIS }
+			PRU_544 = { add_core = THIS }
+			add_accepted_culture = polish
+			add_accepted_culture = czech
+			add_accepted_culture = pomeranian
+			add_accepted_culture = pannonian
+			add_accepted_culture = western_slavic
+			add_accepted_culture = polabian
+			add_accepted_culture = silesian
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

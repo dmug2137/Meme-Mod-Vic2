@@ -50,7 +50,7 @@ upper_house = {
 }
 
 schools = unciv_tech_school
-set_country_flag = new_world_nation
+#set_country_flag = new_world_nation
 
 # Technologies
 

@@ -228,6 +228,7 @@ country_event = {
         MEC = { country_event = 50006 }
         PML = { country_event = 50006 }
         LUZ = { country_event = 50006 }
+        set_country_flag = balling
     }
 }
 
@@ -266,12 +267,12 @@ province_event = {
 
     trigger = {
 		has_province_modifier = marked_state
+        state_scope = { NOT = { total_pops = 250000 } }
 	}
 	
 	option = {
 		name = "pops my beloved,,,"
 		treasury = -1500000
-        state_scope = { NOT = { total_pops = 600000 } }
         state_scope = {
             any_owned = { limit = { is_state_capital = no } add_province_modifier = { name = invest_state_rural1 duration = 1800 }}
             any_owned = { limit = { is_state_capital = yes } add_province_modifier = { name = invest_state_capital1 duration = 1800 }}
@@ -371,5 +372,168 @@ province_event = {
         owner = {
             clr_country_flag = foundCityFlag
         }
+	}
+}
+
+country_event = {
+	id = 68000
+	title = "Gibraltar Purchase"
+	desc = "larp larp larp"
+	is_triggered_only = yes
+	
+	option = {
+		name = "i am a pussy"
+        517 = {
+            owner = {
+                country_event = 68001
+            }
+        }
+        ai_chance = {
+			factor = 80
+		}
+	}
+	
+	option = {
+		name = "nah mate i want to kill montenegro"
+        517 = { add_core = THIS }
+        treasury = 200000
+        ai_chance = {
+			factor = 20
+		}
+	}
+}
+
+country_event = {
+    id = 68001
+	title = "$FROMCOUNTRY$ asks us to sell them Gibraltar for 200000 pounds"
+	desc = "larp larp larp"
+	is_triggered_only = yes
+
+    option = {
+		name = "i am a pussy - sell them gibraltar"
+        FROM = {
+            country_event = 68002
+        }
+        treasury = 200000
+        517 = { secede_province = FROM }
+        ai_chance = {
+            factor = 80
+        }
+	}
+	
+	option = {
+		name = "FUCK YOU $FROMCOUNTRY$ - reject their offer"
+        FROM = {
+            country_event = 68003
+        }
+        ai_chance = {
+            factor = 20
+        }
+	}
+}
+
+country_event = {
+    id = 68002
+	title = "$FROMCOUNTRY$ accepted our offer"
+	desc = "larp larp larp"
+	is_triggered_only = yes
+
+    option = {
+		name = "this will be gibraltar in 2057"
+        517 = { add_core = THIS }
+	}
+}
+
+country_event = {
+    id = 68003
+	title = "$FROMCOUNTRY$ rejected our offer"
+	desc = "larp larp larp"
+	is_triggered_only = yes
+
+    option = {
+		name = ":("
+        517 = { add_core = THIS }
+        treasury = 200000
+	}
+}
+
+country_event = {
+    id = 68004
+	title = "choose focus for expansion"
+	desc = "europ or coloniel?????"
+	is_triggered_only = yes
+
+    option = {
+		name = "europ,.,,"
+        set_country_flag = europe_focus
+	}
+
+    option = {
+		name = "colniel,.,,,,"
+        set_country_flag = colonial_focus
+	}
+}
+
+country_event = {
+    id = 68005
+	title = "The fog"
+	desc = "The fog is coming"
+
+    allow_multiple_instances = no
+
+    trigger = {
+		any_owned_province = { is_core = CHN NOT = { has_province_modifier = fog } }
+        NOT = { has_country_flag = foggy }
+	}
+
+    option = {
+		name = "4 days,,,"
+        any_owned = { limit = { is_core = CHN } add_province_modifier = { name = fog duration = -1 }}
+        set_country_flag = foggy
+	}
+}
+
+country_event = {
+    id = 68006
+	title = "We Won!!~!!!~!"
+	desc = "epic"
+
+    allow_multiple_instances = no
+
+    fire_only_once = yes
+
+    trigger = {
+        tag = ELB
+		war = no
+        PML = { exists = no }
+        LUZ = { exists = no }
+        MEC = { exists = no }
+        NOT = { has_country_flag = git }
+        has_country_flag = balling
+	}
+
+    option = {
+		name = "common elbian w"
+        prestige = 5
+        set_country_flag = git
+	}
+}
+
+country_event = {
+    id = 68007
+	title = "choose da culture to accept"
+	desc = ""
+    is_triggered_only = yes
+
+    option = {
+		name = "mexicanos and centralos americanos"
+        add_accepted_culture = mexican
+        add_accepted_culture = central_american
+	}
+
+    option = {
+		name = "andeans"
+        add_accepted_culture = north_andean
+        add_accepted_culture = south_andean
 	}
 }

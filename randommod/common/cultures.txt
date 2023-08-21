@@ -1899,6 +1899,18 @@ east_asian = {
 		last_names = { Zhanshan Tiemei Shangzhi Linge Xiangying Xingde Kang'an
 		}
 	}
+	juan = {
+		color = {255 255 153}
+		first_names = { Agust�n Alberto Alejandro Alfonso �lvaro Antonio "Antonio Mar�a" Arsenio Augusto Baldomero
+		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal D�maso
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe F�lix Fernando Francisco
+		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
+		Joaqu�n Jos� "Jos� Antonio" "Jos� Manuel" "Jos� Mar�a" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicol�s Pablo Pascual
+		Pedro Rafael Raimundo Ram�n Ricardo Santiago Sebasti�n Segismundo Valeriano Vicente }
+		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye L� Tian Jiang Wei Ting Shen Fang Jin Qiu
+		}
+	}
 	beifaren = {
 		color = {145 30 30}
 		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
@@ -2207,7 +2219,7 @@ native_american = {
 }
 
 american_cultures = {
-	leader = european
+	leader = astolfo
 	is_overseas = no
 	yankee = {
 		color = {65 65 129}

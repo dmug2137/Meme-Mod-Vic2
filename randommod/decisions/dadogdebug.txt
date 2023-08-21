@@ -1,0 +1,17 @@
+political_decisions = {
+	annex_all = {
+		potential = {
+			ai = no
+		}
+
+		allow = {
+			always = yes
+		}
+
+		effect = {
+			any_country = {
+				country_event = 90200
+			}
+		}
+	}
+}

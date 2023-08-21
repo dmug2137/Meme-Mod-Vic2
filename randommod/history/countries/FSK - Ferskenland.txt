@@ -17,16 +17,6 @@ oob = "FSK.txt"
 
 
 #========================= H O U S E - O F - L O R D S =========================
-ruling_party = FSK_conservative_91
-upper_house = {
-fascist = 0
-reactionary = 30
-conservative = 60
-socialist = 0
-communist = 0
-liberal = 10
-anarcho_liberal = 0
-}
 slavery = yes_slavery
 vote_franschise = universal_weighted_voting
 upper_house_composition = state_equal_weight
@@ -51,7 +41,18 @@ school_reforms = low_schools
 penal_system = capital_punishment
 child_labor = child_labor_legal
 
-set_country_flag = new_world_nation
+ruling_party = FSK_conservative_91
+upper_house = {
+fascist = 0
+reactionary = 30
+conservative = 60
+socialist = 0
+communist = 0
+liberal = 10
+anarcho_liberal = 0
+}
+
+#set_country_flag = new_world_nation
 #========================= END OF FILE =========================
 
 post_napoleonic_thought = 1

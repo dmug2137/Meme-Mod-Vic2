@@ -1,4 +1,4 @@
-capital = 521
+capital = 503
 primary_culture = valencian
 religion = catholic
 government = hms_government

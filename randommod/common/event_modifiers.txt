@@ -1,43 +1,281 @@
-##################################################################################################
-# scriptable and usable for event-system below.
-##################################################################################################
-
-loyal_vassal = {
-    diplomatic_points_modifier = 0.1
-    icon = 5
+land_crossing_notification = {
+	icon = 24
+}
+sea_crossing_notification = {
+	icon = 23
+}
+river_notification = {
+	icon = 21
+}
+canal_notification = {
+	icon = 22
 }
 
-no_larp = {
-	max_tariff = -1
-	tax_efficiency = -1
-	industry_tech_research_bonus = -1
-	commerce_tech_research_bonus = -1
-	culture_tech_research_bonus = -1
-	prestige = -100
-	icon = 5
+grant_cooldown = {
+    icon = 12
 }
 
-being_dismantled = {
-    prestige = -0.01
-    badboy = -0.05
+jan_mayen_isolationism = {
+	global_immigrant_attract = -10
+	icon = 12
+}
+
+marked_for_colonization = {
+	icon = 12
+}
+
+costs_of_colonization = {
+	badboy = 0.01
+	tax_efficiency = -0.02
+	icon = 18
+}
+
+current_colonization = {
+	pop_militancy_modifier = 0.1
+	pop_consciousness_modifier = 0.15
+	icon = 18
+}
+
+employing_the_labourers = {
+    icon = 12
+}
+
+craftsmen_fix_cooldown = {
+    icon = 12
+}
+
+bureaucrats_fix_cooldown = {
     icon = 6
 }
 
-dismantling_country = {
-    prestige = 0.01
-    diplomatic_points_modifier = -0.01
-    icon = 5
+reactionary_uh_increased = {
+	icon = 1
 }
 
-considering_colonial_offer = {
-    diplomatic_points_modifier = -0.01
-    icon = 5
+come_all = {
+	global_immigrant_attract = 0.75
+	global_assimilation_rate = 1
+	global_population_growth = 0.001
+	icon = 9
 }
 
-colony_to_be_annexed = {
-    prestige = -0.01
-    icon = 5
+irish_investment = {
+	tax_efficiency = -0.05
+	rgo_throughput = -0.1
+	factory_output = -0.05
+	icon = 10
 }
+
+local_irish_investment = {
+	local_rgo_throughput = 0.15
+	pop_militancy_modifier = -0.02
+	icon = 13
+}
+
+shattered_economy = {
+	rgo_throughput = -0.5
+	rgo_output = -0.5
+	factory_output = -0.2
+	global_immigrant_attract = -1
+	icon = 12
+}
+
+recovering_economy = {
+	rgo_throughput = -0.25
+	rgo_output = -0.25
+	factory_output = -0.1
+	global_immigrant_attract = -0.5
+	icon = 12
+}
+
+common_land = {
+	global_population_growth = 0.001
+	rgo_output = -0.2
+	icon = 17
+}
+
+nv_cooldown = {
+	icon = 4
+}
+
+decided_colonial_policy = {
+	icon = 6
+}
+
+internally_reforming = {
+	political_reform_desire = 0.25
+	social_reform_desire = 0.25
+	global_pop_consciousness_modifier = 0.2
+	global_pop_militancy_modifier = 0.1
+	icon = 3
+}
+
+developing = {
+	tax_efficiency = -0.15
+	RGO_output = -0.25
+	factory_output = -0.25
+	diplomatic_points_modifier = -0.5
+}
+
+fascist_cartels = {
+	factory_throughput = -0.2
+	poor_life_needs = -0.15
+	core_pop_militancy_modifier = -0.05
+	core_pop_consciousness_modifier = -0.15
+	pop_promotion_chance = -0.4
+	icon = 12
+}
+
+promise_against_expansion = {
+	badboy = 0.1
+}
+
+lost_the_tarrif_war = {
+	max_tariff = -0.75
+}
+
+gas_warfare = {
+	badboy = 0.02
+	icon = 15
+}
+
+##### Immigration Campaigns ######
+
+immigration_pull_low = {
+	immigrant_attract = 0.5
+	badboy = 0.01
+	tax_efficiency = -0.05
+	global_pop_consciousness_modifier = 0.01
+	icon = 9
+}
+
+immigration_pull_high = {
+	immigrant_attract = 1
+	badboy = 0.02
+	tax_efficiency = -0.1
+	global_pop_consciousness_modifier = 0.03
+	icon = 9
+}
+
+recently_selected_immigration = {
+    icon = 2
+}
+
+recently_requested_trade = {
+	icon = 9
+}
+
+infamy_grant_cooldown = {
+	icon = 12
+}
+
+#transfer_rp_debuff = {	#applicable decision also currently commented out as a result of no RP from conquest update
+#	research_points_on_conquer = -2
+#	icon = 12
+#}
+
+mass_literacy_in_progress = {
+	administrative_efficiency_modifier = -0.15
+	badboy = 0.03
+	icon = 3
+}
+
+##############################
+
+capital_mobilisation = {
+	supply_limit = 1000
+	icon = 17
+}
+
+###
+
+trolling_the_med = {
+	tariff_efficiency_modifier = 0.2
+	import_cost = -0.1
+	prestige = 0.05
+	icon = 9
+}
+
+med_getting_trolled = {
+	tariff_efficiency_modifier = -0.1
+	import_cost = 0.1
+	prestige = -0.05
+	icon = 10
+}
+
+### Haiti stuff ###
+
+reps_haiti = {
+	rich_income_modifier = 5
+	icon = 3
+}
+
+USA_blockade = {
+	import_cost = 2
+	loan_interest = 2
+	tariff_efficiency_modifier = -0.20
+	diplomatic_points_modifier = -0.3
+	icon = 3
+}
+
+HAI_mass_reforms = {
+	core_pop_militancy_modifier = 0.1
+	tax_efficiency = -0.05
+	assimilation_rate = -0.1
+	icon = 3
+}
+
+toussaints_legacy = {
+	research_points_modifier = 0.025
+	core_pop_militancy_modifier = -0.01
+	global_population_growth = 0.003
+	rgo_throughput = 0.1
+	factory_throughput = 0.05
+	mobilisation_size = 0.25
+	land_defense_modifier = 0.1
+   	land_organisation = 0.1
+	education_efficiency_modifier = 0.01
+	rich_income_modifier = 1.5
+	middle_income_modifier = 2
+	poor_income_modifier = 2.5
+	icon = 1
+}
+
+equal_rule = {
+	poor_vote = 0.05
+	middle_vote = 0.02
+	rich_vote = -0.01
+	core_pop_militancy_modifier = -0.02
+	global_immigrant_attract = 0.05
+	tax_efficiency = 0.01
+	icon = 7
+}
+
+death_war = {
+	population_growth = -0.1
+   	land_organisation = 0.3
+    mobilisation_size = 0.50
+    mobilisation_economy_impact = -0.7
+    core_pop_militancy_modifier = -0.1
+    war_exhaustion = -0.03
+    org_regain = 1
+    supply_consumption = -0.95
+    import_cost = 2.5
+    icon = 7
+}
+
+scorched_earth = {
+	population_growth = -0.1
+	supply_limit = -0.95
+	immigrant_attract = -1
+	immigrant_push = 10
+	pop_militancy_modifier = 0.75
+	icon = 7
+}
+
+##################################################################################################
+# scriptable and usable for event-system below.
+##################################################################################################
 
 french_liberal_school = {
 	max_tariff = -0.25
@@ -102,11 +340,8 @@ monthly_payment_made = {
 }
 
 total_reform = {
-	education_efficiency_modifier = 0.75
-	administrative_efficiency_modifier = 0.3
-	land_organisation = 0.05
-	land_unit_start_experience = 1
-	mobilisation_size = 0.01
+	education_efficiency_modifier = 0.2
+	administrative_efficiency_modifier = 0.1
 	icon = 3
 }
 
@@ -124,11 +359,6 @@ native_removal_act_policy = {
 	badboy = 0.02
 	icon = 18
 }
-
-#local_trinket_health_care = {
-#	#population_growth = 0.002
-#	icon = 19
-#}
 
 ##Disasters
 earthquake_devastation = {
@@ -148,7 +378,7 @@ earthquake_devastation = {
 open_homesteading = {
 	life_rating = 0.5
 	assimilation_rate = 0.4
-	immigrant_attract = 0.5
+	immigrant_attract = 0.25
 	icon = 11
 }
 
@@ -171,7 +401,7 @@ transvaal_civil_war = {
 }
 
 opened_frontiers = {
-	global_immigrant_attract = 4.1		#410%
+	global_immigrant_attract = 0.5
 	global_assimilation_rate = 0.1
 	icon = 17
 }
@@ -318,26 +548,6 @@ international_zone_modifier = {
 	icon = 7
 }
 
-isolationist_foreign_naval_officers = {
-	research_points_on_conquer = -0.25
-	icon = 16
-}
-
-isolationist_foreign_officers = {
-	research_points_on_conquer = -0.25
-	icon = 16
-}
-
-isolationist_foreign_naval_schools = {
-	research_points_on_conquer = -0.25
-	icon = 16
-}
-
-isolationist_foreign_training = {
-	research_points_on_conquer = -0.25
-	icon = 16
-}
-
 preparations_for_war = {
 	badboy = 0.01
 	icon = 16
@@ -385,7 +595,8 @@ indian_territory = {
 
 reconstruction = {
 	assimilation_rate = 0.20
-	life_rating = -0.1
+	local_RGO_throughput = -0.25
+	local_factory_throughput = -0.1
 	immigrant_attract = 0.05
 	pop_consciousness_modifier = 0.05
 	pop_militancy_modifier = 0.02
@@ -399,7 +610,6 @@ divided_society = {
 
 corrupt_army = {
 	land_organisation = -0.05
-	goods_demand = -0.6
 	naval_organisation = -0.05
 	org_regain = -0.05
 	supply_consumption = 0.1
@@ -493,10 +703,10 @@ trade_city = {
 }
 
 peacetime_mobilization = {
-	ruling_party_support = -0.40
-	loan_interest = 1
-	cb_generation_speed_modifier = -0.2
-	war_exhaustion = 0.05
+	#ruling_party_support = -0.40
+	#loan_interest = 1
+	#cb_generation_speed_modifier = -0.2
+	#war_exhaustion = 0.25
 	prestige = -0.05
 	icon = 6
 }
@@ -542,7 +752,7 @@ monument_under_construction = {
 
 recently_built_city = {
 	immigrant_attract = 0.5
-	population_growth = 0.01
+	population_growth = 0.001
 	icon = 11
 }
 
@@ -596,14 +806,6 @@ rebuilding_city = {
 	icon = 11
 }
 
-slave_growth = {
-	icon = 17
-}
-
-catholic_growth = {
-	icon = 17
-}
-
 assegai = {
 	mobilisation_size = 0.35
 	mobilisation_economy_impact = -0.7
@@ -625,8 +827,8 @@ polish_spirit = {
 	local_RGO_output = -0.5
 	local_factory_output = -0.5
 	assimilation_rate = -0.25	
-	non_accepted_pop_consciousness_modifier = 0.1
-	non_accepted_pop_militancy_modifier = 0.05
+	pop_consciousness_modifier = 0.1
+	pop_militancy_modifier = 0.05
 	icon = 20
 }
 
@@ -703,38 +905,37 @@ caudillo_leaders = {
 }
 
 kinda_bad_badboy = {
-	import_cost = 2
-	loan_interest = 3
-	diplomatic_points_modifier = -0.3
-	factory_owner_cost = 0.3
-	global_immigrant_attract = -0.5
-	non_accepted_pop_consciousness_modifier = 0.4
-	non_accepted_pop_militancy_modifier = 0.2
-	political_reform_desire = 0.5
-	cb_generation_speed_modifier = -0.1
+	import_cost = 4
+	loan_interest = 4
+	tariff_efficiency_modifier = -0.40
+	diplomatic_points_modifier = -0.6
+	factory_owner_cost = 1
+	RGO_throughput = -0.25
+	factory_throughput = -0.25
+	global_immigrant_attract = -2.0
+	org_regain = -0.25
+	land_organisation = -0.25
+	naval_organisation = -0.25
+	prestige = -0.1
+	research_points_modifier = -0.3
 	icon = 8
 }
 
 
 bad_badboy = {
-	import_cost = 4
-	loan_interest = 4
-	tariff_efficiency_modifier = -0.40
-	mobilisation_economy_impact = 1
-	diplomatic_points_modifier = -0.6
-	factory_owner_cost = 1
-	global_immigrant_attract = -2.0
-	global_pop_consciousness_modifier = 0.05
-	non_accepted_pop_consciousness_modifier = 0.8
-	non_accepted_pop_militancy_modifier = 0.4
-	political_reform_desire = 0.8
-	org_regain = -0.1
-	land_organisation = -0.1
-	naval_organisation = -0.1
-	prestige = -0.06
-	war_exhaustion = 0.9
-	research_points_modifier = -0.2
-	cb_generation_speed_modifier = -0.3
+	import_cost = 8
+	loan_interest = 8
+	tariff_efficiency_modifier = -0.80
+	diplomatic_points_modifier = -1.2
+	factory_owner_cost = 2
+	RGO_throughput = -0.5
+	factory_throughput = -0.5
+	global_immigrant_attract = -4.0
+	org_regain = -0.5
+	land_organisation = -0.5
+	naval_organisation = -0.5
+	prestige = -0.2
+	research_points_modifier = -0.6
 	icon = 8
 }
 
@@ -764,13 +965,13 @@ bigben_construction = {
 	icon = 11
 }
 
-small_immigration_boom = {
-	global_immigrant_attract = 1
+small_immigration_boom_global = {
+	global_immigrant_attract = 0.5
 	icon = 17
 }
 
 land_of_opportunity = {
-	global_immigrant_attract = 4.5
+	global_immigrant_attract = 0.75
 	icon = 13
 }
 
@@ -781,9 +982,9 @@ swiss_banking = {
 }
 
 freedom_of_religion = {
-	global_pop_militancy_modifier = -0.01
+	global_pop_militancy_modifier = -0.02
 	global_pop_consciousness_modifier = 0.01
-	global_immigrant_attract = 0.3
+	global_immigrant_attract = 0.75
 	global_assimilation_rate = 0.1
 	icon = 5
 }
@@ -881,7 +1082,7 @@ academic_confusion = {
 liberal_agitation = {
 	pop_consciousness_modifier = 0.2
 	pop_militancy_modifier = 0.05
-	immigrant_push = 0.75
+	#immigrant_push = 0.25
 	icon = 4
 }
 
@@ -946,8 +1147,8 @@ missionary_activity = {
 }
 
 western_influences = {
-	global_pop_militancy_modifier = 0.05
-	global_pop_consciousness_modifier = 0.05
+	global_pop_militancy_modifier = 0.1
+	global_pop_consciousness_modifier = 0.1
 	research_points_modifier = 0.2
 	icon = 10
 }
@@ -960,6 +1161,7 @@ uncivilized_isolationism = {
 	min_tariff = 0.5
 	prestige = -0.01
 	cb_generation_speed_modifier = -0.25
+	#research_points_on_conquer = -0.25
 	icon = 10
 }
 
@@ -975,17 +1177,13 @@ western_presence = {
 }
 
 foreign_smugglers = {
-	poor_life_needs = -0.05
-	middle_life_needs = -0.05
-	rich_life_needs = -0.05
+	local_artisan_output = 0.05
 	pop_militancy_modifier = 0.05
 	icon = 12
 }
 
 foreign_trading_post = {
-	poor_life_needs = -0.1
-	middle_life_needs = -0.1
-	rich_life_needs = -0.1
+	local_artisan_output = 0.05
 	pop_militancy_modifier = 0.05
 	icon = 11
 }
@@ -1045,29 +1243,34 @@ colonial_mismanagement = {
 colonial_recruitment = {
 	immigrant_attract = 1		#100%
 	life_rating = 0.1
-	population_growth = 0.01
+	#population_growth = 0.01
 	assimilation_rate = 0.25
 	icon = 9
 }
 
 small_baby_boom = {
-	population_growth = 0.002
+	population_growth = 0.001
 	icon = 19
 }
 
 baby_boom = {
-	population_growth = 0.006
+	population_growth = 0.003
 	icon = 19
 }
 
 global_baby_boom = {
-	global_population_growth = 0.006
+	global_population_growth = 0.003
 	icon = 17
 }
 
 global_baby_boom_small = {
-	global_population_growth = 0.002
+	global_population_growth = 0.001
 	icon = 17
+}
+
+california_population_boom = {
+	immigrant_attract = 0.5
+	icon = 19
 }
 
 loyal_askaris = {
@@ -1108,7 +1311,7 @@ female_suffrage = {
 	middle_vote = 0.02
 	rich_vote = -0.01
 	core_pop_militancy_modifier = -0.02
-	global_immigrant_attract = 0.05
+	global_immigrant_attract = 0.4
 	icon = 7
 }
 
@@ -1130,7 +1333,7 @@ militant_trade_union = {
 
 worker_union = {
 	pop_consciousness_modifier = 0.1
-	poor_everyday_needs = -0.1
+	pop_militancy_modifier = -0.02
 	farm_rgo_eff = -0.05
 	mine_rgo_eff = -0.05
 	icon = 4
@@ -1164,7 +1367,6 @@ may_day = {
 #worker_revolt = {
 #	farm_rgo_eff = -0.2
 #	mine_rgo_eff = -0.2
-#	poor_everyday_needs = -0.1
 #	icon = 20
 #}
 
@@ -1190,8 +1392,7 @@ the_massacre = {
 }
 
 fascist_welfare = {
-	poor_everyday_needs = -0.1
-	population_growth = 0.001
+	#population_growth = 0.001
 	pop_militancy_modifier = -0.05
 	icon = 12
 }
@@ -1376,15 +1577,15 @@ anaconda_plan = {
 }
 
 the_homestead_act = {
-	global_immigrant_attract = 0.5	#50%
+	global_immigrant_attract = 0.5
 	global_assimilation_rate = 0.5
 	core_pop_militancy_modifier = -0.05
 	icon = 9
 }
 
 the_slavery_debate = {
-	global_pop_consciousness_modifier = 0.06
-	global_pop_militancy_modifier = 0.03
+	global_pop_consciousness_modifier = 0.05
+	global_pop_militancy_modifier = 0.01
 	icon = 4
 }
 
@@ -1450,7 +1651,6 @@ liquor_prohibition = {
 
 ##### NATIONALIST UPRISINGS #####
 minority_building_restrictions = {
-	non_accepted_pop_militancy_modifier = 0.05
 	assimilation_rate = 0.05
 	icon = 16
 }
@@ -1498,7 +1698,7 @@ international_negotiations = {
 
 the_statue_of_liberty = {
 	prestige = 0.01
-	global_immigrant_attract = 0.5	#100%
+	global_immigrant_attract = 0.5
 	global_assimilation_rate = 0.5
 	icon = 15
 }
@@ -1549,7 +1749,7 @@ ruhr_boom = {
 }
 
 ruhr_boom_city = {
-	population_growth = 0.01
+	population_growth = 0.001
 	immigrant_attract = 1.5
 	icon = 13
 }
@@ -1560,9 +1760,17 @@ prussian_general_staff = {
 	mobilisation_economy_impact = -0.25
 	land_unit_start_experience = 10
 	supply_consumption = -0.05
-	mobilisation_size = 0.05
+	mobilisation_size = 0.025
 	icon = 15
 }
+
+austrian_diplomatic_corps = {
+	prestige = 0.01
+	badboy = -0.05
+	influence_modifier = 0.25
+	icon = 17
+}
+	
 
 ##### Boer War #####
 trek_boers = {
@@ -1611,20 +1819,20 @@ local_tractors = {
 }
 
 local_nitroglycerin_and_machine_tools = {
-	mine_RGO_eff = 0.5
+	mine_RGO_eff = 0.75
 	mine_RGO_size = 0.5
 	icon = 13
 }
 
 local_distribution_channels_und_electricity = {
-	farm_RGO_eff = 0.5
-	mine_RGO_eff = 0.5
+	farm_RGO_eff = 0.75
+	mine_RGO_eff = 0.75
 	local_factory_throughput = 0.05
 	icon = 11
 }
 
 local_electricity = {
-	mine_RGO_eff = 0.5
+	mine_RGO_eff = 0.75
 	local_factory_throughput = 0.05
 	icon = 13
 }
@@ -1780,10 +1988,9 @@ puppet_rhineland = {
 
 #### SWI - Switzerland ####
 signed_the_geneva_convention = {
-	war_exhaustion = -0.02
-	org_regain = 0.05
+	war_exhaustion = -0.05
+	cb_generation_speed_modifier = -0.1
 	badboy = 0.01
-	land_attrition = -0.02
 	icon = 7
 }
 
@@ -1909,12 +2116,10 @@ peasant_revolt = {
 
 war_torn = {
 	local_ruling_party_support = -0.5
-	#pop_militancy_modifier = -0.1
 	local_factory_output = -0.25
 	local_rgo_output = -0.25
 	immigrant_attract = -0.25
 	immigrant_push = 0.25
-	population_growth = -0.001
 	icon = 4
 }
 
@@ -1953,7 +2158,7 @@ irish_oppression = {
 	farm_rgo_size = -0.15
 	mine_rgo_size = -0.15
 	#immigrant_attract = -0.1
-	immigrant_push = 0.75
+	immigrant_push = 0.50
 	local_factory_throughput = -0.75
 	local_factory_output = -0.5
 	local_artisan_throughput = -0.75
@@ -1965,7 +2170,7 @@ irish_potato_blight = {
 	immigrant_attract = -2
 	pop_militancy_modifier = 0.4	
 	pop_consciousness_modifier = 0.3
-	immigrant_push = 2.0
+	immigrant_push = 0.75
 	local_factory_throughput = -0.25
 	local_factory_output = -0.5
 	local_artisan_throughput = -0.25
@@ -2025,7 +2230,7 @@ boxer_rebellion = {
 	local_rgo_output = -0.25
 	immigrant_attract = -0.25
 	immigrant_push = 0.75
-	population_growth = -0.002
+	#population_growth = -0.002
 	icon = 4
 }
 
@@ -2042,13 +2247,14 @@ boxer_agitation = {
 	local_RGO_throughput = -0.25
 	immigrant_attract = -0.25
 	immigrant_push = 0.5
-	population_growth = -0.002
+	#population_growth = -0.002
 	icon = 4
 }
 
 self_strengthening_movement = {
 	prestige = 0.05
-	research_points = 2.0
+	research_points = 2
+	#research_points_on_conquer = -1.5
 	org_regain = 0.1
 	global_pop_consciousness_modifier = 0.1
 	global_pop_militancy_modifier = 0.1
@@ -2117,8 +2323,8 @@ shastar_vidya = {
 	org_regain = 0.1
 	land_organisation = 0.1
 	land_unit_start_experience = 5
-	mobilisation_size = 0.17
-	icon = 11
+	mobilisation_size = 0.10
+	icon = 15
 }
 
 ### Japan ###
@@ -2132,7 +2338,7 @@ sakoku = {
 
 rangaku = {
 	prestige = 0.035
-	research_points_modifier = 0.4
+	#research_points_modifier = 0.4
 	global_pop_militancy_modifier = -0.05
 	icon = 5
 }
@@ -2153,26 +2359,26 @@ kobu_gattai = {
 
 fukoku_kyohei = {
 	prestige = 0.01
-	research_points = 1
+	#research_points = 1
 	core_pop_consciousness_modifier = 0.05
 	core_pop_militancy_modifier = -0.05
 	icon = 3
 }
 
 line_of_advantage = {
-	org_regain = 0.25
-	leadership_modifier = 0.2
-	land_organisation = 0.1
-	naval_organisation = 0.1
+	#org_regain = 0.25
+	#leadership_modifier = 0.2
+	#land_organisation = 0.1
+	#naval_organisation = 0.1
 	cb_generation_speed_modifier = 0.2
 	icon = 15
 }
 
 no_line_of_advantage = {
-	research_points_modifier = 0.1
+	research_points_modifier = 0.05	#0.1
 	political_reform_desire = 0.1
 	cb_generation_speed_modifier = -0.2
-	rgo_output = 0.05
+	#rgo_output = 0.05
 	icon = 15
 }
 
@@ -2302,24 +2508,23 @@ dust_bowl = {
 }
 
 home_of_the_mormons = {
-	population_growth = 0.005
+	population_growth = 0.001
 	icon = 19
 }
 
 small_immigration_boom = {
-	immigrant_attract = 1.5
+	immigrant_attract = 1
 	icon = 9
 }
 
 gateway_to_harbor = {
 	immigrant_attract = 1
-	population_growth = 0.002
+	#population_growth = 0.002
 	icon = 9
 }
 
 gateway_to_america = {
 	immigrant_attract = 1.5
-	population_growth = 0.01
 	assimilation_rate = 1.5
 	icon = 19
 }
@@ -2356,7 +2561,7 @@ religious_minority_oppression = {
 gateway_to_australia = {
 	assimilation_rate = 1
 	immigrant_attract = 3
-	population_growth = 0.01
+	#population_growth = 0.01
 	icon = 9
 }
 
@@ -2387,12 +2592,6 @@ vancouver_boom = {
 	icon = 17
 }
 
-america_new_world = {
-	global_immigrant_attract = 0.5
-	global_population_growth = 0.01
-	icon = 17
-}
-
 ###HFM USA Modifiers###
 
 california_gold_rush = {
@@ -2409,7 +2608,7 @@ lone_star = {
 }
 
 manufacturing_belt_city = {
-	population_growth = 0.005
+	#population_growth = 0.005
 	local_factory_output = 0.05
 	icon = 13
 }
@@ -2420,8 +2619,7 @@ manufacturing_belt = {
 }
 
 king_cotton = {
-	local_RGO_output = 0.075
-	local_RGO_throughput = 0.075
+	local_RGO_output = 1
 	icon = 15
 }
 
@@ -2432,15 +2630,12 @@ ottoman_oppression = {
 	land_organisation = -0.05
 	global_assimilation_rate = -0.2
 	tax_efficiency = 0.15
-	#non_accepted_pop_militancy_modifier = 0.05
-	#non_accepted_pop_consciousness_modifier = 0.1
 	icon = 5
 }
 
 ottomanism_reform = {
 	non_accepted_pop_militancy_modifier = -0.05
 	core_pop_consciousness_modifier = 0.05
-	research_points_modifier = 0.05
 	icon = 15
 }
 
@@ -2513,7 +2708,7 @@ integration_refusal = {
 	assimilation_rate = -0.1
 	immigrant_attract = -0.1
 	pop_militancy_modifier = -0.02
-	icon = 7
+	icon = 8
 }
 
 core_integration = {
@@ -2521,7 +2716,6 @@ core_integration = {
 	immigrant_push = -0.25
 	immigrant_attract = 1.0
 	pop_consciousness_modifier = 0.05
-	non_accepted_pop_consciousness_modifier = 0.01
 	icon = 7
 }
 
@@ -2535,13 +2729,11 @@ national_assimilation_rejection = {
 	assimilation_rate = -0.2
 	immigrant_attract = -0.1
 	pop_militancy_modifier = 0.1
-	non_accepted_pop_militancy_modifier = 0.01
 	icon = 18
 }
 
 national_assimilation_acceptance = {
 	pop_consciousness_modifier = 0.05
-	non_accepted_pop_consciousness_modifier = 0.01
 	icon = 17
 }
 
@@ -2701,6 +2893,15 @@ otto_von_bismarck = {
 	icon = 17
 }
 
+von_beust = {
+	prestige = 0.02
+	core_pop_militancy_modifier = -0.05
+	diplomatic_points_modifier = 0.25
+	influence_modifier = 0.2
+	ruling_party_support = 0.35
+	badboy = -0.05
+}
+
 louis_napoleon_iii = {
 	prestige = 0.02
 	ruling_party_support = 1.0
@@ -2715,8 +2916,7 @@ neutrality = {
 	max_military_spending = -0.10
 	leadership_modifier = -0.7
 	diplomatic_points_modifier = -0.3
-	prestige = -1.5
-	global_immigrant_attract = 0.2
+	global_immigrant_attract = 0.25
 	icon = 7
 }
 
@@ -2817,7 +3017,7 @@ recent_crisis = {
 
 ### French Events ###
 french_cultural_unity = {
-	assimilation_rate = 3.5
+	assimilation_rate = 2
 	icon = 19
 }
 
@@ -3024,7 +3224,6 @@ immigration_boom_baltic = {
 	assimilation_rate = 0.5
 	farm_rgo_size = 0.5
 	mine_RGO_size = 0.5
-	non_accepted_pop_militancy_modifier = 0.01
 	icon = 9
 }
 
@@ -3057,7 +3256,7 @@ drang_nach_osten = {
 	immigrant_attract = 0.75
 	farm_rgo_size = 0.5
 	mine_RGO_size = 0.5
-	icon = 19
+	icon = 17
 }
 
 drang_nach_osten_country = {
@@ -3117,7 +3316,7 @@ the_eight_banners = {
 	cb_generation_speed_modifier = -1
 	war_exhaustion = -5
 	supply_consumption = -0.2
-	research_points_on_conquer = -0.5
+	#research_points_on_conquer = -0.5
 	tax_efficiency = -0.01
 	icon = 16
 }
@@ -3216,7 +3415,7 @@ rama_v = {
 eic_balance = {
 	max_tax = 0.75
 	administrative_efficiency_modifier = 0.25
-	research_points_modifier = -2.55
+	research_points_modifier = -1.25
 	leadership_modifier = 4
 	supply_consumption = -0.3
 	tax_efficiency = -0.05
@@ -3313,10 +3512,64 @@ foreign_weapons_imported = {
 	icon = 9
 }
 
-# CCH
 
-cch.recent-call-to-arms = {
-    icon = 15
+
+###More Stuff HFM###
+
+monaco_sacked_modifer = {
+	local_artisan_output = -0.5
+	local_artisan_input = -0.5
+	local_factory_output = -1
+	local_factory_input = -1
+	local_RGO_output = -0.5
+	immigrant_attract = -0.50
+	immigrant_push = 0.25
+	local_ruling_party_support = -0.1
+	population_growth = -0.2
+	icon = 18
+}
+
+underground_railroad_NAF = {
+	global_population_growth = 0.005
+	icon = 17
+}
+
+NAF_ethnic_tensions = {
+	assimilation_rate = -0.1
+	local_RGO_output = -0.1
+	pop_militancy_modifier = 0.01
+	pop_consciousness_modifier = 0.01
+	icon = 20
+}
+
+NAF_Tuskegee_Uni = {
+	research_points_modifier = 0.01
+	education_efficiency_modifier = 0.03
+	icon = 3
+}
+
+NAF_revolt_flag = {
+	icon = 18
+}
+
+NAF_uprising = {
+	pop_militancy_modifier = -0.05
+	mobilisation_size = 0.75
+	prestige = -0.02
+	war_exhaustion = -0.2
+	tax_efficiency = 0.25
+	tariff_efficiency_modifier = 0.25
+	icon = 18
+}
+
+slow_assim_modifier = {
+	global_assimilation_rate = -0.7
+	icon = 18
+}
+
+slow_assim_modifier_2 = {
+	global_assimilation_rate = -0.2
+	icon = 18
 }
 
 city_cooldown = {
@@ -3365,14 +3618,22 @@ invest_state_capital3 = { #big states
 invest_state_rural3 = {
 	immigrant_attract = 0.1
 	assimilation_rate = 0.1
-	population_growth = 0.0005
+	population_growth = 0.0008
 	icon = 19
 }
 
-grant_cooldown = {
-	icon = 12
+no_larp = {
+	tax_efficiency = -1
+	max_tariff = -1
+	prestige = -1
+	commerce_tech_research_bonus = -1
+	culture_tech_research_bonus = -1
+	industry_tech_research_bonus = -1
+	icon = 18
 }
 
-infamy_grant_cooldown = {
-	icon = 12
+fog = {
+	immigrant_push = 0.25
+	population_growth = -0.001
+	icon = 20
 }

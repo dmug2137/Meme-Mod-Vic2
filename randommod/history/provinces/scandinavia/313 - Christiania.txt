@@ -11,4 +11,4 @@ terrain = oslo
 #}
 
 
-add_core = NOR
+add_core = NRG

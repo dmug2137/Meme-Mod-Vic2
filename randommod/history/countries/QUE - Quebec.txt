@@ -53,5 +53,5 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = new_world_nation
+#set_country_flag = new_world_nation
 

@@ -1,12 +1,8 @@
 capital = 1493
-primary_culture = beifaren
-culture = nanfaren
-culture = hakka
-culture = miao
-culture = min
-culture = zhuang
+primary_culture = nanfaren
+culture = beifaren
 culture = yue
-culture = yi
+culture = hakka
 religion = mahayana
 government = democracy
 plurality = 0.0

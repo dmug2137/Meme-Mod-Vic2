@@ -1,0 +1,14 @@
+province_event = {
+	id = 90200
+	title = "getting annexed"
+	desc = "nooooooo"
+	
+	allow_multiple_instances = no
+
+    is_triggered_only = yes
+	
+	option = {
+		name = "so sad"
+		FROM = { inherit = THIS }
+	}
+}

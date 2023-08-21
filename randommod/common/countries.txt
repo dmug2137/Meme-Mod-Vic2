@@ -39,6 +39,7 @@ WEN     = "countries/WEN.txt"
 INC     = "countries/Inca.txt"
 FSK     = "countries/FSK.txt"
 IDA     = "countries/IDA.txt"
+JUA     = "countries/Juan Empire.txt"
 
 ###France Mod###
 NZF	    ="countries/French New Zealand.txt"
@@ -412,7 +413,7 @@ UBD		= "countries/United Baltic Provinces.txt"
 # Scandinavia
 DEN		= "countries/Denmark.txt"
 FIN		= "countries/Finland.txt"
-#NOR		= "countries/Norway.txt" change later to NRG - Norge
+NRG		= "countries/Norway.txt" 
 SCA		= "countries/Scandinavia.txt"
 SWE		= "countries/Sweden.txt"
 

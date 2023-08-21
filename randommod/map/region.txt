@@ -154,15 +154,15 @@ SWE_308 = { 308 305 306 307 } #Nordnoge
 
 SWE_309 = { 309 311 310 312 } #Vestlandet
 
-SWE_313 = { 313 316 314 315 } #Ostlandet
+SWE_313 = { 313 316 314 315 329 } #Ostlandet
 
 SWE_318 = { 318 317 319 320 321 } #Norrland
 
 SWE_322 = { 322 324 326 325 } #Stockholm
 
-SWE_329 = { 329 328 327 323 330 } #Goteburg
+SWE_329 = { 328 327 323 330 } #Goteburg
 
-SWE_334 = { 334 332 331 333 335 } #Malmo
+SWE_334 = { 332 331 333 } #Malmo
 
 RUS_336 = { 336 337 338 342 } #Northern Finland
 
@@ -176,7 +176,7 @@ HOL_369 = { 369 530 529 3258 528 } #Holstein
 
 SCH_370 = { 370 371 } #Schleswig
 
-DEN_372 = { 372 373 374 } #Sjaelland
+DEN_372 = { 372 373 374 334 335 } #Sjaelland
 
 
 ### Low Countries
@@ -617,7 +617,7 @@ RUS_1182 = { 1182 1183 1194 2610 2702 } #Uralsk
 
 RUS_1184 = { 1181 1184 2612 2611 } #Akmolinsk
 
-RUS_1185 = { 1185 1186 1187 1188 1197 2606 1193 } #Semireche - Zhetysu
+RUS_1185 = { 1185 1197 2606 1193 } #Semireche - Zhetysu
 
 RUS_1196 = { 1196 1204 1205 1206 686 } #Turkmenia
 
@@ -765,9 +765,9 @@ SPA_1463 = { 1463 1462 1464 } #Mindanao
 
 ### China
 
-CHI_1465 = { 1465 1466 1467 2207 } #Urga
+CHI_1465 = { 1465 1466 1467 2207 1002 } #Urga
 
-CHI_1468 = { 1468 2678 2679 2608 } #Uliastai
+CHI_1468 = { 1468 2678 2679 2608 1596 1599 } #Uliastai
 
 CHI_1470 = { 1470 1471 1473 1475 } #South Anhui
 
@@ -811,7 +811,7 @@ CHI_1545 = { 1545 1546 1549 1551 } #North Jiangxi
 
 CHI_1547 = { 1547 1548 1550 } #South Jiangxi
 
-CHI_1552 = { 1552 1002 1553 1533 } #Heilongjiang
+CHI_1552 = { 1552 1553 1533 } #Heilongjiang
 
 CHI_1557 = { 1557 1558 1556 } #Kokonor/Qinghai
 
@@ -829,7 +829,7 @@ CHI_1579 = { 1579 1577 1581 1583 } #East Sichuan
 
 CHI_1594 = { 1594 1597 1598 2607 } #Kashgar
 
-CHI_1600 = { 1600 1595 1596 1599 } #Urumqui
+CHI_1600 = { 1600 1595 1188 1187 1186 } #Urumqui
 
 CHI_1601 = { 1601 1602 1603 } #Yunnan
 

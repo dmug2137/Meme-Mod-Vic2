@@ -7858,7 +7858,7 @@
     }
 
     slaves = {
-        culture = yourba
+        culture = yoruba
         religion = sunni
         size = 1000
     }
@@ -7982,7 +7982,7 @@
     }
 
     slaves = {
-        culture = yourba
+        culture = yoruba
         religion = sunni
         size = 4000
     }
@@ -8488,7 +8488,7 @@
     }
 
     slaves = {
-        culture = kru
+        culture = western_nigritic
         religion = sunni
         size = 600
     }

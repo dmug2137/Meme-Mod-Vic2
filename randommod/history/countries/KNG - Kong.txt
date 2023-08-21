@@ -1,8 +1,5 @@
 capital = 1900
-primary_culture = dyula
-culture = senufo
-culture = mande
-culture = akan
+primary_culture = akan
 culture = western_nigritic
 religion = sunni
 government = absolute_monarchy

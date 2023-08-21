@@ -15,4 +15,4 @@ terrain = goteborg
 #	upgrade = yes
 #}
 
-add_core = NOR
+add_core = NRG

@@ -87,7 +87,7 @@ nonstate_consciousness = 1
 
 oob = "TEX_oob.txt"
 
-set_country_flag = new_world_nation
+#set_country_flag = new_world_nation
 
 1861.1.1 = {
 # Technologies
