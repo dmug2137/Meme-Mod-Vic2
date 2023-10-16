@@ -28,4 +28,4 @@ This mod is based on ccHFM: https://github.com/moretrim/ccHFM
 
 **Created this fucking abomination: Dmug, fynd1**
 
-**Special thanks to: Cato and fish 😳**
+**Special thanks to: Cato and fiSSkkur 😳**
